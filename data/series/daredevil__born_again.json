@@ -1,0 +1,61 @@
+{
+    "title": "Daredevil: Born Again",
+    "url": "https://www.diziyou.one/daredevil-born-again/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/daredevil-born-again.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "120401",
+            "sub": "https://storage.diziyou.one/episodes/120401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "120402",
+            "sub": "https://storage.diziyou.one/episodes/120402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "120403",
+            "sub": "https://storage.diziyou.one/episodes/120403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "120404",
+            "sub": "https://storage.diziyou.one/episodes/120404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "120405",
+            "sub": "https://storage.diziyou.one/episodes/120405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "120406",
+            "sub": "https://storage.diziyou.one/episodes/120406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "120407",
+            "sub": "https://storage.diziyou.one/episodes/120407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "120408",
+            "sub": "https://storage.diziyou.one/episodes/120408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120408_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "120409",
+            "sub": "https://storage.diziyou.one/episodes/120409/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120409_tr/play.m3u8"
+        }
+    ]
+}

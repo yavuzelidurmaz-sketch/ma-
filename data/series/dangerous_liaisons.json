@@ -1,0 +1,55 @@
+{
+    "title": "Dangerous Liaisons",
+    "url": "https://www.diziyou.one/dangerous-liaisons/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dangerous-liaisons.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "109401",
+            "sub": "https://storage.diziyou.one/episodes/109401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "109402",
+            "sub": "https://storage.diziyou.one/episodes/109402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "109403",
+            "sub": "https://storage.diziyou.one/episodes/109403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "109404",
+            "sub": "https://storage.diziyou.one/episodes/109404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "109405",
+            "sub": "https://storage.diziyou.one/episodes/109405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "109406",
+            "sub": "https://storage.diziyou.one/episodes/109406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "109407",
+            "sub": "https://storage.diziyou.one/episodes/109407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "109408",
+            "sub": "https://storage.diziyou.one/episodes/109408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109408_tr/play.m3u8"
+        }
+    ]
+}

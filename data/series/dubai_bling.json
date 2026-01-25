@@ -1,0 +1,55 @@
+{
+    "title": "Dubai Bling",
+    "url": "https://www.diziyou.one/dubai-bling/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dubai-bling.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "23551",
+            "sub": "https://storage.diziyou.one/episodes/23551/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23551_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "23552",
+            "sub": "https://storage.diziyou.one/episodes/23552/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23552_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "23553",
+            "sub": "https://storage.diziyou.one/episodes/23553/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23553_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "23554",
+            "sub": "https://storage.diziyou.one/episodes/23554/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23554_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "23555",
+            "sub": "https://storage.diziyou.one/episodes/23555/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23555_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "23556",
+            "sub": "https://storage.diziyou.one/episodes/23556/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23556_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "23557",
+            "sub": "https://storage.diziyou.one/episodes/23557/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23557_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "23558",
+            "sub": "https://storage.diziyou.one/episodes/23558/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23558_tr/play.m3u8"
+        }
+    ]
+}

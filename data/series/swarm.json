@@ -1,0 +1,49 @@
+{
+    "title": "Swarm",
+    "url": "https://www.diziyou.one/swarm/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/swarm.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "40201",
+            "sub": "https://storage.diziyou.one/episodes/40201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "40202",
+            "sub": "https://storage.diziyou.one/episodes/40202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "40203",
+            "sub": "https://storage.diziyou.one/episodes/40203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "40204",
+            "sub": "https://storage.diziyou.one/episodes/40204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "40205",
+            "sub": "https://storage.diziyou.one/episodes/40205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "40206",
+            "sub": "https://storage.diziyou.one/episodes/40206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "40207",
+            "sub": "https://storage.diziyou.one/episodes/40207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40207_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "The Girlfriend",
+    "url": "https://www.diziyou.one/the-girlfriend/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-girlfriend.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "133001",
+            "sub": "https://storage.diziyou.one/episodes/133001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "133002",
+            "sub": "https://storage.diziyou.one/episodes/133002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "133003",
+            "sub": "https://storage.diziyou.one/episodes/133003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "133004",
+            "sub": "https://storage.diziyou.one/episodes/133004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "133005",
+            "sub": "https://storage.diziyou.one/episodes/133005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "133006",
+            "sub": "https://storage.diziyou.one/episodes/133006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133006_tr/play.m3u8"
+        }
+    ]
+}

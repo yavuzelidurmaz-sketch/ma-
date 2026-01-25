@@ -1,0 +1,85 @@
+{
+    "title": "Sherlock",
+    "url": "https://www.diziyou.one/sherlock/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sherlock.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "12801",
+            "sub": "https://storage.diziyou.one/episodes/12801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "12802",
+            "sub": "https://storage.diziyou.one/episodes/12802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "12803",
+            "sub": "https://storage.diziyou.one/episodes/12803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12803_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "12804",
+            "sub": "https://storage.diziyou.one/episodes/12804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12804_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "12805",
+            "sub": "https://storage.diziyou.one/episodes/12805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12805_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "12806",
+            "sub": "https://storage.diziyou.one/episodes/12806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12806_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 1. Bölüm",
+            "id": "12807",
+            "sub": "https://storage.diziyou.one/episodes/12807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12807_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 2. Bölüm",
+            "id": "12808",
+            "sub": "https://storage.diziyou.one/episodes/12808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12808_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 3. Bölüm",
+            "id": "12809",
+            "sub": "https://storage.diziyou.one/episodes/12809/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12809_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 4. Bölüm",
+            "id": "12810",
+            "sub": "https://storage.diziyou.one/episodes/12810/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12810_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 1. Bölüm",
+            "id": "12811",
+            "sub": "https://storage.diziyou.one/episodes/12811/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12811_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 2. Bölüm",
+            "id": "12812",
+            "sub": "https://storage.diziyou.one/episodes/12812/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12812_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 3. Bölüm",
+            "id": "12813",
+            "sub": "https://storage.diziyou.one/episodes/12813/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/12813_tr/play.m3u8"
+        }
+    ]
+}

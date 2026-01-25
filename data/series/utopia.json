@@ -1,0 +1,79 @@
+{
+    "title": "Utopia",
+    "url": "https://www.diziyou.one/utopia/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/utopia.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "751",
+            "sub": "https://storage.diziyou.one/episodes/751/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/751_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "752",
+            "sub": "https://storage.diziyou.one/episodes/752/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/752_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "753",
+            "sub": "https://storage.diziyou.one/episodes/753/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/753_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "754",
+            "sub": "https://storage.diziyou.one/episodes/754/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/754_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "755",
+            "sub": "https://storage.diziyou.one/episodes/755/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/755_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "756",
+            "sub": "https://storage.diziyou.one/episodes/756/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/756_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "757",
+            "sub": "https://storage.diziyou.one/episodes/757/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/757_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "758",
+            "sub": "https://storage.diziyou.one/episodes/758/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/758_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "759",
+            "sub": "https://storage.diziyou.one/episodes/759/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/759_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "760",
+            "sub": "https://storage.diziyou.one/episodes/760/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/760_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "761",
+            "sub": "https://storage.diziyou.one/episodes/761/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/761_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "762",
+            "sub": "https://storage.diziyou.one/episodes/762/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/762_tr/play.m3u8"
+        }
+    ]
+}

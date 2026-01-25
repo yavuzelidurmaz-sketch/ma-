@@ -1,0 +1,55 @@
+{
+    "title": "Presumed Innocent",
+    "url": "https://www.diziyou.one/presumed-innocent/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/presumed-innocent.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "96101",
+            "sub": "https://storage.diziyou.one/episodes/96101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "96102",
+            "sub": "https://storage.diziyou.one/episodes/96102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "96103",
+            "sub": "https://storage.diziyou.one/episodes/96103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "96104",
+            "sub": "https://storage.diziyou.one/episodes/96104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "96105",
+            "sub": "https://storage.diziyou.one/episodes/96105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "96106",
+            "sub": "https://storage.diziyou.one/episodes/96106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "96107",
+            "sub": "https://storage.diziyou.one/episodes/96107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "96108",
+            "sub": "https://storage.diziyou.one/episodes/96108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96108_tr/play.m3u8"
+        }
+    ]
+}

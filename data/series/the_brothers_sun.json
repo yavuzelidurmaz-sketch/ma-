@@ -1,0 +1,55 @@
+{
+    "title": "The Brothers Sun",
+    "url": "https://www.diziyou.one/the-brothers-sun/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-brothers-sun.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "86601",
+            "sub": "https://storage.diziyou.one/episodes/86601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "86602",
+            "sub": "https://storage.diziyou.one/episodes/86602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "86603",
+            "sub": "https://storage.diziyou.one/episodes/86603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "86604",
+            "sub": "https://storage.diziyou.one/episodes/86604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "86605",
+            "sub": "https://storage.diziyou.one/episodes/86605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "86606",
+            "sub": "https://storage.diziyou.one/episodes/86606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "86607",
+            "sub": "https://storage.diziyou.one/episodes/86607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "86608",
+            "sub": "https://storage.diziyou.one/episodes/86608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86608_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Hot Wheels Let's Race",
+    "url": "https://www.diziyou.one/hot-wheels-lets-race/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/hot-wheels-lets-race.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "90601",
+            "sub": "https://storage.diziyou.one/episodes/90601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "90602",
+            "sub": "https://storage.diziyou.one/episodes/90602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "90603",
+            "sub": "https://storage.diziyou.one/episodes/90603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "90604",
+            "sub": "https://storage.diziyou.one/episodes/90604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "90605",
+            "sub": "https://storage.diziyou.one/episodes/90605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "90606",
+            "sub": "https://storage.diziyou.one/episodes/90606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "90607",
+            "sub": "https://storage.diziyou.one/episodes/90607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "90608",
+            "sub": "https://storage.diziyou.one/episodes/90608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90608_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "90609",
+            "sub": "https://storage.diziyou.one/episodes/90609/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90609_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "90610",
+            "sub": "https://storage.diziyou.one/episodes/90610/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90610_tr/play.m3u8"
+        }
+    ]
+}

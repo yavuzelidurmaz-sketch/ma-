@@ -1,0 +1,43 @@
+{
+    "title": "Go Ahead, Brother",
+    "url": "https://www.diziyou.one/go-ahead-brother/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/go-ahead-brother.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "108501",
+            "sub": "https://storage.diziyou.one/episodes/108501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "108502",
+            "sub": "https://storage.diziyou.one/episodes/108502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "108503",
+            "sub": "https://storage.diziyou.one/episodes/108503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "108504",
+            "sub": "https://storage.diziyou.one/episodes/108504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "108505",
+            "sub": "https://storage.diziyou.one/episodes/108505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "108506",
+            "sub": "https://storage.diziyou.one/episodes/108506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108506_tr/play.m3u8"
+        }
+    ]
+}

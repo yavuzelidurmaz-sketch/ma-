@@ -1,0 +1,55 @@
+{
+    "title": "Resident Evil: biohazard",
+    "url": "https://www.diziyou.one/resident-evil-biohazard/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/resident-evil-biohazard.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "20301",
+            "sub": "https://storage.diziyou.one/episodes/20301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "20302",
+            "sub": "https://storage.diziyou.one/episodes/20302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "20303",
+            "sub": "https://storage.diziyou.one/episodes/20303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "20304",
+            "sub": "https://storage.diziyou.one/episodes/20304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "20305",
+            "sub": "https://storage.diziyou.one/episodes/20305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "20306",
+            "sub": "https://storage.diziyou.one/episodes/20306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "20307",
+            "sub": "https://storage.diziyou.one/episodes/20307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20307_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "20308",
+            "sub": "https://storage.diziyou.one/episodes/20308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20308_tr/play.m3u8"
+        }
+    ]
+}

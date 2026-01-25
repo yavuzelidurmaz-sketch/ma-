@@ -1,0 +1,55 @@
+{
+    "title": "Suburræterna",
+    "url": "https://www.diziyou.one/suburraeterna/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/suburraeterna.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "82001",
+            "sub": "https://storage.diziyou.one/episodes/82001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "82002",
+            "sub": "https://storage.diziyou.one/episodes/82002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "82003",
+            "sub": "https://storage.diziyou.one/episodes/82003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "82004",
+            "sub": "https://storage.diziyou.one/episodes/82004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "82005",
+            "sub": "https://storage.diziyou.one/episodes/82005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "82006",
+            "sub": "https://storage.diziyou.one/episodes/82006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "82007",
+            "sub": "https://storage.diziyou.one/episodes/82007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "82008",
+            "sub": "https://storage.diziyou.one/episodes/82008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82008_tr/play.m3u8"
+        }
+    ]
+}

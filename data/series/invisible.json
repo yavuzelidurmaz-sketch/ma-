@@ -1,0 +1,43 @@
+{
+    "title": "Invisible",
+    "url": "https://www.diziyou.one/invisible/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/invisible.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "114001",
+            "sub": "https://storage.diziyou.one/episodes/114001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "114002",
+            "sub": "https://storage.diziyou.one/episodes/114002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "114003",
+            "sub": "https://storage.diziyou.one/episodes/114003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "114004",
+            "sub": "https://storage.diziyou.one/episodes/114004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "114005",
+            "sub": "https://storage.diziyou.one/episodes/114005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "114006",
+            "sub": "https://storage.diziyou.one/episodes/114006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114006_tr/play.m3u8"
+        }
+    ]
+}

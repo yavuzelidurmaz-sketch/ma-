@@ -1,0 +1,43 @@
+{
+    "title": "UNTAMED",
+    "url": "https://www.diziyou.one/untamed/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/untamed.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "125001",
+            "sub": "https://storage.diziyou.one/episodes/125001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "125002",
+            "sub": "https://storage.diziyou.one/episodes/125002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "125003",
+            "sub": "https://storage.diziyou.one/episodes/125003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "125004",
+            "sub": "https://storage.diziyou.one/episodes/125004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "125005",
+            "sub": "https://storage.diziyou.one/episodes/125005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "125006",
+            "sub": "https://storage.diziyou.one/episodes/125006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125006_tr/play.m3u8"
+        }
+    ]
+}

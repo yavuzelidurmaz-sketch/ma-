@@ -1,0 +1,55 @@
+{
+    "title": "The Count of Monte Cristo",
+    "url": "https://www.diziyou.one/the-count-of-monte-cristo/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-count-of-monte-cristo.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "116901",
+            "sub": "https://storage.diziyou.one/episodes/116901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "116902",
+            "sub": "https://storage.diziyou.one/episodes/116902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "116903",
+            "sub": "https://storage.diziyou.one/episodes/116903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "116904",
+            "sub": "https://storage.diziyou.one/episodes/116904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "116905",
+            "sub": "https://storage.diziyou.one/episodes/116905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "116906",
+            "sub": "https://storage.diziyou.one/episodes/116906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "116907",
+            "sub": "https://storage.diziyou.one/episodes/116907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "116908",
+            "sub": "https://storage.diziyou.one/episodes/116908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116908_tr/play.m3u8"
+        }
+    ]
+}

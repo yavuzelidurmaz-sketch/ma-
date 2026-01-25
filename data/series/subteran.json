@@ -1,0 +1,43 @@
+{
+    "title": "Subteran",
+    "url": "https://www.diziyou.one/subteran/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/subteran.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "116601",
+            "sub": "https://storage.diziyou.one/episodes/116601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "116602",
+            "sub": "https://storage.diziyou.one/episodes/116602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "116603",
+            "sub": "https://storage.diziyou.one/episodes/116603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "116604",
+            "sub": "https://storage.diziyou.one/episodes/116604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "116605",
+            "sub": "https://storage.diziyou.one/episodes/116605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "116606",
+            "sub": "https://storage.diziyou.one/episodes/116606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116606_tr/play.m3u8"
+        }
+    ]
+}

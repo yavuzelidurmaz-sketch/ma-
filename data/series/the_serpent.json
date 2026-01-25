@@ -1,0 +1,55 @@
+{
+    "title": "The Serpent",
+    "url": "https://www.diziyou.one/the-serpent/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-serpent.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1831",
+            "sub": "https://storage.diziyou.one/episodes/1831/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1831_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1832",
+            "sub": "https://storage.diziyou.one/episodes/1832/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1832_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1833",
+            "sub": "https://storage.diziyou.one/episodes/1833/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1833_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1834",
+            "sub": "https://storage.diziyou.one/episodes/1834/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1834_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1835",
+            "sub": "https://storage.diziyou.one/episodes/1835/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1835_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1836",
+            "sub": "https://storage.diziyou.one/episodes/1836/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1836_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1837",
+            "sub": "https://storage.diziyou.one/episodes/1837/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1837_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "1838",
+            "sub": "https://storage.diziyou.one/episodes/1838/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1838_tr/play.m3u8"
+        }
+    ]
+}

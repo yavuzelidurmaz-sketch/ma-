@@ -1,0 +1,43 @@
+{
+    "title": "Neredeyse Sıradan Bir Aile",
+    "url": "https://www.diziyou.one/neredeyse-siradan-bir-aile/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/neredeyse-siradan-bir-aile.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "82301",
+            "sub": "https://storage.diziyou.one/episodes/82301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "82302",
+            "sub": "https://storage.diziyou.one/episodes/82302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "82303",
+            "sub": "https://storage.diziyou.one/episodes/82303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "82304",
+            "sub": "https://storage.diziyou.one/episodes/82304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "82305",
+            "sub": "https://storage.diziyou.one/episodes/82305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "82306",
+            "sub": "https://storage.diziyou.one/episodes/82306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82306_tr/play.m3u8"
+        }
+    ]
+}

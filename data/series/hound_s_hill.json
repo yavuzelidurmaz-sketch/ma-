@@ -1,0 +1,37 @@
+{
+    "title": "Hound's Hill",
+    "url": "https://www.diziyou.one/hounds-hill/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/hounds-hill.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "117301",
+            "sub": "https://storage.diziyou.one/episodes/117301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "117302",
+            "sub": "https://storage.diziyou.one/episodes/117302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "117303",
+            "sub": "https://storage.diziyou.one/episodes/117303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "117304",
+            "sub": "https://storage.diziyou.one/episodes/117304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "117305",
+            "sub": "https://storage.diziyou.one/episodes/117305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117305_tr/play.m3u8"
+        }
+    ]
+}

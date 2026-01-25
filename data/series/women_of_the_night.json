@@ -1,0 +1,67 @@
+{
+    "title": "Women of the Night",
+    "url": "https://www.diziyou.one/women-of-the-night/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/women-of-the-night.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "103401",
+            "sub": "https://storage.diziyou.one/episodes/103401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "103402",
+            "sub": "https://storage.diziyou.one/episodes/103402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "103403",
+            "sub": "https://storage.diziyou.one/episodes/103403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "103404",
+            "sub": "https://storage.diziyou.one/episodes/103404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "103405",
+            "sub": "https://storage.diziyou.one/episodes/103405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "103406",
+            "sub": "https://storage.diziyou.one/episodes/103406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "103407",
+            "sub": "https://storage.diziyou.one/episodes/103407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "103408",
+            "sub": "https://storage.diziyou.one/episodes/103408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103408_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "103409",
+            "sub": "https://storage.diziyou.one/episodes/103409/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103409_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "103410",
+            "sub": "https://storage.diziyou.one/episodes/103410/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103410_tr/play.m3u8"
+        }
+    ]
+}

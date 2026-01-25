@@ -1,0 +1,55 @@
+{
+    "title": "Ofis",
+    "url": "https://www.diziyou.one/ofis/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-office-2024.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "106801",
+            "sub": "https://storage.diziyou.one/episodes/106801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "106802",
+            "sub": "https://storage.diziyou.one/episodes/106802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "106803",
+            "sub": "https://storage.diziyou.one/episodes/106803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "106804",
+            "sub": "https://storage.diziyou.one/episodes/106804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "106805",
+            "sub": "https://storage.diziyou.one/episodes/106805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "106806",
+            "sub": "https://storage.diziyou.one/episodes/106806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "106807",
+            "sub": "https://storage.diziyou.one/episodes/106807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "106808",
+            "sub": "https://storage.diziyou.one/episodes/106808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106808_tr/play.m3u8"
+        }
+    ]
+}

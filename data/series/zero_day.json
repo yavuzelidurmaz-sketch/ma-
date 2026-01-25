@@ -1,0 +1,43 @@
+{
+    "title": "Zero Day",
+    "url": "https://www.diziyou.one/zero-day/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/zero-day.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "119701",
+            "sub": "https://storage.diziyou.one/episodes/119701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "119702",
+            "sub": "https://storage.diziyou.one/episodes/119702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "119703",
+            "sub": "https://storage.diziyou.one/episodes/119703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "119704",
+            "sub": "https://storage.diziyou.one/episodes/119704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "119705",
+            "sub": "https://storage.diziyou.one/episodes/119705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "119706",
+            "sub": "https://storage.diziyou.one/episodes/119706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119706_tr/play.m3u8"
+        }
+    ]
+}

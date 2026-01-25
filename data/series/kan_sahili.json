@@ -1,0 +1,43 @@
+{
+    "title": "Kan Sahili",
+    "url": "https://www.diziyou.one/kan-sahili/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/kan-sahili.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "82901",
+            "sub": "https://storage.diziyou.one/episodes/82901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "82902",
+            "sub": "https://storage.diziyou.one/episodes/82902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "82903",
+            "sub": "https://storage.diziyou.one/episodes/82903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "82904",
+            "sub": "https://storage.diziyou.one/episodes/82904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "82905",
+            "sub": "https://storage.diziyou.one/episodes/82905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "82906",
+            "sub": "https://storage.diziyou.one/episodes/82906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82906_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "title": "La Palma",
+    "url": "https://www.diziyou.one/la-palma/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/la-palma.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "113501",
+            "sub": "https://storage.diziyou.one/episodes/113501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "113502",
+            "sub": "https://storage.diziyou.one/episodes/113502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "113503",
+            "sub": "https://storage.diziyou.one/episodes/113503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "113504",
+            "sub": "https://storage.diziyou.one/episodes/113504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113504_tr/play.m3u8"
+        }
+    ]
+}

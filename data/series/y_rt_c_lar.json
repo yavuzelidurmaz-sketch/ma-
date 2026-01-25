@@ -1,0 +1,37 @@
+{
+    "title": "Yırtıcılar",
+    "url": "https://www.diziyou.one/yirticilar-predators/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/yirticilar.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "75201",
+            "sub": "https://storage.diziyou.one/episodes/75201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "75202",
+            "sub": "https://storage.diziyou.one/episodes/75202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "75203",
+            "sub": "https://storage.diziyou.one/episodes/75203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "75204",
+            "sub": "https://storage.diziyou.one/episodes/75204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "75205",
+            "sub": "https://storage.diziyou.one/episodes/75205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75205_tr/play.m3u8"
+        }
+    ]
+}

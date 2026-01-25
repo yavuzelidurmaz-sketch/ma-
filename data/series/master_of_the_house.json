@@ -1,0 +1,49 @@
+{
+    "title": "Master of the House",
+    "url": "https://www.diziyou.one/master-of-the-house/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/master-of-the-house.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "97601",
+            "sub": "https://storage.diziyou.one/episodes/97601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "97602",
+            "sub": "https://storage.diziyou.one/episodes/97602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "97603",
+            "sub": "https://storage.diziyou.one/episodes/97603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "97604",
+            "sub": "https://storage.diziyou.one/episodes/97604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "97605",
+            "sub": "https://storage.diziyou.one/episodes/97605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "97606",
+            "sub": "https://storage.diziyou.one/episodes/97606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "97607",
+            "sub": "https://storage.diziyou.one/episodes/97607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97607_tr/play.m3u8"
+        }
+    ]
+}

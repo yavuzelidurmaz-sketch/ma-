@@ -1,0 +1,43 @@
+{
+    "title": "Cooking With Paris",
+    "url": "https://www.diziyou.one/cooking-with-paris/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/cooking-with-paris.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "102401",
+            "sub": "https://storage.diziyou.one/episodes/102401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "102402",
+            "sub": "https://storage.diziyou.one/episodes/102402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "102403",
+            "sub": "https://storage.diziyou.one/episodes/102403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "102404",
+            "sub": "https://storage.diziyou.one/episodes/102404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "102405",
+            "sub": "https://storage.diziyou.one/episodes/102405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "102406",
+            "sub": "https://storage.diziyou.one/episodes/102406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102406_tr/play.m3u8"
+        }
+    ]
+}

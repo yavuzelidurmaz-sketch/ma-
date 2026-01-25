@@ -1,0 +1,61 @@
+{
+    "title": "The Power",
+    "url": "https://www.diziyou.one/the-power/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-power.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "50401",
+            "sub": "https://storage.diziyou.one/episodes/50401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "50402",
+            "sub": "https://storage.diziyou.one/episodes/50402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "50403",
+            "sub": "https://storage.diziyou.one/episodes/50403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "50404",
+            "sub": "https://storage.diziyou.one/episodes/50404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "50405",
+            "sub": "https://storage.diziyou.one/episodes/50405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "50406",
+            "sub": "https://storage.diziyou.one/episodes/50406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "50407",
+            "sub": "https://storage.diziyou.one/episodes/50407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "50408",
+            "sub": "https://storage.diziyou.one/episodes/50408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50408_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "50409",
+            "sub": "https://storage.diziyou.one/episodes/50409/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50409_tr/play.m3u8"
+        }
+    ]
+}

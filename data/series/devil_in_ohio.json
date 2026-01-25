@@ -1,0 +1,55 @@
+{
+    "title": "Devil in Ohio",
+    "url": "https://www.diziyou.one/devil-in-ohio/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/devil-in-ohio.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "21251",
+            "sub": "https://storage.diziyou.one/episodes/21251/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21251_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "21252",
+            "sub": "https://storage.diziyou.one/episodes/21252/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21252_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "21253",
+            "sub": "https://storage.diziyou.one/episodes/21253/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21253_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "21254",
+            "sub": "https://storage.diziyou.one/episodes/21254/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21254_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "21255",
+            "sub": "https://storage.diziyou.one/episodes/21255/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21255_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "21256",
+            "sub": "https://storage.diziyou.one/episodes/21256/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21256_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "21257",
+            "sub": "https://storage.diziyou.one/episodes/21257/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21257_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "21258",
+            "sub": "https://storage.diziyou.one/episodes/21258/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21258_tr/play.m3u8"
+        }
+    ]
+}

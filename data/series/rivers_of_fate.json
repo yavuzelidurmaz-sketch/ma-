@@ -1,0 +1,31 @@
+{
+    "title": "Rivers of Fate",
+    "url": "https://www.diziyou.one/rivers-of-fate/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/rivers-of-fate.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "130601",
+            "sub": "https://storage.diziyou.one/episodes/130601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "130602",
+            "sub": "https://storage.diziyou.one/episodes/130602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "130603",
+            "sub": "https://storage.diziyou.one/episodes/130603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "130604",
+            "sub": "https://storage.diziyou.one/episodes/130604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130604_tr/play.m3u8"
+        }
+    ]
+}

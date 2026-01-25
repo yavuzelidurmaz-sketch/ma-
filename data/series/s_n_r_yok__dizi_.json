@@ -1,0 +1,49 @@
+{
+    "title": "Sınır Yok (Dizi)",
+    "url": "https://www.diziyou.one/sinir-yok-dizi/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sinir-yok-dizi.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "40001",
+            "sub": "https://storage.diziyou.one/episodes/40001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "40002",
+            "sub": "https://storage.diziyou.one/episodes/40002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "40003",
+            "sub": "https://storage.diziyou.one/episodes/40003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "40004",
+            "sub": "https://storage.diziyou.one/episodes/40004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "40005",
+            "sub": "https://storage.diziyou.one/episodes/40005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "40006",
+            "sub": "https://storage.diziyou.one/episodes/40006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "40007",
+            "sub": "https://storage.diziyou.one/episodes/40007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/40007_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Alice Hart'ın Kayıp Çiçekleri",
+    "url": "https://www.diziyou.one/alice-hartin-kayip-cicekleri/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/alice-hartin-kayip-cicekleri.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "75601",
+            "sub": "https://storage.diziyou.one/episodes/75601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "75602",
+            "sub": "https://storage.diziyou.one/episodes/75602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "75603",
+            "sub": "https://storage.diziyou.one/episodes/75603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "75604",
+            "sub": "https://storage.diziyou.one/episodes/75604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "75605",
+            "sub": "https://storage.diziyou.one/episodes/75605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "75606",
+            "sub": "https://storage.diziyou.one/episodes/75606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "75607",
+            "sub": "https://storage.diziyou.one/episodes/75607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75607_tr/play.m3u8"
+        }
+    ]
+}

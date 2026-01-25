@@ -1,0 +1,31 @@
+{
+    "title": "100 Yıl Yaşamak: Mavi Bölgelerin Sırları",
+    "url": "https://www.diziyou.one/100-yil-yasamak-mavi-bolgelerin-sirlari/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/100-yil-yasamak-mavi-bolgelerin-sirlari.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "76001",
+            "sub": "https://storage.diziyou.one/episodes/76001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "76002",
+            "sub": "https://storage.diziyou.one/episodes/76002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "76003",
+            "sub": "https://storage.diziyou.one/episodes/76003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "76004",
+            "sub": "https://storage.diziyou.one/episodes/76004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76004_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Johnny Depp-Amber Heard Davası",
+    "url": "https://www.diziyou.one/johnny-depp-amber-heard-davasi/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/johnny-depp-amber-heard-davasi.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "74701",
+            "sub": "https://storage.diziyou.one/episodes/74701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "74702",
+            "sub": "https://storage.diziyou.one/episodes/74702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "74703",
+            "sub": "https://storage.diziyou.one/episodes/74703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74703_tr/play.m3u8"
+        }
+    ]
+}

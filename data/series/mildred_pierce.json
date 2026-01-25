@@ -1,0 +1,37 @@
+{
+    "title": "Mildred Pierce",
+    "url": "https://www.diziyou.one/mildred-pierce/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/mildred-pierce.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "130401",
+            "sub": "https://storage.diziyou.one/episodes/130401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "130402",
+            "sub": "https://storage.diziyou.one/episodes/130402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "130403",
+            "sub": "https://storage.diziyou.one/episodes/130403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "130404",
+            "sub": "https://storage.diziyou.one/episodes/130404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "130405",
+            "sub": "https://storage.diziyou.one/episodes/130405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130405_tr/play.m3u8"
+        }
+    ]
+}

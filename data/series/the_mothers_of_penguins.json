@@ -1,0 +1,43 @@
+{
+    "title": "The Mothers of Penguins",
+    "url": "https://www.diziyou.one/the-mothers-of-penguins/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-mothers-of-penguins.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "110201",
+            "sub": "https://storage.diziyou.one/episodes/110201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "110202",
+            "sub": "https://storage.diziyou.one/episodes/110202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "110203",
+            "sub": "https://storage.diziyou.one/episodes/110203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "110204",
+            "sub": "https://storage.diziyou.one/episodes/110204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "110205",
+            "sub": "https://storage.diziyou.one/episodes/110205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "110206",
+            "sub": "https://storage.diziyou.one/episodes/110206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110206_tr/play.m3u8"
+        }
+    ]
+}

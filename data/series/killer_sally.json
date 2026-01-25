@@ -1,0 +1,25 @@
+{
+    "title": "Killer Sally",
+    "url": "https://www.diziyou.one/killer-sally/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/killer-sally.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "23751",
+            "sub": "https://storage.diziyou.one/episodes/23751/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23751_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "23752",
+            "sub": "https://storage.diziyou.one/episodes/23752/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23752_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "23753",
+            "sub": "https://storage.diziyou.one/episodes/23753/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23753_tr/play.m3u8"
+        }
+    ]
+}

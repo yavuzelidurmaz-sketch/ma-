@@ -1,0 +1,61 @@
+{
+    "title": "Inside: USA",
+    "url": "https://www.diziyou.one/inside-usa/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/inside-usa.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "134901",
+            "sub": "https://storage.diziyou.one/episodes/134901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "134902",
+            "sub": "https://storage.diziyou.one/episodes/134902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "134903",
+            "sub": "https://storage.diziyou.one/episodes/134903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "134904",
+            "sub": "https://storage.diziyou.one/episodes/134904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "134905",
+            "sub": "https://storage.diziyou.one/episodes/134905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "134906",
+            "sub": "https://storage.diziyou.one/episodes/134906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "134907",
+            "sub": "https://storage.diziyou.one/episodes/134907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "134908",
+            "sub": "https://storage.diziyou.one/episodes/134908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134908_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "134909",
+            "sub": "https://storage.diziyou.one/episodes/134909/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134909_tr/play.m3u8"
+        }
+    ]
+}

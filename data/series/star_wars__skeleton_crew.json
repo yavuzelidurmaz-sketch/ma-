@@ -1,0 +1,55 @@
+{
+    "title": "Star Wars: Skeleton Crew",
+    "url": "https://www.diziyou.one/star-wars-skeleton-crew/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/star-wars-skeleton-crew.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "112401",
+            "sub": "https://storage.diziyou.one/episodes/112401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "112402",
+            "sub": "https://storage.diziyou.one/episodes/112402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "112403",
+            "sub": "https://storage.diziyou.one/episodes/112403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "112404",
+            "sub": "https://storage.diziyou.one/episodes/112404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "112405",
+            "sub": "https://storage.diziyou.one/episodes/112405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "112406",
+            "sub": "https://storage.diziyou.one/episodes/112406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "112407",
+            "sub": "https://storage.diziyou.one/episodes/112407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "112408",
+            "sub": "https://storage.diziyou.one/episodes/112408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112408_tr/play.m3u8"
+        }
+    ]
+}

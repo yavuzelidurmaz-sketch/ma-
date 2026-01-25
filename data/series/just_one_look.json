@@ -1,0 +1,43 @@
+{
+    "title": "Just One Look",
+    "url": "https://www.diziyou.one/just-one-look/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/just-one-look.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "120701",
+            "sub": "https://storage.diziyou.one/episodes/120701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "120702",
+            "sub": "https://storage.diziyou.one/episodes/120702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "120703",
+            "sub": "https://storage.diziyou.one/episodes/120703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "120704",
+            "sub": "https://storage.diziyou.one/episodes/120704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "120705",
+            "sub": "https://storage.diziyou.one/episodes/120705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "120706",
+            "sub": "https://storage.diziyou.one/episodes/120706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120706_tr/play.m3u8"
+        }
+    ]
+}

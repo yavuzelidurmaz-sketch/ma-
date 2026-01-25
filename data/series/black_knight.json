@@ -1,0 +1,43 @@
+{
+    "title": "Black Knight",
+    "url": "https://www.diziyou.one/black-knight/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/black-knight.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "71401",
+            "sub": "https://storage.diziyou.one/episodes/71401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "71402",
+            "sub": "https://storage.diziyou.one/episodes/71402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "71403",
+            "sub": "https://storage.diziyou.one/episodes/71403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "71404",
+            "sub": "https://storage.diziyou.one/episodes/71404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "71405",
+            "sub": "https://storage.diziyou.one/episodes/71405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "71406",
+            "sub": "https://storage.diziyou.one/episodes/71406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71406_tr/play.m3u8"
+        }
+    ]
+}

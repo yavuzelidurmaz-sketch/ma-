@@ -1,0 +1,49 @@
+{
+    "title": "Creature Commandos",
+    "url": "https://www.diziyou.one/creature-commandos/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/creature-commandos.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "113301",
+            "sub": "https://storage.diziyou.one/episodes/113301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "113302",
+            "sub": "https://storage.diziyou.one/episodes/113302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "113303",
+            "sub": "https://storage.diziyou.one/episodes/113303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "113304",
+            "sub": "https://storage.diziyou.one/episodes/113304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "113305",
+            "sub": "https://storage.diziyou.one/episodes/113305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "113306",
+            "sub": "https://storage.diziyou.one/episodes/113306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "113307",
+            "sub": "https://storage.diziyou.one/episodes/113307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113307_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "title": "Prehistoric Planet",
+    "url": "https://www.diziyou.one/prehistoric-planet/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/prehistoric-planet.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "72501",
+            "sub": "https://storage.diziyou.one/episodes/72501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "72502",
+            "sub": "https://storage.diziyou.one/episodes/72502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "72503",
+            "sub": "https://storage.diziyou.one/episodes/72503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "72504",
+            "sub": "https://storage.diziyou.one/episodes/72504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "72505",
+            "sub": "https://storage.diziyou.one/episodes/72505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72505_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "72506",
+            "sub": "https://storage.diziyou.one/episodes/72506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72506_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "72507",
+            "sub": "https://storage.diziyou.one/episodes/72507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72507_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "72508",
+            "sub": "https://storage.diziyou.one/episodes/72508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72508_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "72509",
+            "sub": "https://storage.diziyou.one/episodes/72509/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72509_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "72510",
+            "sub": "https://storage.diziyou.one/episodes/72510/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72510_tr/play.m3u8"
+        }
+    ]
+}

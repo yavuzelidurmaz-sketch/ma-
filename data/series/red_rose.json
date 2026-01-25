@@ -1,0 +1,55 @@
+{
+    "title": "Red Rose",
+    "url": "https://www.diziyou.one/red-rose/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/red-rose.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "29101",
+            "sub": "https://storage.diziyou.one/episodes/29101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "29102",
+            "sub": "https://storage.diziyou.one/episodes/29102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "29103",
+            "sub": "https://storage.diziyou.one/episodes/29103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "29104",
+            "sub": "https://storage.diziyou.one/episodes/29104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "29105",
+            "sub": "https://storage.diziyou.one/episodes/29105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "29106",
+            "sub": "https://storage.diziyou.one/episodes/29106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "29107",
+            "sub": "https://storage.diziyou.one/episodes/29107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "29108",
+            "sub": "https://storage.diziyou.one/episodes/29108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29108_tr/play.m3u8"
+        }
+    ]
+}

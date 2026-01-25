@@ -1,61 +1,61 @@
 {
     "title": "Pluribus",
     "url": "https://www.diziyou.one/pluribus/",
-    "poster": "",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/pluribus.jpg",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
             "id": "138901",
-            "sub_stream": "https://storage.diziyou.one/episodes/138901/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138901_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138901_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 2. Bölüm",
             "id": "138902",
-            "sub_stream": "https://storage.diziyou.one/episodes/138902/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138902_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138902_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 3. Bölüm",
             "id": "138903",
-            "sub_stream": "https://storage.diziyou.one/episodes/138903/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138903_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138903_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 4. Bölüm",
             "id": "138904",
-            "sub_stream": "https://storage.diziyou.one/episodes/138904/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138904_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138904_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 5. Bölüm",
             "id": "138905",
-            "sub_stream": "https://storage.diziyou.one/episodes/138905/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138905_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138905_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 6. Bölüm",
             "id": "138906",
-            "sub_stream": "https://storage.diziyou.one/episodes/138906/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138906_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138906_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 7. Bölüm",
             "id": "138907",
-            "sub_stream": "https://storage.diziyou.one/episodes/138907/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138907_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138907_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 8. Bölüm",
             "id": "138908",
-            "sub_stream": "https://storage.diziyou.one/episodes/138908/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138908_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138908_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 9. Bölüm",
             "id": "138909",
-            "sub_stream": "https://storage.diziyou.one/episodes/138909/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/138909_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/138909/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138909_tr/play.m3u8"
         }
     ]
 }

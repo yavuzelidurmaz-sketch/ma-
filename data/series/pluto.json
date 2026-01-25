@@ -1,0 +1,55 @@
+{
+    "title": "PLUTO",
+    "url": "https://www.diziyou.one/pluto/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/pluto.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "81101",
+            "sub": "https://storage.diziyou.one/episodes/81101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "81102",
+            "sub": "https://storage.diziyou.one/episodes/81102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "81103",
+            "sub": "https://storage.diziyou.one/episodes/81103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "81104",
+            "sub": "https://storage.diziyou.one/episodes/81104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "81105",
+            "sub": "https://storage.diziyou.one/episodes/81105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "81106",
+            "sub": "https://storage.diziyou.one/episodes/81106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "81107",
+            "sub": "https://storage.diziyou.one/episodes/81107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "81108",
+            "sub": "https://storage.diziyou.one/episodes/81108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81108_tr/play.m3u8"
+        }
+    ]
+}

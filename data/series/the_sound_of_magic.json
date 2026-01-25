@@ -1,0 +1,43 @@
+{
+    "title": "The Sound of Magic",
+    "url": "https://www.diziyou.one/the-sound-of-magic/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-sound-of-magic.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "19151",
+            "sub": "https://storage.diziyou.one/episodes/19151/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19151_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "19152",
+            "sub": "https://storage.diziyou.one/episodes/19152/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19152_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "19153",
+            "sub": "https://storage.diziyou.one/episodes/19153/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19153_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "19154",
+            "sub": "https://storage.diziyou.one/episodes/19154/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19154_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "19155",
+            "sub": "https://storage.diziyou.one/episodes/19155/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19155_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "19156",
+            "sub": "https://storage.diziyou.one/episodes/19156/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19156_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Mercy for None",
+    "url": "https://www.diziyou.one/mercy-for-none/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/mercy-for-none.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "128301",
+            "sub": "https://storage.diziyou.one/episodes/128301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "128302",
+            "sub": "https://storage.diziyou.one/episodes/128302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "128303",
+            "sub": "https://storage.diziyou.one/episodes/128303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "128304",
+            "sub": "https://storage.diziyou.one/episodes/128304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "128305",
+            "sub": "https://storage.diziyou.one/episodes/128305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "128306",
+            "sub": "https://storage.diziyou.one/episodes/128306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "128307",
+            "sub": "https://storage.diziyou.one/episodes/128307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128307_tr/play.m3u8"
+        }
+    ]
+}

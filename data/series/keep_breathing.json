@@ -1,0 +1,43 @@
+{
+    "title": "Keep Breathing",
+    "url": "https://www.diziyou.one/keep-breathing/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/keep-breathing.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "20551",
+            "sub": "https://storage.diziyou.one/episodes/20551/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20551_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "20552",
+            "sub": "https://storage.diziyou.one/episodes/20552/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20552_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "20553",
+            "sub": "https://storage.diziyou.one/episodes/20553/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20553_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "20554",
+            "sub": "https://storage.diziyou.one/episodes/20554/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20554_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "20555",
+            "sub": "https://storage.diziyou.one/episodes/20555/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20555_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "20556",
+            "sub": "https://storage.diziyou.one/episodes/20556/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20556_tr/play.m3u8"
+        }
+    ]
+}

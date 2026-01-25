@@ -1,0 +1,43 @@
+{
+    "title": "Sessizlik",
+    "url": "https://www.diziyou.one/sessizlik/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sessizlik.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "71701",
+            "sub": "https://storage.diziyou.one/episodes/71701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "71702",
+            "sub": "https://storage.diziyou.one/episodes/71702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "71703",
+            "sub": "https://storage.diziyou.one/episodes/71703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "71704",
+            "sub": "https://storage.diziyou.one/episodes/71704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "71705",
+            "sub": "https://storage.diziyou.one/episodes/71705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "71706",
+            "sub": "https://storage.diziyou.one/episodes/71706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/71706_tr/play.m3u8"
+        }
+    ]
+}

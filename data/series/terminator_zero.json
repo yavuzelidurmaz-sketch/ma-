@@ -1,0 +1,55 @@
+{
+    "title": "Terminator Zero",
+    "url": "https://www.diziyou.one/terminator-zero/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/terminator-zero.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "103701",
+            "sub": "https://storage.diziyou.one/episodes/103701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "103702",
+            "sub": "https://storage.diziyou.one/episodes/103702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "103703",
+            "sub": "https://storage.diziyou.one/episodes/103703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "103704",
+            "sub": "https://storage.diziyou.one/episodes/103704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "103705",
+            "sub": "https://storage.diziyou.one/episodes/103705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "103706",
+            "sub": "https://storage.diziyou.one/episodes/103706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "103707",
+            "sub": "https://storage.diziyou.one/episodes/103707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103707_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "103708",
+            "sub": "https://storage.diziyou.one/episodes/103708/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103708_tr/play.m3u8"
+        }
+    ]
+}

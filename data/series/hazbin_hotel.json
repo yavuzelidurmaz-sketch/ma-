@@ -1,0 +1,103 @@
+{
+    "title": "Hazbin Hotel",
+    "url": "https://www.diziyou.one/hazbin-hotel/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/hazbin-hotel.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "85101",
+            "sub": "https://storage.diziyou.one/episodes/85101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "85102",
+            "sub": "https://storage.diziyou.one/episodes/85102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "85103",
+            "sub": "https://storage.diziyou.one/episodes/85103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "85104",
+            "sub": "https://storage.diziyou.one/episodes/85104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "85105",
+            "sub": "https://storage.diziyou.one/episodes/85105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "85106",
+            "sub": "https://storage.diziyou.one/episodes/85106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "85107",
+            "sub": "https://storage.diziyou.one/episodes/85107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "85108",
+            "sub": "https://storage.diziyou.one/episodes/85108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85108_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "85109",
+            "sub": "https://storage.diziyou.one/episodes/85109/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85109_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "85110",
+            "sub": "https://storage.diziyou.one/episodes/85110/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85110_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "85111",
+            "sub": "https://storage.diziyou.one/episodes/85111/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85111_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "85112",
+            "sub": "https://storage.diziyou.one/episodes/85112/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85112_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "85113",
+            "sub": "https://storage.diziyou.one/episodes/85113/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85113_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "85114",
+            "sub": "https://storage.diziyou.one/episodes/85114/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85114_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 7. Bölüm",
+            "id": "85115",
+            "sub": "https://storage.diziyou.one/episodes/85115/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85115_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 8. Bölüm",
+            "id": "85116",
+            "sub": "https://storage.diziyou.one/episodes/85116/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85116_tr/play.m3u8"
+        }
+    ]
+}

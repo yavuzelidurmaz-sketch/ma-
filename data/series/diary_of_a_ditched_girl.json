@@ -1,0 +1,49 @@
+{
+    "title": "Diary of a Ditched Girl",
+    "url": "https://www.diziyou.one/diary-of-a-ditched-girl/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/diary-of-a-ditched-girl.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "133401",
+            "sub": "https://storage.diziyou.one/episodes/133401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "133402",
+            "sub": "https://storage.diziyou.one/episodes/133402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "133403",
+            "sub": "https://storage.diziyou.one/episodes/133403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "133404",
+            "sub": "https://storage.diziyou.one/episodes/133404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "133405",
+            "sub": "https://storage.diziyou.one/episodes/133405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "133406",
+            "sub": "https://storage.diziyou.one/episodes/133406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "133407",
+            "sub": "https://storage.diziyou.one/episodes/133407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133407_tr/play.m3u8"
+        }
+    ]
+}

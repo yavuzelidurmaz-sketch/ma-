@@ -1,0 +1,79 @@
+{
+    "title": "Little Women",
+    "url": "https://www.diziyou.one/little-women/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/little-women.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "30301",
+            "sub": "https://storage.diziyou.one/episodes/30301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "30302",
+            "sub": "https://storage.diziyou.one/episodes/30302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "30303",
+            "sub": "https://storage.diziyou.one/episodes/30303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "30304",
+            "sub": "https://storage.diziyou.one/episodes/30304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "30305",
+            "sub": "https://storage.diziyou.one/episodes/30305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "30306",
+            "sub": "https://storage.diziyou.one/episodes/30306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "30307",
+            "sub": "https://storage.diziyou.one/episodes/30307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30307_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "30308",
+            "sub": "https://storage.diziyou.one/episodes/30308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30308_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "30309",
+            "sub": "https://storage.diziyou.one/episodes/30309/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30309_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "30310",
+            "sub": "https://storage.diziyou.one/episodes/30310/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30310_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "30311",
+            "sub": "https://storage.diziyou.one/episodes/30311/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30311_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 12. Bölüm",
+            "id": "30312",
+            "sub": "https://storage.diziyou.one/episodes/30312/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30312_tr/play.m3u8"
+        }
+    ]
+}

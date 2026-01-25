@@ -1,0 +1,25 @@
+{
+    "title": "Blood, Sex & Royalty",
+    "url": "https://www.diziyou.one/blood-sex-royalty/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/blood-sex-royalty.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "25151",
+            "sub": "https://storage.diziyou.one/episodes/25151/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/25151_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "25152",
+            "sub": "https://storage.diziyou.one/episodes/25152/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/25152_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "25153",
+            "sub": "https://storage.diziyou.one/episodes/25153/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/25153_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Cassandra",
+    "url": "https://www.diziyou.one/cassandra/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/cassandra.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "118801",
+            "sub": "https://storage.diziyou.one/episodes/118801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "118802",
+            "sub": "https://storage.diziyou.one/episodes/118802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "118803",
+            "sub": "https://storage.diziyou.one/episodes/118803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "118804",
+            "sub": "https://storage.diziyou.one/episodes/118804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "118805",
+            "sub": "https://storage.diziyou.one/episodes/118805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "118806",
+            "sub": "https://storage.diziyou.one/episodes/118806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118806_tr/play.m3u8"
+        }
+    ]
+}

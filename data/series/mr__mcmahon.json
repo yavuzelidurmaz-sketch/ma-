@@ -1,0 +1,43 @@
+{
+    "title": "Mr. McMahon",
+    "url": "https://www.diziyou.one/mr-mcmahon/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/mr-mcmahon.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "105601",
+            "sub": "https://storage.diziyou.one/episodes/105601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "105602",
+            "sub": "https://storage.diziyou.one/episodes/105602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "105603",
+            "sub": "https://storage.diziyou.one/episodes/105603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "105604",
+            "sub": "https://storage.diziyou.one/episodes/105604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "105605",
+            "sub": "https://storage.diziyou.one/episodes/105605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "105606",
+            "sub": "https://storage.diziyou.one/episodes/105606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105606_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Supacell",
+    "url": "https://www.diziyou.one/supacell/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/supacell.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "96701",
+            "sub": "https://storage.diziyou.one/episodes/96701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "96702",
+            "sub": "https://storage.diziyou.one/episodes/96702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "96703",
+            "sub": "https://storage.diziyou.one/episodes/96703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "96704",
+            "sub": "https://storage.diziyou.one/episodes/96704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "96705",
+            "sub": "https://storage.diziyou.one/episodes/96705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "96706",
+            "sub": "https://storage.diziyou.one/episodes/96706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96706_tr/play.m3u8"
+        }
+    ]
+}

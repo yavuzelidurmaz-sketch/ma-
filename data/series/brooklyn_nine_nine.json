@@ -1,0 +1,925 @@
+{
+    "title": "Brooklyn Nine-Nine",
+    "url": "https://www.diziyou.one/brooklyn-nine-nine/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/brooklyn-nine-nine.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "95101",
+            "sub": "https://storage.diziyou.one/episodes/95101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "95102",
+            "sub": "https://storage.diziyou.one/episodes/95102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "95103",
+            "sub": "https://storage.diziyou.one/episodes/95103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "95104",
+            "sub": "https://storage.diziyou.one/episodes/95104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "95105",
+            "sub": "https://storage.diziyou.one/episodes/95105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "95106",
+            "sub": "https://storage.diziyou.one/episodes/95106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "95107",
+            "sub": "https://storage.diziyou.one/episodes/95107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "95108",
+            "sub": "https://storage.diziyou.one/episodes/95108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95108_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "95109",
+            "sub": "https://storage.diziyou.one/episodes/95109/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95109_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "95110",
+            "sub": "https://storage.diziyou.one/episodes/95110/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95110_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "95111",
+            "sub": "https://storage.diziyou.one/episodes/95111/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95111_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 12. Bölüm",
+            "id": "95112",
+            "sub": "https://storage.diziyou.one/episodes/95112/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95112_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 13. Bölüm",
+            "id": "95113",
+            "sub": "https://storage.diziyou.one/episodes/95113/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95113_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 14. Bölüm",
+            "id": "95114",
+            "sub": "https://storage.diziyou.one/episodes/95114/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95114_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 15. Bölüm",
+            "id": "95115",
+            "sub": "https://storage.diziyou.one/episodes/95115/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95115_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 16. Bölüm",
+            "id": "95116",
+            "sub": "https://storage.diziyou.one/episodes/95116/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95116_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 17. Bölüm",
+            "id": "95117",
+            "sub": "https://storage.diziyou.one/episodes/95117/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95117_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 18. Bölüm",
+            "id": "95118",
+            "sub": "https://storage.diziyou.one/episodes/95118/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95118_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 19. Bölüm",
+            "id": "95119",
+            "sub": "https://storage.diziyou.one/episodes/95119/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95119_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 20. Bölüm",
+            "id": "95120",
+            "sub": "https://storage.diziyou.one/episodes/95120/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95120_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 21. Bölüm",
+            "id": "95121",
+            "sub": "https://storage.diziyou.one/episodes/95121/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95121_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 22. Bölüm",
+            "id": "95122",
+            "sub": "https://storage.diziyou.one/episodes/95122/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95122_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "95123",
+            "sub": "https://storage.diziyou.one/episodes/95123/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95123_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "95124",
+            "sub": "https://storage.diziyou.one/episodes/95124/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95124_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "95125",
+            "sub": "https://storage.diziyou.one/episodes/95125/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95125_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "95126",
+            "sub": "https://storage.diziyou.one/episodes/95126/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95126_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "95127",
+            "sub": "https://storage.diziyou.one/episodes/95127/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95127_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "95128",
+            "sub": "https://storage.diziyou.one/episodes/95128/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95128_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 7. Bölüm",
+            "id": "95129",
+            "sub": "https://storage.diziyou.one/episodes/95129/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95129_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 8. Bölüm",
+            "id": "95130",
+            "sub": "https://storage.diziyou.one/episodes/95130/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95130_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 9. Bölüm",
+            "id": "95131",
+            "sub": "https://storage.diziyou.one/episodes/95131/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95131_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 10. Bölüm",
+            "id": "95132",
+            "sub": "https://storage.diziyou.one/episodes/95132/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95132_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 11. Bölüm",
+            "id": "95133",
+            "sub": "https://storage.diziyou.one/episodes/95133/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95133_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 12. Bölüm",
+            "id": "95134",
+            "sub": "https://storage.diziyou.one/episodes/95134/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95134_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 13. Bölüm",
+            "id": "95135",
+            "sub": "https://storage.diziyou.one/episodes/95135/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95135_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 14. Bölüm",
+            "id": "95136",
+            "sub": "https://storage.diziyou.one/episodes/95136/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95136_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 15. Bölüm",
+            "id": "95137",
+            "sub": "https://storage.diziyou.one/episodes/95137/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95137_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 16. Bölüm",
+            "id": "95138",
+            "sub": "https://storage.diziyou.one/episodes/95138/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95138_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 17. Bölüm",
+            "id": "95139",
+            "sub": "https://storage.diziyou.one/episodes/95139/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95139_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 18. Bölüm",
+            "id": "95140",
+            "sub": "https://storage.diziyou.one/episodes/95140/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95140_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 19. Bölüm",
+            "id": "95141",
+            "sub": "https://storage.diziyou.one/episodes/95141/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95141_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 20. Bölüm",
+            "id": "95142",
+            "sub": "https://storage.diziyou.one/episodes/95142/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95142_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 21. Bölüm",
+            "id": "95143",
+            "sub": "https://storage.diziyou.one/episodes/95143/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95143_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 22. Bölüm",
+            "id": "95144",
+            "sub": "https://storage.diziyou.one/episodes/95144/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95144_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 23. Bölüm",
+            "id": "95145",
+            "sub": "https://storage.diziyou.one/episodes/95145/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95145_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 1. Bölüm",
+            "id": "95146",
+            "sub": "https://storage.diziyou.one/episodes/95146/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95146_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 2. Bölüm",
+            "id": "95147",
+            "sub": "https://storage.diziyou.one/episodes/95147/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95147_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 3. Bölüm",
+            "id": "95148",
+            "sub": "https://storage.diziyou.one/episodes/95148/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95148_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 4. Bölüm",
+            "id": "95149",
+            "sub": "https://storage.diziyou.one/episodes/95149/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95149_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 5. Bölüm",
+            "id": "95150",
+            "sub": "https://storage.diziyou.one/episodes/95150/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95150_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 6. Bölüm",
+            "id": "95151",
+            "sub": "https://storage.diziyou.one/episodes/95151/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95151_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 7. Bölüm",
+            "id": "95152",
+            "sub": "https://storage.diziyou.one/episodes/95152/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95152_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 8. Bölüm",
+            "id": "95153",
+            "sub": "https://storage.diziyou.one/episodes/95153/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95153_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 9. Bölüm",
+            "id": "95154",
+            "sub": "https://storage.diziyou.one/episodes/95154/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95154_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 10. Bölüm",
+            "id": "95155",
+            "sub": "https://storage.diziyou.one/episodes/95155/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95155_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 11. Bölüm",
+            "id": "95156",
+            "sub": "https://storage.diziyou.one/episodes/95156/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95156_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 12. Bölüm",
+            "id": "95157",
+            "sub": "https://storage.diziyou.one/episodes/95157/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95157_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 13. Bölüm",
+            "id": "95158",
+            "sub": "https://storage.diziyou.one/episodes/95158/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95158_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 14. Bölüm",
+            "id": "95159",
+            "sub": "https://storage.diziyou.one/episodes/95159/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95159_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 15. Bölüm",
+            "id": "95160",
+            "sub": "https://storage.diziyou.one/episodes/95160/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95160_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 16. Bölüm",
+            "id": "95161",
+            "sub": "https://storage.diziyou.one/episodes/95161/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95161_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 17. Bölüm",
+            "id": "95162",
+            "sub": "https://storage.diziyou.one/episodes/95162/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95162_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 18. Bölüm",
+            "id": "95163",
+            "sub": "https://storage.diziyou.one/episodes/95163/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95163_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 19. Bölüm",
+            "id": "95164",
+            "sub": "https://storage.diziyou.one/episodes/95164/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95164_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 20. Bölüm",
+            "id": "95165",
+            "sub": "https://storage.diziyou.one/episodes/95165/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95165_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 21. Bölüm",
+            "id": "95166",
+            "sub": "https://storage.diziyou.one/episodes/95166/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95166_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 22. Bölüm",
+            "id": "95167",
+            "sub": "https://storage.diziyou.one/episodes/95167/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95167_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 23. Bölüm",
+            "id": "95168",
+            "sub": "https://storage.diziyou.one/episodes/95168/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95168_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 1. Bölüm",
+            "id": "95169",
+            "sub": "https://storage.diziyou.one/episodes/95169/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95169_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 2. Bölüm",
+            "id": "95170",
+            "sub": "https://storage.diziyou.one/episodes/95170/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95170_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 3. Bölüm",
+            "id": "95171",
+            "sub": "https://storage.diziyou.one/episodes/95171/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95171_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 4. Bölüm",
+            "id": "95172",
+            "sub": "https://storage.diziyou.one/episodes/95172/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95172_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 5. Bölüm",
+            "id": "95173",
+            "sub": "https://storage.diziyou.one/episodes/95173/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95173_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 6. Bölüm",
+            "id": "95174",
+            "sub": "https://storage.diziyou.one/episodes/95174/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95174_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 7. Bölüm",
+            "id": "95175",
+            "sub": "https://storage.diziyou.one/episodes/95175/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95175_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 8. Bölüm",
+            "id": "95176",
+            "sub": "https://storage.diziyou.one/episodes/95176/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95176_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 9. Bölüm",
+            "id": "95177",
+            "sub": "https://storage.diziyou.one/episodes/95177/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95177_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 10. Bölüm",
+            "id": "95178",
+            "sub": "https://storage.diziyou.one/episodes/95178/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95178_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 11. Bölüm",
+            "id": "95179",
+            "sub": "https://storage.diziyou.one/episodes/95179/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95179_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 12. Bölüm",
+            "id": "95180",
+            "sub": "https://storage.diziyou.one/episodes/95180/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95180_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 13. Bölüm",
+            "id": "95181",
+            "sub": "https://storage.diziyou.one/episodes/95181/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95181_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 14. Bölüm",
+            "id": "95182",
+            "sub": "https://storage.diziyou.one/episodes/95182/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95182_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 15. Bölüm",
+            "id": "95183",
+            "sub": "https://storage.diziyou.one/episodes/95183/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95183_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 16. Bölüm",
+            "id": "95184",
+            "sub": "https://storage.diziyou.one/episodes/95184/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95184_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 17. Bölüm",
+            "id": "95185",
+            "sub": "https://storage.diziyou.one/episodes/95185/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95185_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 18. Bölüm",
+            "id": "95186",
+            "sub": "https://storage.diziyou.one/episodes/95186/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95186_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 19. Bölüm",
+            "id": "95187",
+            "sub": "https://storage.diziyou.one/episodes/95187/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95187_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 20. Bölüm",
+            "id": "95188",
+            "sub": "https://storage.diziyou.one/episodes/95188/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95188_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 21. Bölüm",
+            "id": "95189",
+            "sub": "https://storage.diziyou.one/episodes/95189/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95189_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 22. Bölüm",
+            "id": "95190",
+            "sub": "https://storage.diziyou.one/episodes/95190/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95190_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 1. Bölüm",
+            "id": "95191",
+            "sub": "https://storage.diziyou.one/episodes/95191/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95191_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 2. Bölüm",
+            "id": "95192",
+            "sub": "https://storage.diziyou.one/episodes/95192/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95192_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 3. Bölüm",
+            "id": "95193",
+            "sub": "https://storage.diziyou.one/episodes/95193/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95193_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 4. Bölüm",
+            "id": "95194",
+            "sub": "https://storage.diziyou.one/episodes/95194/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95194_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 5. Bölüm",
+            "id": "95195",
+            "sub": "https://storage.diziyou.one/episodes/95195/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95195_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 6. Bölüm",
+            "id": "95196",
+            "sub": "https://storage.diziyou.one/episodes/95196/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95196_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 7. Bölüm",
+            "id": "95197",
+            "sub": "https://storage.diziyou.one/episodes/95197/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95197_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 8. Bölüm",
+            "id": "95198",
+            "sub": "https://storage.diziyou.one/episodes/95198/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95198_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 9. Bölüm",
+            "id": "95199",
+            "sub": "https://storage.diziyou.one/episodes/95199/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95199_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 10. Bölüm",
+            "id": "95200",
+            "sub": "https://storage.diziyou.one/episodes/95200/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95200_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 11. Bölüm",
+            "id": "95201",
+            "sub": "https://storage.diziyou.one/episodes/95201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95201_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 12. Bölüm",
+            "id": "95202",
+            "sub": "https://storage.diziyou.one/episodes/95202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95202_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 13. Bölüm",
+            "id": "95203",
+            "sub": "https://storage.diziyou.one/episodes/95203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95203_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 14. Bölüm",
+            "id": "95204",
+            "sub": "https://storage.diziyou.one/episodes/95204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95204_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 15. Bölüm",
+            "id": "95205",
+            "sub": "https://storage.diziyou.one/episodes/95205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95205_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 16. Bölüm",
+            "id": "95206",
+            "sub": "https://storage.diziyou.one/episodes/95206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95206_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 17. Bölüm",
+            "id": "95207",
+            "sub": "https://storage.diziyou.one/episodes/95207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95207_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 18. Bölüm",
+            "id": "95208",
+            "sub": "https://storage.diziyou.one/episodes/95208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95208_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 19. Bölüm",
+            "id": "95209",
+            "sub": "https://storage.diziyou.one/episodes/95209/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95209_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 20. Bölüm",
+            "id": "95210",
+            "sub": "https://storage.diziyou.one/episodes/95210/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95210_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 21. Bölüm",
+            "id": "95211",
+            "sub": "https://storage.diziyou.one/episodes/95211/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95211_tr/play.m3u8"
+        },
+        {
+            "name": "5. Sezon 22. Bölüm",
+            "id": "95212",
+            "sub": "https://storage.diziyou.one/episodes/95212/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95212_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 1. Bölüm",
+            "id": "95213",
+            "sub": "https://storage.diziyou.one/episodes/95213/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95213_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 2. Bölüm",
+            "id": "95214",
+            "sub": "https://storage.diziyou.one/episodes/95214/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95214_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 3. Bölüm",
+            "id": "95215",
+            "sub": "https://storage.diziyou.one/episodes/95215/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95215_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 4. Bölüm",
+            "id": "95216",
+            "sub": "https://storage.diziyou.one/episodes/95216/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95216_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 5. Bölüm",
+            "id": "95217",
+            "sub": "https://storage.diziyou.one/episodes/95217/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95217_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 6. Bölüm",
+            "id": "95218",
+            "sub": "https://storage.diziyou.one/episodes/95218/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95218_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 7. Bölüm",
+            "id": "95219",
+            "sub": "https://storage.diziyou.one/episodes/95219/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95219_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 8. Bölüm",
+            "id": "95220",
+            "sub": "https://storage.diziyou.one/episodes/95220/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95220_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 9. Bölüm",
+            "id": "95221",
+            "sub": "https://storage.diziyou.one/episodes/95221/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95221_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 10. Bölüm",
+            "id": "95222",
+            "sub": "https://storage.diziyou.one/episodes/95222/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95222_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 11. Bölüm",
+            "id": "95223",
+            "sub": "https://storage.diziyou.one/episodes/95223/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95223_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 12. Bölüm",
+            "id": "95224",
+            "sub": "https://storage.diziyou.one/episodes/95224/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95224_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 13. Bölüm",
+            "id": "95225",
+            "sub": "https://storage.diziyou.one/episodes/95225/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95225_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 14. Bölüm",
+            "id": "95226",
+            "sub": "https://storage.diziyou.one/episodes/95226/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95226_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 15. Bölüm",
+            "id": "95227",
+            "sub": "https://storage.diziyou.one/episodes/95227/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95227_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 16. Bölüm",
+            "id": "95228",
+            "sub": "https://storage.diziyou.one/episodes/95228/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95228_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 17. Bölüm",
+            "id": "95229",
+            "sub": "https://storage.diziyou.one/episodes/95229/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95229_tr/play.m3u8"
+        },
+        {
+            "name": "6. Sezon 18. Bölüm",
+            "id": "95230",
+            "sub": "https://storage.diziyou.one/episodes/95230/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95230_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 1. Bölüm",
+            "id": "95231",
+            "sub": "https://storage.diziyou.one/episodes/95231/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95231_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 2. Bölüm",
+            "id": "95232",
+            "sub": "https://storage.diziyou.one/episodes/95232/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95232_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 3. Bölüm",
+            "id": "95233",
+            "sub": "https://storage.diziyou.one/episodes/95233/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95233_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 4. Bölüm",
+            "id": "95234",
+            "sub": "https://storage.diziyou.one/episodes/95234/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95234_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 5. Bölüm",
+            "id": "95235",
+            "sub": "https://storage.diziyou.one/episodes/95235/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95235_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 6. Bölüm",
+            "id": "95236",
+            "sub": "https://storage.diziyou.one/episodes/95236/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95236_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 7. Bölüm",
+            "id": "95237",
+            "sub": "https://storage.diziyou.one/episodes/95237/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95237_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 8. Bölüm",
+            "id": "95238",
+            "sub": "https://storage.diziyou.one/episodes/95238/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95238_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 9. Bölüm",
+            "id": "95239",
+            "sub": "https://storage.diziyou.one/episodes/95239/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95239_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 10. Bölüm",
+            "id": "95240",
+            "sub": "https://storage.diziyou.one/episodes/95240/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95240_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 11. Bölüm",
+            "id": "95241",
+            "sub": "https://storage.diziyou.one/episodes/95241/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95241_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 12. Bölüm",
+            "id": "95242",
+            "sub": "https://storage.diziyou.one/episodes/95242/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95242_tr/play.m3u8"
+        },
+        {
+            "name": "7. Sezon 13. Bölüm",
+            "id": "95243",
+            "sub": "https://storage.diziyou.one/episodes/95243/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95243_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 1. Bölüm",
+            "id": "95244",
+            "sub": "https://storage.diziyou.one/episodes/95244/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95244_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 2. Bölüm",
+            "id": "95245",
+            "sub": "https://storage.diziyou.one/episodes/95245/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95245_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 3. Bölüm",
+            "id": "95246",
+            "sub": "https://storage.diziyou.one/episodes/95246/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95246_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 4. Bölüm",
+            "id": "95247",
+            "sub": "https://storage.diziyou.one/episodes/95247/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95247_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 5. Bölüm",
+            "id": "95248",
+            "sub": "https://storage.diziyou.one/episodes/95248/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95248_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 6. Bölüm",
+            "id": "95249",
+            "sub": "https://storage.diziyou.one/episodes/95249/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95249_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 7. Bölüm",
+            "id": "95250",
+            "sub": "https://storage.diziyou.one/episodes/95250/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95250_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 8. Bölüm",
+            "id": "95251",
+            "sub": "https://storage.diziyou.one/episodes/95251/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95251_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 9. Bölüm",
+            "id": "95252",
+            "sub": "https://storage.diziyou.one/episodes/95252/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95252_tr/play.m3u8"
+        },
+        {
+            "name": "8. Sezon 10. Bölüm",
+            "id": "95253",
+            "sub": "https://storage.diziyou.one/episodes/95253/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/95253_tr/play.m3u8"
+        }
+    ]
+}

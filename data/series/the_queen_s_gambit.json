@@ -1,0 +1,49 @@
+{
+    "title": "The Queen's Gambit",
+    "url": "https://www.diziyou.one/the-queens-gambit/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-queens-gambit.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "651",
+            "sub": "https://storage.diziyou.one/episodes/651/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/651_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "652",
+            "sub": "https://storage.diziyou.one/episodes/652/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/652_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "653",
+            "sub": "https://storage.diziyou.one/episodes/653/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/653_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "654",
+            "sub": "https://storage.diziyou.one/episodes/654/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/654_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "655",
+            "sub": "https://storage.diziyou.one/episodes/655/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/655_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "656",
+            "sub": "https://storage.diziyou.one/episodes/656/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/656_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "657",
+            "sub": "https://storage.diziyou.one/episodes/657/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/657_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Task",
+    "url": "https://www.diziyou.one/task/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/task.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "132201",
+            "sub": "https://storage.diziyou.one/episodes/132201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "132202",
+            "sub": "https://storage.diziyou.one/episodes/132202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "132203",
+            "sub": "https://storage.diziyou.one/episodes/132203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "132204",
+            "sub": "https://storage.diziyou.one/episodes/132204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "132205",
+            "sub": "https://storage.diziyou.one/episodes/132205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "132206",
+            "sub": "https://storage.diziyou.one/episodes/132206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "132207",
+            "sub": "https://storage.diziyou.one/episodes/132207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132207_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Cracow Monsters",
+    "url": "https://www.diziyou.one/cracow-monsters/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/cracow-monsters.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "17051",
+            "sub": "https://storage.diziyou.one/episodes/17051/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17051_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "17052",
+            "sub": "https://storage.diziyou.one/episodes/17052/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17052_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "17053",
+            "sub": "https://storage.diziyou.one/episodes/17053/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17053_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "17054",
+            "sub": "https://storage.diziyou.one/episodes/17054/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17054_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "17055",
+            "sub": "https://storage.diziyou.one/episodes/17055/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17055_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "17056",
+            "sub": "https://storage.diziyou.one/episodes/17056/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17056_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "17057",
+            "sub": "https://storage.diziyou.one/episodes/17057/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17057_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "17058",
+            "sub": "https://storage.diziyou.one/episodes/17058/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17058_tr/play.m3u8"
+        }
+    ]
+}

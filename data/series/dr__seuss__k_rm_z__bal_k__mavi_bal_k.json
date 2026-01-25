@@ -1,0 +1,37 @@
+{
+    "title": "Dr. Seuss: Kırmızı Balık, Mavi Balık",
+    "url": "https://www.diziyou.one/dr-seuss-kirmizi-balik-mavi-balik/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dr-seuss-red-fish-blue-fish.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "132501",
+            "sub": "https://storage.diziyou.one/episodes/132501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "132502",
+            "sub": "https://storage.diziyou.one/episodes/132502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "132503",
+            "sub": "https://storage.diziyou.one/episodes/132503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "132504",
+            "sub": "https://storage.diziyou.one/episodes/132504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "132505",
+            "sub": "https://storage.diziyou.one/episodes/132505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132505_tr/play.m3u8"
+        }
+    ]
+}

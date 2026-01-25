@@ -1,0 +1,55 @@
+{
+    "title": "Criminal Code",
+    "url": "https://www.diziyou.one/criminal-code/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/criminal-code.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "81301",
+            "sub": "https://storage.diziyou.one/episodes/81301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "81302",
+            "sub": "https://storage.diziyou.one/episodes/81302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "81303",
+            "sub": "https://storage.diziyou.one/episodes/81303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "81304",
+            "sub": "https://storage.diziyou.one/episodes/81304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "81305",
+            "sub": "https://storage.diziyou.one/episodes/81305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "81306",
+            "sub": "https://storage.diziyou.one/episodes/81306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "81307",
+            "sub": "https://storage.diziyou.one/episodes/81307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81307_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "81308",
+            "sub": "https://storage.diziyou.one/episodes/81308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81308_tr/play.m3u8"
+        }
+    ]
+}

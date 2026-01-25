@@ -1,0 +1,67 @@
+{
+    "title": "Batman: Caped Crusader",
+    "url": "https://www.diziyou.one/batman-caped-crusader/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/batman-caped-crusader.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "99901",
+            "sub": "https://storage.diziyou.one/episodes/99901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "99902",
+            "sub": "https://storage.diziyou.one/episodes/99902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "99903",
+            "sub": "https://storage.diziyou.one/episodes/99903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "99904",
+            "sub": "https://storage.diziyou.one/episodes/99904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "99905",
+            "sub": "https://storage.diziyou.one/episodes/99905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "99906",
+            "sub": "https://storage.diziyou.one/episodes/99906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "99907",
+            "sub": "https://storage.diziyou.one/episodes/99907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "99908",
+            "sub": "https://storage.diziyou.one/episodes/99908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99908_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "99909",
+            "sub": "https://storage.diziyou.one/episodes/99909/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99909_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "99910",
+            "sub": "https://storage.diziyou.one/episodes/99910/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99910_tr/play.m3u8"
+        }
+    ]
+}

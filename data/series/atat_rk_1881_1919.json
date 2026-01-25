@@ -1,0 +1,43 @@
+{
+    "title": "Atatürk 1881-1919",
+    "url": "https://www.diziyou.one/ataturk-1881-1919/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/ataturk-1881-1919.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "109001",
+            "sub": "https://storage.diziyou.one/episodes/109001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "109002",
+            "sub": "https://storage.diziyou.one/episodes/109002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "109003",
+            "sub": "https://storage.diziyou.one/episodes/109003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "109004",
+            "sub": "https://storage.diziyou.one/episodes/109004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "109005",
+            "sub": "https://storage.diziyou.one/episodes/109005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "109006",
+            "sub": "https://storage.diziyou.one/episodes/109006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109006_tr/play.m3u8"
+        }
+    ]
+}

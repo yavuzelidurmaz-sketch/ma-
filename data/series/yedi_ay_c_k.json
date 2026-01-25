@@ -1,0 +1,67 @@
+{
+    "title": "Yedi Ayıcık",
+    "url": "https://www.diziyou.one/yedi-ayicik/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/7-bears.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "123901",
+            "sub": "https://storage.diziyou.one/episodes/123901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "123902",
+            "sub": "https://storage.diziyou.one/episodes/123902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "123903",
+            "sub": "https://storage.diziyou.one/episodes/123903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "123904",
+            "sub": "https://storage.diziyou.one/episodes/123904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "123905",
+            "sub": "https://storage.diziyou.one/episodes/123905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "123906",
+            "sub": "https://storage.diziyou.one/episodes/123906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "123907",
+            "sub": "https://storage.diziyou.one/episodes/123907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "123908",
+            "sub": "https://storage.diziyou.one/episodes/123908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123908_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "123909",
+            "sub": "https://storage.diziyou.one/episodes/123909/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123909_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "123910",
+            "sub": "https://storage.diziyou.one/episodes/123910/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123910_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "GG Precinct",
+    "url": "https://www.diziyou.one/gg-precinct/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/gg-precinct.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "102501",
+            "sub": "https://storage.diziyou.one/episodes/102501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "102502",
+            "sub": "https://storage.diziyou.one/episodes/102502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "102503",
+            "sub": "https://storage.diziyou.one/episodes/102503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "102504",
+            "sub": "https://storage.diziyou.one/episodes/102504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "102505",
+            "sub": "https://storage.diziyou.one/episodes/102505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "102506",
+            "sub": "https://storage.diziyou.one/episodes/102506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102506_tr/play.m3u8"
+        }
+    ]
+}

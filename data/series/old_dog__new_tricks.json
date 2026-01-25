@@ -1,61 +1,61 @@
 {
     "title": "Old Dog, New Tricks",
     "url": "https://www.diziyou.one/old-dog-new-tricks/",
-    "poster": "",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/old-dog-new-tricks.jpg",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
             "id": "136401",
-            "sub_stream": "https://storage.diziyou.one/episodes/136401/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136401_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136401_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 2. Bölüm",
             "id": "136402",
-            "sub_stream": "https://storage.diziyou.one/episodes/136402/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136402_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136402_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 3. Bölüm",
             "id": "136403",
-            "sub_stream": "https://storage.diziyou.one/episodes/136403/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136403_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136403_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 4. Bölüm",
             "id": "136404",
-            "sub_stream": "https://storage.diziyou.one/episodes/136404/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136404_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136404_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 5. Bölüm",
             "id": "136405",
-            "sub_stream": "https://storage.diziyou.one/episodes/136405/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136405_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136405_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 6. Bölüm",
             "id": "136406",
-            "sub_stream": "https://storage.diziyou.one/episodes/136406/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136406_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136406_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 7. Bölüm",
             "id": "136407",
-            "sub_stream": "https://storage.diziyou.one/episodes/136407/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136407_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136407_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 8. Bölüm",
             "id": "136408",
-            "sub_stream": "https://storage.diziyou.one/episodes/136408/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136408_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136408_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 9. Bölüm",
             "id": "136409",
-            "sub_stream": "https://storage.diziyou.one/episodes/136409/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136409_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136409/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136409_tr/play.m3u8"
         }
     ]
 }

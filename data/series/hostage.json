@@ -1,0 +1,37 @@
+{
+    "title": "Hostage",
+    "url": "https://www.diziyou.one/hostage/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/hostage.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "130801",
+            "sub": "https://storage.diziyou.one/episodes/130801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "130802",
+            "sub": "https://storage.diziyou.one/episodes/130802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "130803",
+            "sub": "https://storage.diziyou.one/episodes/130803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "130804",
+            "sub": "https://storage.diziyou.one/episodes/130804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "130805",
+            "sub": "https://storage.diziyou.one/episodes/130805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130805_tr/play.m3u8"
+        }
+    ]
+}

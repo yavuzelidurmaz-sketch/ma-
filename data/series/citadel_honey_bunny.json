@@ -1,0 +1,43 @@
+{
+    "title": "Citadel Honey Bunny",
+    "url": "https://www.diziyou.one/citadel-honey-bunny/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/citadel-honey-bunny.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "109801",
+            "sub": "https://storage.diziyou.one/episodes/109801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "109802",
+            "sub": "https://storage.diziyou.one/episodes/109802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "109803",
+            "sub": "https://storage.diziyou.one/episodes/109803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "109804",
+            "sub": "https://storage.diziyou.one/episodes/109804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "109805",
+            "sub": "https://storage.diziyou.one/episodes/109805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "109806",
+            "sub": "https://storage.diziyou.one/episodes/109806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109806_tr/play.m3u8"
+        }
+    ]
+}

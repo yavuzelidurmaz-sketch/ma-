@@ -1,0 +1,43 @@
+{
+    "title": "Tekken: Bloodline",
+    "url": "https://www.diziyou.one/tekken-bloodline/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/tekken-bloodline.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "21051",
+            "sub": "https://storage.diziyou.one/episodes/21051/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21051_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "21052",
+            "sub": "https://storage.diziyou.one/episodes/21052/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21052_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "21053",
+            "sub": "https://storage.diziyou.one/episodes/21053/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21053_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "21054",
+            "sub": "https://storage.diziyou.one/episodes/21054/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21054_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "21055",
+            "sub": "https://storage.diziyou.one/episodes/21055/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21055_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "21056",
+            "sub": "https://storage.diziyou.one/episodes/21056/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21056_tr/play.m3u8"
+        }
+    ]
+}

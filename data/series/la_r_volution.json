@@ -1,0 +1,55 @@
+{
+    "title": "La Révolution",
+    "url": "https://www.diziyou.one/la-revolution/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/la-revolution.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "90201",
+            "sub": "https://storage.diziyou.one/episodes/90201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "90202",
+            "sub": "https://storage.diziyou.one/episodes/90202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "90203",
+            "sub": "https://storage.diziyou.one/episodes/90203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "90204",
+            "sub": "https://storage.diziyou.one/episodes/90204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "90205",
+            "sub": "https://storage.diziyou.one/episodes/90205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "90206",
+            "sub": "https://storage.diziyou.one/episodes/90206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "90207",
+            "sub": "https://storage.diziyou.one/episodes/90207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "90208",
+            "sub": "https://storage.diziyou.one/episodes/90208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90208_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "The Man with 1000 Kids",
+    "url": "https://www.diziyou.one/the-man-with-1000-kids/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-man-with-1000-kids.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "97401",
+            "sub": "https://storage.diziyou.one/episodes/97401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "97402",
+            "sub": "https://storage.diziyou.one/episodes/97402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "97403",
+            "sub": "https://storage.diziyou.one/episodes/97403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97403_tr/play.m3u8"
+        }
+    ]
+}

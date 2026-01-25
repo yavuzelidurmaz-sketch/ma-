@@ -1,0 +1,43 @@
+{
+    "title": "The Bequeathed",
+    "url": "https://www.diziyou.one/the-bequeathed/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-bequeathed.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "85201",
+            "sub": "https://storage.diziyou.one/episodes/85201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "85202",
+            "sub": "https://storage.diziyou.one/episodes/85202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "85203",
+            "sub": "https://storage.diziyou.one/episodes/85203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "85204",
+            "sub": "https://storage.diziyou.one/episodes/85204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "85205",
+            "sub": "https://storage.diziyou.one/episodes/85205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "85206",
+            "sub": "https://storage.diziyou.one/episodes/85206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/85206_tr/play.m3u8"
+        }
+    ]
+}

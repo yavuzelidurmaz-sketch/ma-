@@ -1,0 +1,91 @@
+{
+    "title": "Kleo",
+    "url": "https://www.diziyou.one/kleo/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/kleo.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "20651",
+            "sub": "https://storage.diziyou.one/episodes/20651/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20651_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "20652",
+            "sub": "https://storage.diziyou.one/episodes/20652/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20652_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "20653",
+            "sub": "https://storage.diziyou.one/episodes/20653/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20653_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "20654",
+            "sub": "https://storage.diziyou.one/episodes/20654/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20654_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "20655",
+            "sub": "https://storage.diziyou.one/episodes/20655/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20655_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "20656",
+            "sub": "https://storage.diziyou.one/episodes/20656/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20656_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "20657",
+            "sub": "https://storage.diziyou.one/episodes/20657/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20657_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "20658",
+            "sub": "https://storage.diziyou.one/episodes/20658/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20658_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "20659",
+            "sub": "https://storage.diziyou.one/episodes/20659/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20659_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "20660",
+            "sub": "https://storage.diziyou.one/episodes/20660/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20660_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "20661",
+            "sub": "https://storage.diziyou.one/episodes/20661/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20661_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "20662",
+            "sub": "https://storage.diziyou.one/episodes/20662/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20662_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "20663",
+            "sub": "https://storage.diziyou.one/episodes/20663/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20663_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "20664",
+            "sub": "https://storage.diziyou.one/episodes/20664/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20664_tr/play.m3u8"
+        }
+    ]
+}

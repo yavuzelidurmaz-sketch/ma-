@@ -1,0 +1,25 @@
+{
+    "title": "The Amazing Digital Circus",
+    "url": "https://www.diziyou.one/the-amazing-digital-circus/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-amazing-digital-circus.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "106301",
+            "sub": "https://storage.diziyou.one/episodes/106301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "106302",
+            "sub": "https://storage.diziyou.one/episodes/106302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "106303",
+            "sub": "https://storage.diziyou.one/episodes/106303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106303_tr/play.m3u8"
+        }
+    ]
+}

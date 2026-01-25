@@ -1,0 +1,43 @@
+{
+    "title": "The Perfect Couple",
+    "url": "https://www.diziyou.one/the-perfect-couple/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-perfect-couple.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "103901",
+            "sub": "https://storage.diziyou.one/episodes/103901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "103902",
+            "sub": "https://storage.diziyou.one/episodes/103902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "103903",
+            "sub": "https://storage.diziyou.one/episodes/103903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "103904",
+            "sub": "https://storage.diziyou.one/episodes/103904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "103905",
+            "sub": "https://storage.diziyou.one/episodes/103905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "103906",
+            "sub": "https://storage.diziyou.one/episodes/103906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103906_tr/play.m3u8"
+        }
+    ]
+}

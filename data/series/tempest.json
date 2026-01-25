@@ -1,0 +1,61 @@
+{
+    "title": "Tempest",
+    "url": "https://www.diziyou.one/tempest/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/tempest.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "133101",
+            "sub": "https://storage.diziyou.one/episodes/133101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "133102",
+            "sub": "https://storage.diziyou.one/episodes/133102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "133103",
+            "sub": "https://storage.diziyou.one/episodes/133103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "133104",
+            "sub": "https://storage.diziyou.one/episodes/133104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "133105",
+            "sub": "https://storage.diziyou.one/episodes/133105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "133106",
+            "sub": "https://storage.diziyou.one/episodes/133106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "133107",
+            "sub": "https://storage.diziyou.one/episodes/133107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "133108",
+            "sub": "https://storage.diziyou.one/episodes/133108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133108_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "133109",
+            "sub": "https://storage.diziyou.one/episodes/133109/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133109_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Andropoz",
+    "url": "https://www.diziyou.one/andropoz/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/andropoz.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "22801",
+            "sub": "https://storage.diziyou.one/episodes/22801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "22802",
+            "sub": "https://storage.diziyou.one/episodes/22802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "22803",
+            "sub": "https://storage.diziyou.one/episodes/22803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "22804",
+            "sub": "https://storage.diziyou.one/episodes/22804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "22805",
+            "sub": "https://storage.diziyou.one/episodes/22805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "22806",
+            "sub": "https://storage.diziyou.one/episodes/22806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22806_tr/play.m3u8"
+        }
+    ]
+}

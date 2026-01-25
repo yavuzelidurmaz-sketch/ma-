@@ -1,0 +1,55 @@
+{
+    "title": "Life on Our Planet",
+    "url": "https://www.diziyou.one/life-on-our-planet/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/life-on-our-planet.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "81001",
+            "sub": "https://storage.diziyou.one/episodes/81001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "81002",
+            "sub": "https://storage.diziyou.one/episodes/81002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "81003",
+            "sub": "https://storage.diziyou.one/episodes/81003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "81004",
+            "sub": "https://storage.diziyou.one/episodes/81004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "81005",
+            "sub": "https://storage.diziyou.one/episodes/81005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "81006",
+            "sub": "https://storage.diziyou.one/episodes/81006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "81007",
+            "sub": "https://storage.diziyou.one/episodes/81007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "81008",
+            "sub": "https://storage.diziyou.one/episodes/81008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81008_tr/play.m3u8"
+        }
+    ]
+}

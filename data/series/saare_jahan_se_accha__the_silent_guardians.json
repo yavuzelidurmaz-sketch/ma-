@@ -1,0 +1,43 @@
+{
+    "title": "Saare Jahan Se Accha: The Silent Guardians",
+    "url": "https://www.diziyou.one/saare-jahan-se-accha-the-silent-guardians/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/saare-jahan-se-accha-the-silent-guardians.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "130101",
+            "sub": "https://storage.diziyou.one/episodes/130101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "130102",
+            "sub": "https://storage.diziyou.one/episodes/130102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "130103",
+            "sub": "https://storage.diziyou.one/episodes/130103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "130104",
+            "sub": "https://storage.diziyou.one/episodes/130104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "130105",
+            "sub": "https://storage.diziyou.one/episodes/130105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "130106",
+            "sub": "https://storage.diziyou.one/episodes/130106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130106_tr/play.m3u8"
+        }
+    ]
+}

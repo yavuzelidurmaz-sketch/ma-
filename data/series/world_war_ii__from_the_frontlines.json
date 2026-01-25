@@ -1,0 +1,43 @@
+{
+    "title": "World War II: From the Frontlines",
+    "url": "https://www.diziyou.one/world-war-ii-from-the-frontlines/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/ii-dunya-savasi-on-cepheden.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "83401",
+            "sub": "https://storage.diziyou.one/episodes/83401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "83402",
+            "sub": "https://storage.diziyou.one/episodes/83402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "83403",
+            "sub": "https://storage.diziyou.one/episodes/83403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "83404",
+            "sub": "https://storage.diziyou.one/episodes/83404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "83405",
+            "sub": "https://storage.diziyou.one/episodes/83405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "83406",
+            "sub": "https://storage.diziyou.one/episodes/83406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83406_tr/play.m3u8"
+        }
+    ]
+}

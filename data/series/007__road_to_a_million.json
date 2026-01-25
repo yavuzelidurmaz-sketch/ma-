@@ -1,0 +1,55 @@
+{
+    "title": "007: Road to a Million",
+    "url": "https://www.diziyou.one/007-road-to-a-million/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/007-road-to-a-million.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "81901",
+            "sub": "https://storage.diziyou.one/episodes/81901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "81902",
+            "sub": "https://storage.diziyou.one/episodes/81902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "81903",
+            "sub": "https://storage.diziyou.one/episodes/81903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "81904",
+            "sub": "https://storage.diziyou.one/episodes/81904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "81905",
+            "sub": "https://storage.diziyou.one/episodes/81905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "81906",
+            "sub": "https://storage.diziyou.one/episodes/81906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "81907",
+            "sub": "https://storage.diziyou.one/episodes/81907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "81908",
+            "sub": "https://storage.diziyou.one/episodes/81908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/81908_tr/play.m3u8"
+        }
+    ]
+}

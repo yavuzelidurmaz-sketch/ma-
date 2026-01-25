@@ -1,0 +1,55 @@
+{
+    "title": "Uncoupled",
+    "url": "https://www.diziyou.one/uncoupled/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/uncoupled.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "21151",
+            "sub": "https://storage.diziyou.one/episodes/21151/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21151_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "21152",
+            "sub": "https://storage.diziyou.one/episodes/21152/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21152_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "21153",
+            "sub": "https://storage.diziyou.one/episodes/21153/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21153_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "21154",
+            "sub": "https://storage.diziyou.one/episodes/21154/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21154_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "21155",
+            "sub": "https://storage.diziyou.one/episodes/21155/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21155_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "21156",
+            "sub": "https://storage.diziyou.one/episodes/21156/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21156_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "21157",
+            "sub": "https://storage.diziyou.one/episodes/21157/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21157_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "21158",
+            "sub": "https://storage.diziyou.one/episodes/21158/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21158_tr/play.m3u8"
+        }
+    ]
+}

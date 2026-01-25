@@ -1,55 +1,55 @@
 {
     "title": "House of Guinness",
     "url": "https://www.diziyou.one/house-of-guinness/",
-    "poster": "",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/house-of-guinness.jpg",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
             "id": "135601",
-            "sub_stream": "https://storage.diziyou.one/episodes/135601/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135601_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135601_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 2. Bölüm",
             "id": "135602",
-            "sub_stream": "https://storage.diziyou.one/episodes/135602/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135602_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135602_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 3. Bölüm",
             "id": "135603",
-            "sub_stream": "https://storage.diziyou.one/episodes/135603/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135603_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135603_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 4. Bölüm",
             "id": "135604",
-            "sub_stream": "https://storage.diziyou.one/episodes/135604/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135604_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135604_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 5. Bölüm",
             "id": "135605",
-            "sub_stream": "https://storage.diziyou.one/episodes/135605/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135605_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135605_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 6. Bölüm",
             "id": "135606",
-            "sub_stream": "https://storage.diziyou.one/episodes/135606/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135606_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135606_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 7. Bölüm",
             "id": "135607",
-            "sub_stream": "https://storage.diziyou.one/episodes/135607/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135607_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135607_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 8. Bölüm",
             "id": "135608",
-            "sub_stream": "https://storage.diziyou.one/episodes/135608/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135608_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135608_tr/play.m3u8"
         }
     ]
 }

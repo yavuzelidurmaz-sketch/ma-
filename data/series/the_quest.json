@@ -1,0 +1,55 @@
+{
+    "title": "The Quest",
+    "url": "https://www.diziyou.one/the-quest/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-quest.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "19351",
+            "sub": "https://storage.diziyou.one/episodes/19351/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19351_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "19352",
+            "sub": "https://storage.diziyou.one/episodes/19352/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19352_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "19353",
+            "sub": "https://storage.diziyou.one/episodes/19353/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19353_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "19354",
+            "sub": "https://storage.diziyou.one/episodes/19354/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19354_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "19355",
+            "sub": "https://storage.diziyou.one/episodes/19355/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19355_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "19356",
+            "sub": "https://storage.diziyou.one/episodes/19356/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19356_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "19357",
+            "sub": "https://storage.diziyou.one/episodes/19357/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19357_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "19358",
+            "sub": "https://storage.diziyou.one/episodes/19358/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19358_tr/play.m3u8"
+        }
+    ]
+}

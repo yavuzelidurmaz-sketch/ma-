@@ -1,0 +1,163 @@
+{
+    "title": "Teletubbies",
+    "url": "https://www.diziyou.one/teletubbies/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/teletubbies.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "24101",
+            "sub": "https://storage.diziyou.one/episodes/24101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "24102",
+            "sub": "https://storage.diziyou.one/episodes/24102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "24103",
+            "sub": "https://storage.diziyou.one/episodes/24103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "24104",
+            "sub": "https://storage.diziyou.one/episodes/24104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "24105",
+            "sub": "https://storage.diziyou.one/episodes/24105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "24106",
+            "sub": "https://storage.diziyou.one/episodes/24106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "24107",
+            "sub": "https://storage.diziyou.one/episodes/24107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "24108",
+            "sub": "https://storage.diziyou.one/episodes/24108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24108_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "24109",
+            "sub": "https://storage.diziyou.one/episodes/24109/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24109_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "24110",
+            "sub": "https://storage.diziyou.one/episodes/24110/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24110_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "24111",
+            "sub": "https://storage.diziyou.one/episodes/24111/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24111_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 12. Bölüm",
+            "id": "24112",
+            "sub": "https://storage.diziyou.one/episodes/24112/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24112_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 13. Bölüm",
+            "id": "24113",
+            "sub": "https://storage.diziyou.one/episodes/24113/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24113_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 14. Bölüm",
+            "id": "24114",
+            "sub": "https://storage.diziyou.one/episodes/24114/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24114_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 15. Bölüm",
+            "id": "24115",
+            "sub": "https://storage.diziyou.one/episodes/24115/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24115_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 16. Bölüm",
+            "id": "24116",
+            "sub": "https://storage.diziyou.one/episodes/24116/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24116_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 17. Bölüm",
+            "id": "24117",
+            "sub": "https://storage.diziyou.one/episodes/24117/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24117_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 18. Bölüm",
+            "id": "24118",
+            "sub": "https://storage.diziyou.one/episodes/24118/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24118_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 19. Bölüm",
+            "id": "24119",
+            "sub": "https://storage.diziyou.one/episodes/24119/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24119_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 20. Bölüm",
+            "id": "24120",
+            "sub": "https://storage.diziyou.one/episodes/24120/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24120_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 21. Bölüm",
+            "id": "24121",
+            "sub": "https://storage.diziyou.one/episodes/24121/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24121_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 22. Bölüm",
+            "id": "24122",
+            "sub": "https://storage.diziyou.one/episodes/24122/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24122_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 23. Bölüm",
+            "id": "24123",
+            "sub": "https://storage.diziyou.one/episodes/24123/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24123_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 24. Bölüm",
+            "id": "24124",
+            "sub": "https://storage.diziyou.one/episodes/24124/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24124_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 25. Bölüm",
+            "id": "24125",
+            "sub": "https://storage.diziyou.one/episodes/24125/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24125_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 26. Bölüm",
+            "id": "24126",
+            "sub": "https://storage.diziyou.one/episodes/24126/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24126_tr/play.m3u8"
+        }
+    ]
+}

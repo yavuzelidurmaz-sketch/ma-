@@ -1,0 +1,103 @@
+{
+    "title": "Tehran",
+    "url": "https://www.diziyou.one/tehran/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/tehran.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "90101",
+            "sub": "https://storage.diziyou.one/episodes/90101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "90102",
+            "sub": "https://storage.diziyou.one/episodes/90102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "90103",
+            "sub": "https://storage.diziyou.one/episodes/90103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "90104",
+            "sub": "https://storage.diziyou.one/episodes/90104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "90105",
+            "sub": "https://storage.diziyou.one/episodes/90105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "90106",
+            "sub": "https://storage.diziyou.one/episodes/90106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "90107",
+            "sub": "https://storage.diziyou.one/episodes/90107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "90108",
+            "sub": "https://storage.diziyou.one/episodes/90108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90108_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "90109",
+            "sub": "https://storage.diziyou.one/episodes/90109/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90109_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "90110",
+            "sub": "https://storage.diziyou.one/episodes/90110/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90110_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "90111",
+            "sub": "https://storage.diziyou.one/episodes/90111/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90111_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "90112",
+            "sub": "https://storage.diziyou.one/episodes/90112/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90112_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "90113",
+            "sub": "https://storage.diziyou.one/episodes/90113/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90113_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "90114",
+            "sub": "https://storage.diziyou.one/episodes/90114/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90114_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 7. Bölüm",
+            "id": "90115",
+            "sub": "https://storage.diziyou.one/episodes/90115/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90115_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 8. Bölüm",
+            "id": "90116",
+            "sub": "https://storage.diziyou.one/episodes/90116/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90116_tr/play.m3u8"
+        }
+    ]
+}

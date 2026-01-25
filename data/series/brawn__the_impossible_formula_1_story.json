@@ -1,0 +1,31 @@
+{
+    "title": "Brawn: The Impossible Formula 1 Story",
+    "url": "https://www.diziyou.one/brawn-the-impossible-formula-1-story/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/brawn-the-impossible-formula-1-story.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "83101",
+            "sub": "https://storage.diziyou.one/episodes/83101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "83102",
+            "sub": "https://storage.diziyou.one/episodes/83102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "83103",
+            "sub": "https://storage.diziyou.one/episodes/83103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "83104",
+            "sub": "https://storage.diziyou.one/episodes/83104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83104_tr/play.m3u8"
+        }
+    ]
+}

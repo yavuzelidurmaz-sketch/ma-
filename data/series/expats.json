@@ -1,0 +1,43 @@
+{
+    "title": "Expats",
+    "url": "https://www.diziyou.one/expats/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/expats.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "86101",
+            "sub": "https://storage.diziyou.one/episodes/86101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "86102",
+            "sub": "https://storage.diziyou.one/episodes/86102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "86103",
+            "sub": "https://storage.diziyou.one/episodes/86103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "86104",
+            "sub": "https://storage.diziyou.one/episodes/86104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "86105",
+            "sub": "https://storage.diziyou.one/episodes/86105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "86106",
+            "sub": "https://storage.diziyou.one/episodes/86106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/86106_tr/play.m3u8"
+        }
+    ]
+}

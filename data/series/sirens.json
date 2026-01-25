@@ -1,0 +1,37 @@
+{
+    "title": "Sirens",
+    "url": "https://www.diziyou.one/sirens/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sirens.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "122601",
+            "sub": "https://storage.diziyou.one/episodes/122601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "122602",
+            "sub": "https://storage.diziyou.one/episodes/122602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "122603",
+            "sub": "https://storage.diziyou.one/episodes/122603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "122604",
+            "sub": "https://storage.diziyou.one/episodes/122604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "122605",
+            "sub": "https://storage.diziyou.one/episodes/122605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122605_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Florida Man",
+    "url": "https://www.diziyou.one/florida-man/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/florida-man.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "60601",
+            "sub": "https://storage.diziyou.one/episodes/60601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "60602",
+            "sub": "https://storage.diziyou.one/episodes/60602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "60603",
+            "sub": "https://storage.diziyou.one/episodes/60603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "60604",
+            "sub": "https://storage.diziyou.one/episodes/60604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "60605",
+            "sub": "https://storage.diziyou.one/episodes/60605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "60606",
+            "sub": "https://storage.diziyou.one/episodes/60606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "60607",
+            "sub": "https://storage.diziyou.one/episodes/60607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60607_tr/play.m3u8"
+        }
+    ]
+}

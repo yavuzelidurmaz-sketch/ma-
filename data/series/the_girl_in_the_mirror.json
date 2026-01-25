@@ -1,0 +1,61 @@
+{
+    "title": "The Girl in the Mirror",
+    "url": "https://www.diziyou.one/the-girl-in-the-mirror-alma/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-girl-in-the-mirror.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "20901",
+            "sub": "https://storage.diziyou.one/episodes/20901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "20902",
+            "sub": "https://storage.diziyou.one/episodes/20902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "20903",
+            "sub": "https://storage.diziyou.one/episodes/20903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "20904",
+            "sub": "https://storage.diziyou.one/episodes/20904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "20905",
+            "sub": "https://storage.diziyou.one/episodes/20905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "20906",
+            "sub": "https://storage.diziyou.one/episodes/20906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "20907",
+            "sub": "https://storage.diziyou.one/episodes/20907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "20908",
+            "sub": "https://storage.diziyou.one/episodes/20908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20908_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "20909",
+            "sub": "https://storage.diziyou.one/episodes/20909/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20909_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Countdown: Paul vs. Tyson",
+    "url": "https://www.diziyou.one/countdown-paul-vs-tyson/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/countdown-paul-vs-tyson.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "109501",
+            "sub": "https://storage.diziyou.one/episodes/109501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "109502",
+            "sub": "https://storage.diziyou.one/episodes/109502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "109503",
+            "sub": "https://storage.diziyou.one/episodes/109503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109503_tr/play.m3u8"
+        }
+    ]
+}

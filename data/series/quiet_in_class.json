@@ -1,25 +1,25 @@
 {
     "title": "Quiet in Class",
     "url": "https://www.diziyou.one/quiet-in-class/",
-    "poster": "",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/quiet-in-class.jpg",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
             "id": "136801",
-            "sub_stream": "https://storage.diziyou.one/episodes/136801/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136801_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136801_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 2. Bölüm",
             "id": "136802",
-            "sub_stream": "https://storage.diziyou.one/episodes/136802/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136802_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136802_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 3. Bölüm",
             "id": "136803",
-            "sub_stream": "https://storage.diziyou.one/episodes/136803/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/136803_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/136803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136803_tr/play.m3u8"
         }
     ]
 }

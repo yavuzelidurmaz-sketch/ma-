@@ -1,0 +1,55 @@
+{
+    "title": "The Last Night at Tremore Beach",
+    "url": "https://www.diziyou.one/the-last-night-at-tremore-beach/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-last-night-at-tremore-beach.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "108001",
+            "sub": "https://storage.diziyou.one/episodes/108001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "108002",
+            "sub": "https://storage.diziyou.one/episodes/108002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "108003",
+            "sub": "https://storage.diziyou.one/episodes/108003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "108004",
+            "sub": "https://storage.diziyou.one/episodes/108004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "108005",
+            "sub": "https://storage.diziyou.one/episodes/108005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "108006",
+            "sub": "https://storage.diziyou.one/episodes/108006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "108007",
+            "sub": "https://storage.diziyou.one/episodes/108007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "108008",
+            "sub": "https://storage.diziyou.one/episodes/108008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108008_tr/play.m3u8"
+        }
+    ]
+}

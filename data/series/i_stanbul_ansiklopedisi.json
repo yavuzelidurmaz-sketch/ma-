@@ -1,0 +1,55 @@
+{
+    "title": "İstanbul Ansiklopedisi",
+    "url": "https://www.diziyou.one/istanbul-ansiklopedisi/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/istanbul-ansiklopedisi.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "121101",
+            "sub": "https://storage.diziyou.one/episodes/121101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "121102",
+            "sub": "https://storage.diziyou.one/episodes/121102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "121103",
+            "sub": "https://storage.diziyou.one/episodes/121103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "121104",
+            "sub": "https://storage.diziyou.one/episodes/121104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "121105",
+            "sub": "https://storage.diziyou.one/episodes/121105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "121106",
+            "sub": "https://storage.diziyou.one/episodes/121106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "121107",
+            "sub": "https://storage.diziyou.one/episodes/121107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "121108",
+            "sub": "https://storage.diziyou.one/episodes/121108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/121108_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,31 +1,31 @@
 {
     "title": "Marvel Zombies",
     "url": "https://www.diziyou.one/marvel-zombies/",
-    "poster": "",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/marvel-zombies.jpg",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
             "id": "135501",
-            "sub_stream": "https://storage.diziyou.one/episodes/135501/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135501_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135501_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 2. Bölüm",
             "id": "135502",
-            "sub_stream": "https://storage.diziyou.one/episodes/135502/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135502_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135502_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 3. Bölüm",
             "id": "135503",
-            "sub_stream": "https://storage.diziyou.one/episodes/135503/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135503_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135503_tr/play.m3u8"
         },
         {
             "name": "1. Sezon 4. Bölüm",
             "id": "135504",
-            "sub_stream": "https://storage.diziyou.one/episodes/135504/play.m3u8",
-            "dub_stream": "https://storage.diziyou.one/episodes/135504_tr/play.m3u8"
+            "sub": "https://storage.diziyou.one/episodes/135504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135504_tr/play.m3u8"
         }
     ]
 }

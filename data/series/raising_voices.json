@@ -1,0 +1,55 @@
+{
+    "title": "Raising Voices",
+    "url": "https://www.diziyou.one/raising-voices/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/raising-voices.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "94201",
+            "sub": "https://storage.diziyou.one/episodes/94201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "94202",
+            "sub": "https://storage.diziyou.one/episodes/94202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "94203",
+            "sub": "https://storage.diziyou.one/episodes/94203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "94204",
+            "sub": "https://storage.diziyou.one/episodes/94204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "94205",
+            "sub": "https://storage.diziyou.one/episodes/94205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "94206",
+            "sub": "https://storage.diziyou.one/episodes/94206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "94207",
+            "sub": "https://storage.diziyou.one/episodes/94207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "94208",
+            "sub": "https://storage.diziyou.one/episodes/94208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94208_tr/play.m3u8"
+        }
+    ]
+}

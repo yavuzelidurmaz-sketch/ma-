@@ -1,0 +1,55 @@
+{
+    "title": "MAKE MY DAY",
+    "url": "https://www.diziyou.one/make-my-day/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/make-my-day.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "28901",
+            "sub": "https://storage.diziyou.one/episodes/28901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "28902",
+            "sub": "https://storage.diziyou.one/episodes/28902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "28903",
+            "sub": "https://storage.diziyou.one/episodes/28903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "28904",
+            "sub": "https://storage.diziyou.one/episodes/28904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "28905",
+            "sub": "https://storage.diziyou.one/episodes/28905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "28906",
+            "sub": "https://storage.diziyou.one/episodes/28906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "28907",
+            "sub": "https://storage.diziyou.one/episodes/28907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "28908",
+            "sub": "https://storage.diziyou.one/episodes/28908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/28908_tr/play.m3u8"
+        }
+    ]
+}

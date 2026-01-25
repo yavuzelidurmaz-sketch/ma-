@@ -1,0 +1,43 @@
+{
+    "title": "Wyatt Earp and the Cowboy War",
+    "url": "https://www.diziyou.one/wyatt-earp-and-the-cowboy-war/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/wyatt-earp-and-the-cowboy-war.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "102001",
+            "sub": "https://storage.diziyou.one/episodes/102001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "102002",
+            "sub": "https://storage.diziyou.one/episodes/102002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "102003",
+            "sub": "https://storage.diziyou.one/episodes/102003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "102004",
+            "sub": "https://storage.diziyou.one/episodes/102004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "102005",
+            "sub": "https://storage.diziyou.one/episodes/102005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "102006",
+            "sub": "https://storage.diziyou.one/episodes/102006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102006_tr/play.m3u8"
+        }
+    ]
+}

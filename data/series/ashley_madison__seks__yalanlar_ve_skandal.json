@@ -1,0 +1,25 @@
+{
+    "title": "Ashley Madison: Seks, Yalanlar ve Skandal",
+    "url": "https://www.diziyou.one/ashley-madison-seks-yalanlar-ve-skandal/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/ashley-madison-seks-yalanlar-ve-skandal.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "93001",
+            "sub": "https://storage.diziyou.one/episodes/93001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "93002",
+            "sub": "https://storage.diziyou.one/episodes/93002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "93003",
+            "sub": "https://storage.diziyou.one/episodes/93003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93003_tr/play.m3u8"
+        }
+    ]
+}

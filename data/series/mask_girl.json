@@ -1,0 +1,49 @@
+{
+    "title": "Mask Girl",
+    "url": "https://www.diziyou.one/mask-girl/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/mask-girl.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "75401",
+            "sub": "https://storage.diziyou.one/episodes/75401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "75402",
+            "sub": "https://storage.diziyou.one/episodes/75402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "75403",
+            "sub": "https://storage.diziyou.one/episodes/75403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "75404",
+            "sub": "https://storage.diziyou.one/episodes/75404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "75405",
+            "sub": "https://storage.diziyou.one/episodes/75405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "75406",
+            "sub": "https://storage.diziyou.one/episodes/75406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "75407",
+            "sub": "https://storage.diziyou.one/episodes/75407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/75407_tr/play.m3u8"
+        }
+    ]
+}

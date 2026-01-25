@@ -1,0 +1,25 @@
+{
+    "title": "American Murder: Laci Peterson",
+    "url": "https://www.diziyou.one/american-murder-laci-peterson/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/american-murder-laci-peterson.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "100901",
+            "sub": "https://storage.diziyou.one/episodes/100901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "100902",
+            "sub": "https://storage.diziyou.one/episodes/100902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "100903",
+            "sub": "https://storage.diziyou.one/episodes/100903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100903_tr/play.m3u8"
+        }
+    ]
+}

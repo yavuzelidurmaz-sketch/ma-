@@ -1,0 +1,25 @@
+{
+    "title": "Arnold",
+    "url": "https://www.diziyou.one/arnold/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/arnold.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "72801",
+            "sub": "https://storage.diziyou.one/episodes/72801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "72802",
+            "sub": "https://storage.diziyou.one/episodes/72802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "72803",
+            "sub": "https://storage.diziyou.one/episodes/72803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72803_tr/play.m3u8"
+        }
+    ]
+}

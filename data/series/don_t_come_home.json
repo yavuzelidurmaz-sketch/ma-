@@ -1,0 +1,43 @@
+{
+    "title": "Don't Come Home",
+    "url": "https://www.diziyou.one/dont-come-home/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dont-come-home.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "108701",
+            "sub": "https://storage.diziyou.one/episodes/108701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "108702",
+            "sub": "https://storage.diziyou.one/episodes/108702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "108703",
+            "sub": "https://storage.diziyou.one/episodes/108703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "108704",
+            "sub": "https://storage.diziyou.one/episodes/108704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "108705",
+            "sub": "https://storage.diziyou.one/episodes/108705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "108706",
+            "sub": "https://storage.diziyou.one/episodes/108706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/108706_tr/play.m3u8"
+        }
+    ]
+}

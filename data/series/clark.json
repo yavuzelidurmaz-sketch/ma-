@@ -1,0 +1,43 @@
+{
+    "title": "Clark",
+    "url": "https://www.diziyou.one/clark/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/clark.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "19101",
+            "sub": "https://storage.diziyou.one/episodes/19101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "19102",
+            "sub": "https://storage.diziyou.one/episodes/19102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "19103",
+            "sub": "https://storage.diziyou.one/episodes/19103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "19104",
+            "sub": "https://storage.diziyou.one/episodes/19104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "19105",
+            "sub": "https://storage.diziyou.one/episodes/19105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "19106",
+            "sub": "https://storage.diziyou.one/episodes/19106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19106_tr/play.m3u8"
+        }
+    ]
+}

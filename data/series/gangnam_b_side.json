@@ -1,0 +1,55 @@
+{
+    "title": "Gangnam B-Side",
+    "url": "https://www.diziyou.one/gangnam-b-side/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/gangnam-b-side.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "110501",
+            "sub": "https://storage.diziyou.one/episodes/110501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "110502",
+            "sub": "https://storage.diziyou.one/episodes/110502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "110503",
+            "sub": "https://storage.diziyou.one/episodes/110503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "110504",
+            "sub": "https://storage.diziyou.one/episodes/110504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "110505",
+            "sub": "https://storage.diziyou.one/episodes/110505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "110506",
+            "sub": "https://storage.diziyou.one/episodes/110506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "110507",
+            "sub": "https://storage.diziyou.one/episodes/110507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "110508",
+            "sub": "https://storage.diziyou.one/episodes/110508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110508_tr/play.m3u8"
+        }
+    ]
+}

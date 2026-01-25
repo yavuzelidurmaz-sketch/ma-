@@ -1,0 +1,43 @@
+{
+    "title": "Pauline",
+    "url": "https://www.diziyou.one/pauline/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/pauline.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "94001",
+            "sub": "https://storage.diziyou.one/episodes/94001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "94002",
+            "sub": "https://storage.diziyou.one/episodes/94002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "94003",
+            "sub": "https://storage.diziyou.one/episodes/94003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "94004",
+            "sub": "https://storage.diziyou.one/episodes/94004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "94005",
+            "sub": "https://storage.diziyou.one/episodes/94005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "94006",
+            "sub": "https://storage.diziyou.one/episodes/94006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94006_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,97 @@
+{
+    "title": "Russian Doll",
+    "url": "https://www.diziyou.one/russian-doll/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/russian-doll.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "17501",
+            "sub": "https://storage.diziyou.one/episodes/17501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "17502",
+            "sub": "https://storage.diziyou.one/episodes/17502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "17503",
+            "sub": "https://storage.diziyou.one/episodes/17503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "17504",
+            "sub": "https://storage.diziyou.one/episodes/17504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "17505",
+            "sub": "https://storage.diziyou.one/episodes/17505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "17506",
+            "sub": "https://storage.diziyou.one/episodes/17506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "17507",
+            "sub": "https://storage.diziyou.one/episodes/17507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "17508",
+            "sub": "https://storage.diziyou.one/episodes/17508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17508_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "17509",
+            "sub": "https://storage.diziyou.one/episodes/17509/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17509_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "17510",
+            "sub": "https://storage.diziyou.one/episodes/17510/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17510_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "17511",
+            "sub": "https://storage.diziyou.one/episodes/17511/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17511_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "17512",
+            "sub": "https://storage.diziyou.one/episodes/17512/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17512_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "17513",
+            "sub": "https://storage.diziyou.one/episodes/17513/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17513_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "17514",
+            "sub": "https://storage.diziyou.one/episodes/17514/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17514_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 7. Bölüm",
+            "id": "17515",
+            "sub": "https://storage.diziyou.one/episodes/17515/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/17515_tr/play.m3u8"
+        }
+    ]
+}

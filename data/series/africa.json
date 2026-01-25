@@ -1,0 +1,43 @@
+{
+    "title": "Africa",
+    "url": "https://www.diziyou.one/africa/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/africa.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1031",
+            "sub": "https://storage.diziyou.one/episodes/1031/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1031_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1032",
+            "sub": "https://storage.diziyou.one/episodes/1032/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1032_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1033",
+            "sub": "https://storage.diziyou.one/episodes/1033/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1033_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1034",
+            "sub": "https://storage.diziyou.one/episodes/1034/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1034_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1035",
+            "sub": "https://storage.diziyou.one/episodes/1035/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1035_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1036",
+            "sub": "https://storage.diziyou.one/episodes/1036/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1036_tr/play.m3u8"
+        }
+    ]
+}

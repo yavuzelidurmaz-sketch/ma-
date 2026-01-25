@@ -1,0 +1,55 @@
+{
+    "title": "I Am A Stalker",
+    "url": "https://www.diziyou.one/i-am-a-stalker/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/i-am-a-stalker.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "23651",
+            "sub": "https://storage.diziyou.one/episodes/23651/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23651_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "23652",
+            "sub": "https://storage.diziyou.one/episodes/23652/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23652_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "23653",
+            "sub": "https://storage.diziyou.one/episodes/23653/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23653_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "23654",
+            "sub": "https://storage.diziyou.one/episodes/23654/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23654_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "23655",
+            "sub": "https://storage.diziyou.one/episodes/23655/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23655_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "23656",
+            "sub": "https://storage.diziyou.one/episodes/23656/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23656_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "23657",
+            "sub": "https://storage.diziyou.one/episodes/23657/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23657_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "23658",
+            "sub": "https://storage.diziyou.one/episodes/23658/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23658_tr/play.m3u8"
+        }
+    ]
+}

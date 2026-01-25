@@ -1,0 +1,31 @@
+{
+    "title": "Encounters",
+    "url": "https://www.diziyou.one/encounters/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/encounters.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "77601",
+            "sub": "https://storage.diziyou.one/episodes/77601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/77601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "77602",
+            "sub": "https://storage.diziyou.one/episodes/77602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/77602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "77603",
+            "sub": "https://storage.diziyou.one/episodes/77603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/77603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "77604",
+            "sub": "https://storage.diziyou.one/episodes/77604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/77604_tr/play.m3u8"
+        }
+    ]
+}

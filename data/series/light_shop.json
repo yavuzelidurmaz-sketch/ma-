@@ -1,0 +1,55 @@
+{
+    "title": "Light Shop",
+    "url": "https://www.diziyou.one/light-shop/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/light-shop.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "114201",
+            "sub": "https://storage.diziyou.one/episodes/114201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "114202",
+            "sub": "https://storage.diziyou.one/episodes/114202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "114203",
+            "sub": "https://storage.diziyou.one/episodes/114203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "114204",
+            "sub": "https://storage.diziyou.one/episodes/114204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "114205",
+            "sub": "https://storage.diziyou.one/episodes/114205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "114206",
+            "sub": "https://storage.diziyou.one/episodes/114206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "114207",
+            "sub": "https://storage.diziyou.one/episodes/114207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "114208",
+            "sub": "https://storage.diziyou.one/episodes/114208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/114208_tr/play.m3u8"
+        }
+    ]
+}

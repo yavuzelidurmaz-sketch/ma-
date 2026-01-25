@@ -1,0 +1,31 @@
+{
+    "title": "Worst Ex Ever",
+    "url": "https://www.diziyou.one/worst-ex-ever/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/worst-ex-ever.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "103201",
+            "sub": "https://storage.diziyou.one/episodes/103201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "103202",
+            "sub": "https://storage.diziyou.one/episodes/103202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "103203",
+            "sub": "https://storage.diziyou.one/episodes/103203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "103204",
+            "sub": "https://storage.diziyou.one/episodes/103204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103204_tr/play.m3u8"
+        }
+    ]
+}

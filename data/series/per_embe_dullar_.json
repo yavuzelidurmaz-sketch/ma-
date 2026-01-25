@@ -1,0 +1,43 @@
+{
+    "title": "Perşembe Dulları",
+    "url": "https://www.diziyou.one/persembe-dullari/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/persembe-dullari.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "76401",
+            "sub": "https://storage.diziyou.one/episodes/76401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "76402",
+            "sub": "https://storage.diziyou.one/episodes/76402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "76403",
+            "sub": "https://storage.diziyou.one/episodes/76403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "76404",
+            "sub": "https://storage.diziyou.one/episodes/76404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "76405",
+            "sub": "https://storage.diziyou.one/episodes/76405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "76406",
+            "sub": "https://storage.diziyou.one/episodes/76406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76406_tr/play.m3u8"
+        }
+    ]
+}

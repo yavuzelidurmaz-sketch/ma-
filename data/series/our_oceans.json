@@ -1,0 +1,37 @@
+{
+    "title": "Our Oceans",
+    "url": "https://www.diziyou.one/our-oceans/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/our-oceans.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "110401",
+            "sub": "https://storage.diziyou.one/episodes/110401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "110402",
+            "sub": "https://storage.diziyou.one/episodes/110402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "110403",
+            "sub": "https://storage.diziyou.one/episodes/110403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "110404",
+            "sub": "https://storage.diziyou.one/episodes/110404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "110405",
+            "sub": "https://storage.diziyou.one/episodes/110405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/110405_tr/play.m3u8"
+        }
+    ]
+}

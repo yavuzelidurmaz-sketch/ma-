@@ -1,0 +1,55 @@
+{
+    "title": "The Trunk",
+    "url": "https://www.diziyou.one/the-trunk/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-trunk.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "111801",
+            "sub": "https://storage.diziyou.one/episodes/111801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "111802",
+            "sub": "https://storage.diziyou.one/episodes/111802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "111803",
+            "sub": "https://storage.diziyou.one/episodes/111803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "111804",
+            "sub": "https://storage.diziyou.one/episodes/111804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "111805",
+            "sub": "https://storage.diziyou.one/episodes/111805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "111806",
+            "sub": "https://storage.diziyou.one/episodes/111806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "111807",
+            "sub": "https://storage.diziyou.one/episodes/111807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "111808",
+            "sub": "https://storage.diziyou.one/episodes/111808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111808_tr/play.m3u8"
+        }
+    ]
+}

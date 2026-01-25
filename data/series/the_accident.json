@@ -1,0 +1,67 @@
+{
+    "title": "The Accident",
+    "url": "https://www.diziyou.one/the-accident/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-accident.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "102101",
+            "sub": "https://storage.diziyou.one/episodes/102101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "102102",
+            "sub": "https://storage.diziyou.one/episodes/102102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "102103",
+            "sub": "https://storage.diziyou.one/episodes/102103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "102104",
+            "sub": "https://storage.diziyou.one/episodes/102104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "102105",
+            "sub": "https://storage.diziyou.one/episodes/102105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "102106",
+            "sub": "https://storage.diziyou.one/episodes/102106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "102107",
+            "sub": "https://storage.diziyou.one/episodes/102107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "102108",
+            "sub": "https://storage.diziyou.one/episodes/102108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102108_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "102109",
+            "sub": "https://storage.diziyou.one/episodes/102109/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102109_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "102110",
+            "sub": "https://storage.diziyou.one/episodes/102110/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/102110_tr/play.m3u8"
+        }
+    ]
+}

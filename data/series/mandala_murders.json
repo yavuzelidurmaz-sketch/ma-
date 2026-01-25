@@ -1,0 +1,55 @@
+{
+    "title": "Mandala Murders",
+    "url": "https://www.diziyou.one/mandala-murders/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/mandala-murders.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "125401",
+            "sub": "https://storage.diziyou.one/episodes/125401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "125402",
+            "sub": "https://storage.diziyou.one/episodes/125402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "125403",
+            "sub": "https://storage.diziyou.one/episodes/125403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "125404",
+            "sub": "https://storage.diziyou.one/episodes/125404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "125405",
+            "sub": "https://storage.diziyou.one/episodes/125405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "125406",
+            "sub": "https://storage.diziyou.one/episodes/125406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "125407",
+            "sub": "https://storage.diziyou.one/episodes/125407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "125408",
+            "sub": "https://storage.diziyou.one/episodes/125408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125408_tr/play.m3u8"
+        }
+    ]
+}

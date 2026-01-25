@@ -1,0 +1,31 @@
+{
+    "title": "Eyes of Wakanda",
+    "url": "https://www.diziyou.one/eyes-of-wakanda/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/eyes-of-wakanda.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "127001",
+            "sub": "https://storage.diziyou.one/episodes/127001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "127002",
+            "sub": "https://storage.diziyou.one/episodes/127002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "127003",
+            "sub": "https://storage.diziyou.one/episodes/127003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "127004",
+            "sub": "https://storage.diziyou.one/episodes/127004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127004_tr/play.m3u8"
+        }
+    ]
+}

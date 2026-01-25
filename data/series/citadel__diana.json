@@ -1,0 +1,43 @@
+{
+    "title": "Citadel: Diana",
+    "url": "https://www.diziyou.one/citadel-diana/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/citadel-diana.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "106601",
+            "sub": "https://storage.diziyou.one/episodes/106601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "106602",
+            "sub": "https://storage.diziyou.one/episodes/106602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "106603",
+            "sub": "https://storage.diziyou.one/episodes/106603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "106604",
+            "sub": "https://storage.diziyou.one/episodes/106604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "106605",
+            "sub": "https://storage.diziyou.one/episodes/106605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "106606",
+            "sub": "https://storage.diziyou.one/episodes/106606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106606_tr/play.m3u8"
+        }
+    ]
+}

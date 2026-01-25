@@ -1,0 +1,67 @@
+{
+    "title": "Homicide",
+    "url": "https://www.diziyou.one/homicide/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/homicide.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "97501",
+            "sub": "https://storage.diziyou.one/episodes/97501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "97502",
+            "sub": "https://storage.diziyou.one/episodes/97502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "97503",
+            "sub": "https://storage.diziyou.one/episodes/97503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "97504",
+            "sub": "https://storage.diziyou.one/episodes/97504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "97505",
+            "sub": "https://storage.diziyou.one/episodes/97505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97505_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "97506",
+            "sub": "https://storage.diziyou.one/episodes/97506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97506_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "97507",
+            "sub": "https://storage.diziyou.one/episodes/97507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97507_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "97508",
+            "sub": "https://storage.diziyou.one/episodes/97508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97508_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "97509",
+            "sub": "https://storage.diziyou.one/episodes/97509/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97509_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "97510",
+            "sub": "https://storage.diziyou.one/episodes/97510/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97510_tr/play.m3u8"
+        }
+    ]
+}

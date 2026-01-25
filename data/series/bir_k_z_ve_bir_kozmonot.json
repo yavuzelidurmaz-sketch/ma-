@@ -1,0 +1,43 @@
+{
+    "title": "Bir Kız ve Bir Kozmonot",
+    "url": "https://www.diziyou.one/bir-kiz-ve-bir-kozmonot/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/bir-kiz-ve-bir-kozmonot.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "29201",
+            "sub": "https://storage.diziyou.one/episodes/29201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "29202",
+            "sub": "https://storage.diziyou.one/episodes/29202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "29203",
+            "sub": "https://storage.diziyou.one/episodes/29203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "29204",
+            "sub": "https://storage.diziyou.one/episodes/29204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "29205",
+            "sub": "https://storage.diziyou.one/episodes/29205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "29206",
+            "sub": "https://storage.diziyou.one/episodes/29206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29206_tr/play.m3u8"
+        }
+    ]
+}

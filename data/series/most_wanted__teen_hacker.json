@@ -1,0 +1,31 @@
+{
+    "title": "Most Wanted: Teen Hacker",
+    "url": "https://www.diziyou.one/most-wanted-teen-hacker/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/most-wanted-teen-hacker.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "133901",
+            "sub": "https://storage.diziyou.one/episodes/133901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "133902",
+            "sub": "https://storage.diziyou.one/episodes/133902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "133903",
+            "sub": "https://storage.diziyou.one/episodes/133903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "133904",
+            "sub": "https://storage.diziyou.one/episodes/133904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/133904_tr/play.m3u8"
+        }
+    ]
+}

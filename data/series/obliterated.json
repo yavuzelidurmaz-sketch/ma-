@@ -1,0 +1,55 @@
+{
+    "title": "Obliterated",
+    "url": "https://www.diziyou.one/obliterated/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/obliterated.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "82501",
+            "sub": "https://storage.diziyou.one/episodes/82501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "82502",
+            "sub": "https://storage.diziyou.one/episodes/82502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "82503",
+            "sub": "https://storage.diziyou.one/episodes/82503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "82504",
+            "sub": "https://storage.diziyou.one/episodes/82504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "82505",
+            "sub": "https://storage.diziyou.one/episodes/82505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "82506",
+            "sub": "https://storage.diziyou.one/episodes/82506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "82507",
+            "sub": "https://storage.diziyou.one/episodes/82507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "82508",
+            "sub": "https://storage.diziyou.one/episodes/82508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/82508_tr/play.m3u8"
+        }
+    ]
+}

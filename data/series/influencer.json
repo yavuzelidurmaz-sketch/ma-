@@ -1,0 +1,49 @@
+{
+    "title": "Influencer",
+    "url": "https://www.diziyou.one/influencer/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-influencer.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "100201",
+            "sub": "https://storage.diziyou.one/episodes/100201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "100202",
+            "sub": "https://storage.diziyou.one/episodes/100202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "100203",
+            "sub": "https://storage.diziyou.one/episodes/100203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "100204",
+            "sub": "https://storage.diziyou.one/episodes/100204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "100205",
+            "sub": "https://storage.diziyou.one/episodes/100205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "100206",
+            "sub": "https://storage.diziyou.one/episodes/100206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "100207",
+            "sub": "https://storage.diziyou.one/episodes/100207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100207_tr/play.m3u8"
+        }
+    ]
+}

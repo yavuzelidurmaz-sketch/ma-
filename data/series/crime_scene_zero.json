@@ -1,0 +1,67 @@
+{
+    "title": "Crime Scene Zero",
+    "url": "https://www.diziyou.one/crime-scene-zero/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/crime-scene-zero.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "135001",
+            "sub": "https://storage.diziyou.one/episodes/135001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "135002",
+            "sub": "https://storage.diziyou.one/episodes/135002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "135003",
+            "sub": "https://storage.diziyou.one/episodes/135003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "135004",
+            "sub": "https://storage.diziyou.one/episodes/135004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "135005",
+            "sub": "https://storage.diziyou.one/episodes/135005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "135006",
+            "sub": "https://storage.diziyou.one/episodes/135006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "135007",
+            "sub": "https://storage.diziyou.one/episodes/135007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "135008",
+            "sub": "https://storage.diziyou.one/episodes/135008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135008_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "135009",
+            "sub": "https://storage.diziyou.one/episodes/135009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135009_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "135010",
+            "sub": "https://storage.diziyou.one/episodes/135010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/135010_tr/play.m3u8"
+        }
+    ]
+}

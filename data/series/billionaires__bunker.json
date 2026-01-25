@@ -1,0 +1,55 @@
+{
+    "title": "Billionaires' Bunker",
+    "url": "https://www.diziyou.one/billionaires-bunker/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/billionaires-bunker.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "134701",
+            "sub": "https://storage.diziyou.one/episodes/134701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "134702",
+            "sub": "https://storage.diziyou.one/episodes/134702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "134703",
+            "sub": "https://storage.diziyou.one/episodes/134703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "134704",
+            "sub": "https://storage.diziyou.one/episodes/134704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "134705",
+            "sub": "https://storage.diziyou.one/episodes/134705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "134706",
+            "sub": "https://storage.diziyou.one/episodes/134706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "134707",
+            "sub": "https://storage.diziyou.one/episodes/134707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134707_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "134708",
+            "sub": "https://storage.diziyou.one/episodes/134708/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134708_tr/play.m3u8"
+        }
+    ]
+}

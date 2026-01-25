@@ -1,0 +1,49 @@
+{
+    "title": "Shiny Happy People",
+    "url": "https://www.diziyou.one/shiny-happy-people/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/shiny-happy-people.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "125601",
+            "sub": "https://storage.diziyou.one/episodes/125601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "125602",
+            "sub": "https://storage.diziyou.one/episodes/125602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "125603",
+            "sub": "https://storage.diziyou.one/episodes/125603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "125604",
+            "sub": "https://storage.diziyou.one/episodes/125604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125604_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "125605",
+            "sub": "https://storage.diziyou.one/episodes/125605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125605_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "125606",
+            "sub": "https://storage.diziyou.one/episodes/125606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125606_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "125607",
+            "sub": "https://storage.diziyou.one/episodes/125607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125607_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Red Queen",
+    "url": "https://www.diziyou.one/red-queen/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/red-queen.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "88601",
+            "sub": "https://storage.diziyou.one/episodes/88601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "88602",
+            "sub": "https://storage.diziyou.one/episodes/88602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "88603",
+            "sub": "https://storage.diziyou.one/episodes/88603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "88604",
+            "sub": "https://storage.diziyou.one/episodes/88604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "88605",
+            "sub": "https://storage.diziyou.one/episodes/88605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "88606",
+            "sub": "https://storage.diziyou.one/episodes/88606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "88607",
+            "sub": "https://storage.diziyou.one/episodes/88607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88607_tr/play.m3u8"
+        }
+    ]
+}

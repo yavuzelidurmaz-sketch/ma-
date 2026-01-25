@@ -1,0 +1,31 @@
+{
+    "title": "The Signal",
+    "url": "https://www.diziyou.one/the-signal/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-signal.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "89501",
+            "sub": "https://storage.diziyou.one/episodes/89501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/89501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "89502",
+            "sub": "https://storage.diziyou.one/episodes/89502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/89502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "89503",
+            "sub": "https://storage.diziyou.one/episodes/89503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/89503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "89504",
+            "sub": "https://storage.diziyou.one/episodes/89504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/89504_tr/play.m3u8"
+        }
+    ]
+}

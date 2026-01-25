@@ -1,0 +1,67 @@
+{
+    "title": "Inspector Rishi",
+    "url": "https://www.diziyou.one/inspector-rishi/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/inspector-rishi.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "101801",
+            "sub": "https://storage.diziyou.one/episodes/101801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "101802",
+            "sub": "https://storage.diziyou.one/episodes/101802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "101803",
+            "sub": "https://storage.diziyou.one/episodes/101803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "101804",
+            "sub": "https://storage.diziyou.one/episodes/101804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "101805",
+            "sub": "https://storage.diziyou.one/episodes/101805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "101806",
+            "sub": "https://storage.diziyou.one/episodes/101806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "101807",
+            "sub": "https://storage.diziyou.one/episodes/101807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "101808",
+            "sub": "https://storage.diziyou.one/episodes/101808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101808_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "101809",
+            "sub": "https://storage.diziyou.one/episodes/101809/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101809_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "101810",
+            "sub": "https://storage.diziyou.one/episodes/101810/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/101810_tr/play.m3u8"
+        }
+    ]
+}

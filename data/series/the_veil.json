@@ -1,0 +1,43 @@
+{
+    "title": "The Veil",
+    "url": "https://www.diziyou.one/the-veil/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-veil.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "93901",
+            "sub": "https://storage.diziyou.one/episodes/93901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "93902",
+            "sub": "https://storage.diziyou.one/episodes/93902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "93903",
+            "sub": "https://storage.diziyou.one/episodes/93903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "93904",
+            "sub": "https://storage.diziyou.one/episodes/93904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "93905",
+            "sub": "https://storage.diziyou.one/episodes/93905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "93906",
+            "sub": "https://storage.diziyou.one/episodes/93906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93906_tr/play.m3u8"
+        }
+    ]
+}

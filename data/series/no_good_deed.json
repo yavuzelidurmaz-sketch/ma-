@@ -1,0 +1,55 @@
+{
+    "title": "No Good Deed",
+    "url": "https://www.diziyou.one/no-good-deed/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/no-good-deed.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "113601",
+            "sub": "https://storage.diziyou.one/episodes/113601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "113602",
+            "sub": "https://storage.diziyou.one/episodes/113602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "113603",
+            "sub": "https://storage.diziyou.one/episodes/113603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "113604",
+            "sub": "https://storage.diziyou.one/episodes/113604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "113605",
+            "sub": "https://storage.diziyou.one/episodes/113605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "113606",
+            "sub": "https://storage.diziyou.one/episodes/113606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "113607",
+            "sub": "https://storage.diziyou.one/episodes/113607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "113608",
+            "sub": "https://storage.diziyou.one/episodes/113608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113608_tr/play.m3u8"
+        }
+    ]
+}

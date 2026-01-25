@@ -1,0 +1,25 @@
+{
+    "title": "Amerikan Kâbusu",
+    "url": "https://www.diziyou.one/amerikan-kabusu/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/amerikan-kabusu.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "84801",
+            "sub": "https://storage.diziyou.one/episodes/84801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "84802",
+            "sub": "https://storage.diziyou.one/episodes/84802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "84803",
+            "sub": "https://storage.diziyou.one/episodes/84803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84803_tr/play.m3u8"
+        }
+    ]
+}

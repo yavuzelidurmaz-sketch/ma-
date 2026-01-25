@@ -1,0 +1,43 @@
+{
+    "title": "The Dead Girls",
+    "url": "https://www.diziyou.one/the-dead-girls/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-dead-girls.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "132901",
+            "sub": "https://storage.diziyou.one/episodes/132901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "132902",
+            "sub": "https://storage.diziyou.one/episodes/132902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "132903",
+            "sub": "https://storage.diziyou.one/episodes/132903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "132904",
+            "sub": "https://storage.diziyou.one/episodes/132904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "132905",
+            "sub": "https://storage.diziyou.one/episodes/132905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "132906",
+            "sub": "https://storage.diziyou.one/episodes/132906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132906_tr/play.m3u8"
+        }
+    ]
+}

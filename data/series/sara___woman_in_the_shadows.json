@@ -1,0 +1,43 @@
+{
+    "title": "Sara - Woman in the Shadows",
+    "url": "https://www.diziyou.one/sara-woman-in-the-shadows/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sara-woman-in-the-shadows.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "123201",
+            "sub": "https://storage.diziyou.one/episodes/123201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "123202",
+            "sub": "https://storage.diziyou.one/episodes/123202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "123203",
+            "sub": "https://storage.diziyou.one/episodes/123203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "123204",
+            "sub": "https://storage.diziyou.one/episodes/123204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "123205",
+            "sub": "https://storage.diziyou.one/episodes/123205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "123206",
+            "sub": "https://storage.diziyou.one/episodes/123206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/123206_tr/play.m3u8"
+        }
+    ]
+}

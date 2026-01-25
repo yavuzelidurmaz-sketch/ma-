@@ -1,0 +1,43 @@
+{
+    "title": "Butterfly",
+    "url": "https://www.diziyou.one/butterfly/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/butterfly.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "129801",
+            "sub": "https://storage.diziyou.one/episodes/129801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/129801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "129802",
+            "sub": "https://storage.diziyou.one/episodes/129802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/129802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "129803",
+            "sub": "https://storage.diziyou.one/episodes/129803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/129803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "129804",
+            "sub": "https://storage.diziyou.one/episodes/129804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/129804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "129805",
+            "sub": "https://storage.diziyou.one/episodes/129805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/129805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "129806",
+            "sub": "https://storage.diziyou.one/episodes/129806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/129806_tr/play.m3u8"
+        }
+    ]
+}

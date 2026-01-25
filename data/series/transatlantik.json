@@ -1,0 +1,49 @@
+{
+    "title": "Transatlantik",
+    "url": "https://www.diziyou.one/transatlantik/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/transatlantik.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "60401",
+            "sub": "https://storage.diziyou.one/episodes/60401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "60402",
+            "sub": "https://storage.diziyou.one/episodes/60402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "60403",
+            "sub": "https://storage.diziyou.one/episodes/60403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "60404",
+            "sub": "https://storage.diziyou.one/episodes/60404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "60405",
+            "sub": "https://storage.diziyou.one/episodes/60405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "60406",
+            "sub": "https://storage.diziyou.one/episodes/60406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "60407",
+            "sub": "https://storage.diziyou.one/episodes/60407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60407_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "A Man on the Inside",
+    "url": "https://www.diziyou.one/a-man-on-the-inside/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/a-man-on-the-inside.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "111301",
+            "sub": "https://storage.diziyou.one/episodes/111301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "111302",
+            "sub": "https://storage.diziyou.one/episodes/111302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "111303",
+            "sub": "https://storage.diziyou.one/episodes/111303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "111304",
+            "sub": "https://storage.diziyou.one/episodes/111304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "111305",
+            "sub": "https://storage.diziyou.one/episodes/111305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "111306",
+            "sub": "https://storage.diziyou.one/episodes/111306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "111307",
+            "sub": "https://storage.diziyou.one/episodes/111307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111307_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "111308",
+            "sub": "https://storage.diziyou.one/episodes/111308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111308_tr/play.m3u8"
+        }
+    ]
+}

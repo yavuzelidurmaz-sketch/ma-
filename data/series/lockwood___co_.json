@@ -1,0 +1,55 @@
+{
+    "title": "Lockwood & Co.",
+    "url": "https://www.diziyou.one/lockwood-co/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/lockwood-co.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "27701",
+            "sub": "https://storage.diziyou.one/episodes/27701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "27702",
+            "sub": "https://storage.diziyou.one/episodes/27702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "27703",
+            "sub": "https://storage.diziyou.one/episodes/27703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "27704",
+            "sub": "https://storage.diziyou.one/episodes/27704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "27705",
+            "sub": "https://storage.diziyou.one/episodes/27705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "27706",
+            "sub": "https://storage.diziyou.one/episodes/27706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "27707",
+            "sub": "https://storage.diziyou.one/episodes/27707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27707_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "27708",
+            "sub": "https://storage.diziyou.one/episodes/27708/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27708_tr/play.m3u8"
+        }
+    ]
+}

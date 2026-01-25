@@ -1,0 +1,67 @@
+{
+    "title": "Time Bandits",
+    "url": "https://www.diziyou.one/time-bandits/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/time-bandits.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "98601",
+            "sub": "https://storage.diziyou.one/episodes/98601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "98602",
+            "sub": "https://storage.diziyou.one/episodes/98602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "98603",
+            "sub": "https://storage.diziyou.one/episodes/98603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "98604",
+            "sub": "https://storage.diziyou.one/episodes/98604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "98605",
+            "sub": "https://storage.diziyou.one/episodes/98605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "98606",
+            "sub": "https://storage.diziyou.one/episodes/98606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "98607",
+            "sub": "https://storage.diziyou.one/episodes/98607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "98608",
+            "sub": "https://storage.diziyou.one/episodes/98608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98608_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "98609",
+            "sub": "https://storage.diziyou.one/episodes/98609/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98609_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "98610",
+            "sub": "https://storage.diziyou.one/episodes/98610/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98610_tr/play.m3u8"
+        }
+    ]
+}

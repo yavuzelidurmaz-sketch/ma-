@@ -1,0 +1,55 @@
+{
+    "title": "Buying Beverly Hills",
+    "url": "https://www.diziyou.one/buying-beverly-hills/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/buying-beverly-hills.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "23901",
+            "sub": "https://storage.diziyou.one/episodes/23901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "23902",
+            "sub": "https://storage.diziyou.one/episodes/23902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "23903",
+            "sub": "https://storage.diziyou.one/episodes/23903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "23904",
+            "sub": "https://storage.diziyou.one/episodes/23904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "23905",
+            "sub": "https://storage.diziyou.one/episodes/23905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "23906",
+            "sub": "https://storage.diziyou.one/episodes/23906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "23907",
+            "sub": "https://storage.diziyou.one/episodes/23907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "23908",
+            "sub": "https://storage.diziyou.one/episodes/23908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23908_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "title": "Lupin",
+    "url": "https://www.diziyou.one/lupin/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/lupin.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "19301",
+            "sub": "https://storage.diziyou.one/episodes/19301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "19302",
+            "sub": "https://storage.diziyou.one/episodes/19302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "19303",
+            "sub": "https://storage.diziyou.one/episodes/19303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "19304",
+            "sub": "https://storage.diziyou.one/episodes/19304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "19305",
+            "sub": "https://storage.diziyou.one/episodes/19305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19305_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "19306",
+            "sub": "https://storage.diziyou.one/episodes/19306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19306_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "19307",
+            "sub": "https://storage.diziyou.one/episodes/19307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19307_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "19308",
+            "sub": "https://storage.diziyou.one/episodes/19308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19308_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "19309",
+            "sub": "https://storage.diziyou.one/episodes/19309/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19309_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "19310",
+            "sub": "https://storage.diziyou.one/episodes/19310/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19310_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 1. Bölüm",
+            "id": "19311",
+            "sub": "https://storage.diziyou.one/episodes/19311/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19311_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 2. Bölüm",
+            "id": "19312",
+            "sub": "https://storage.diziyou.one/episodes/19312/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19312_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 3. Bölüm",
+            "id": "19313",
+            "sub": "https://storage.diziyou.one/episodes/19313/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19313_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 4. Bölüm",
+            "id": "19314",
+            "sub": "https://storage.diziyou.one/episodes/19314/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19314_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 5. Bölüm",
+            "id": "19315",
+            "sub": "https://storage.diziyou.one/episodes/19315/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19315_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 6. Bölüm",
+            "id": "19316",
+            "sub": "https://storage.diziyou.one/episodes/19316/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19316_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 7. Bölüm",
+            "id": "19317",
+            "sub": "https://storage.diziyou.one/episodes/19317/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/19317_tr/play.m3u8"
+        }
+    ]
+}

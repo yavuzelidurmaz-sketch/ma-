@@ -1,0 +1,43 @@
+{
+    "title": "The Playlist",
+    "url": "https://www.diziyou.one/the-playlist/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-playlist.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "23101",
+            "sub": "https://storage.diziyou.one/episodes/23101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "23102",
+            "sub": "https://storage.diziyou.one/episodes/23102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "23103",
+            "sub": "https://storage.diziyou.one/episodes/23103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "23104",
+            "sub": "https://storage.diziyou.one/episodes/23104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "23105",
+            "sub": "https://storage.diziyou.one/episodes/23105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "23106",
+            "sub": "https://storage.diziyou.one/episodes/23106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23106_tr/play.m3u8"
+        }
+    ]
+}

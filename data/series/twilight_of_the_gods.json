@@ -1,0 +1,55 @@
+{
+    "title": "Twilight of the Gods",
+    "url": "https://www.diziyou.one/twilight-of-the-gods/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/twilight-of-the-gods.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "105101",
+            "sub": "https://storage.diziyou.one/episodes/105101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "105102",
+            "sub": "https://storage.diziyou.one/episodes/105102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "105103",
+            "sub": "https://storage.diziyou.one/episodes/105103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "105104",
+            "sub": "https://storage.diziyou.one/episodes/105104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "105105",
+            "sub": "https://storage.diziyou.one/episodes/105105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "105106",
+            "sub": "https://storage.diziyou.one/episodes/105106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "105107",
+            "sub": "https://storage.diziyou.one/episodes/105107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "105108",
+            "sub": "https://storage.diziyou.one/episodes/105108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/105108_tr/play.m3u8"
+        }
+    ]
+}

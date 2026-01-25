@@ -1,0 +1,31 @@
+{
+    "title": "Toxic Town",
+    "url": "https://www.diziyou.one/toxic-town/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/toxic-town.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "120001",
+            "sub": "https://storage.diziyou.one/episodes/120001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "120002",
+            "sub": "https://storage.diziyou.one/episodes/120002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "120003",
+            "sub": "https://storage.diziyou.one/episodes/120003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "120004",
+            "sub": "https://storage.diziyou.one/episodes/120004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120004_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,61 @@
+{
+    "title": "Rangeen",
+    "url": "https://www.diziyou.one/rangeen/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/rangeen.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "125801",
+            "sub": "https://storage.diziyou.one/episodes/125801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "125802",
+            "sub": "https://storage.diziyou.one/episodes/125802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "125803",
+            "sub": "https://storage.diziyou.one/episodes/125803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "125804",
+            "sub": "https://storage.diziyou.one/episodes/125804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "125805",
+            "sub": "https://storage.diziyou.one/episodes/125805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "125806",
+            "sub": "https://storage.diziyou.one/episodes/125806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "125807",
+            "sub": "https://storage.diziyou.one/episodes/125807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "125808",
+            "sub": "https://storage.diziyou.one/episodes/125808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125808_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "125809",
+            "sub": "https://storage.diziyou.one/episodes/125809/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125809_tr/play.m3u8"
+        }
+    ]
+}

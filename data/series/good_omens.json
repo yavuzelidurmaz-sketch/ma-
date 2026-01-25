@@ -1,0 +1,79 @@
+{
+    "title": "Good Omens",
+    "url": "https://www.diziyou.one/good-omens/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/good-omens.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "76701",
+            "sub": "https://storage.diziyou.one/episodes/76701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "76702",
+            "sub": "https://storage.diziyou.one/episodes/76702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "76703",
+            "sub": "https://storage.diziyou.one/episodes/76703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "76704",
+            "sub": "https://storage.diziyou.one/episodes/76704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "76705",
+            "sub": "https://storage.diziyou.one/episodes/76705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "76706",
+            "sub": "https://storage.diziyou.one/episodes/76706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76706_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "2007",
+            "sub": "https://storage.diziyou.one/episodes/2007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2007_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "2008",
+            "sub": "https://storage.diziyou.one/episodes/2008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2008_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "2009",
+            "sub": "https://storage.diziyou.one/episodes/2009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2009_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "2010",
+            "sub": "https://storage.diziyou.one/episodes/2010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2010_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "2011",
+            "sub": "https://storage.diziyou.one/episodes/2011/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2011_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "2012",
+            "sub": "https://storage.diziyou.one/episodes/2012/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2012_tr/play.m3u8"
+        }
+    ]
+}

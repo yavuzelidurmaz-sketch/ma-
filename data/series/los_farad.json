@@ -1,0 +1,55 @@
+{
+    "title": "Los Farad",
+    "url": "https://www.diziyou.one/los-farad/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/los-farad.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "83801",
+            "sub": "https://storage.diziyou.one/episodes/83801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "83802",
+            "sub": "https://storage.diziyou.one/episodes/83802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "83803",
+            "sub": "https://storage.diziyou.one/episodes/83803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "83804",
+            "sub": "https://storage.diziyou.one/episodes/83804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "83805",
+            "sub": "https://storage.diziyou.one/episodes/83805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "83806",
+            "sub": "https://storage.diziyou.one/episodes/83806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "83807",
+            "sub": "https://storage.diziyou.one/episodes/83807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "83808",
+            "sub": "https://storage.diziyou.one/episodes/83808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83808_tr/play.m3u8"
+        }
+    ]
+}

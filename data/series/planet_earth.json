@@ -1,0 +1,73 @@
+{
+    "title": "Planet Earth",
+    "url": "https://www.diziyou.one/planet-earth/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/planet-earth.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1011",
+            "sub": "https://storage.diziyou.one/episodes/1011/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1011_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1012",
+            "sub": "https://storage.diziyou.one/episodes/1012/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1012_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1013",
+            "sub": "https://storage.diziyou.one/episodes/1013/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1013_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1014",
+            "sub": "https://storage.diziyou.one/episodes/1014/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1014_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1015",
+            "sub": "https://storage.diziyou.one/episodes/1015/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1015_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1016",
+            "sub": "https://storage.diziyou.one/episodes/1016/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1016_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1017",
+            "sub": "https://storage.diziyou.one/episodes/1017/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1017_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "1018",
+            "sub": "https://storage.diziyou.one/episodes/1018/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1018_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "1019",
+            "sub": "https://storage.diziyou.one/episodes/1019/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1019_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "1020",
+            "sub": "https://storage.diziyou.one/episodes/1020/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1020_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "1021",
+            "sub": "https://storage.diziyou.one/episodes/1021/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1021_tr/play.m3u8"
+        }
+    ]
+}

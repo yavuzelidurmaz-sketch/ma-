@@ -1,0 +1,55 @@
+{
+    "title": "Geleceğe Mektuplar",
+    "url": "https://www.diziyou.one/gelecege-mektuplar/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/gelecege-mektuplar.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "125301",
+            "sub": "https://storage.diziyou.one/episodes/125301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "125302",
+            "sub": "https://storage.diziyou.one/episodes/125302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "125303",
+            "sub": "https://storage.diziyou.one/episodes/125303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "125304",
+            "sub": "https://storage.diziyou.one/episodes/125304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "125305",
+            "sub": "https://storage.diziyou.one/episodes/125305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "125306",
+            "sub": "https://storage.diziyou.one/episodes/125306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "125307",
+            "sub": "https://storage.diziyou.one/episodes/125307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125307_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "125308",
+            "sub": "https://storage.diziyou.one/episodes/125308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125308_tr/play.m3u8"
+        }
+    ]
+}

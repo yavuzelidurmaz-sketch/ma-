@@ -1,0 +1,55 @@
+{
+    "title": "Vigilante",
+    "url": "https://www.diziyou.one/vigilante/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/vigilante.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "106901",
+            "sub": "https://storage.diziyou.one/episodes/106901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "106902",
+            "sub": "https://storage.diziyou.one/episodes/106902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "106903",
+            "sub": "https://storage.diziyou.one/episodes/106903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "106904",
+            "sub": "https://storage.diziyou.one/episodes/106904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "106905",
+            "sub": "https://storage.diziyou.one/episodes/106905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "106906",
+            "sub": "https://storage.diziyou.one/episodes/106906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "106907",
+            "sub": "https://storage.diziyou.one/episodes/106907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "106908",
+            "sub": "https://storage.diziyou.one/episodes/106908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106908_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Paradise",
+    "url": "https://www.diziyou.one/paradise/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/paradise.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "118201",
+            "sub": "https://storage.diziyou.one/episodes/118201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "118202",
+            "sub": "https://storage.diziyou.one/episodes/118202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "118203",
+            "sub": "https://storage.diziyou.one/episodes/118203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "118204",
+            "sub": "https://storage.diziyou.one/episodes/118204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "118205",
+            "sub": "https://storage.diziyou.one/episodes/118205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "118206",
+            "sub": "https://storage.diziyou.one/episodes/118206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "118207",
+            "sub": "https://storage.diziyou.one/episodes/118207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "118208",
+            "sub": "https://storage.diziyou.one/episodes/118208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118208_tr/play.m3u8"
+        }
+    ]
+}

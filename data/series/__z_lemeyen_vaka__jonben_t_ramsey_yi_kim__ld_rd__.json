@@ -1,0 +1,25 @@
+{
+    "title": "Çözülemeyen Vaka: JonBenét Ramsey'yi Kim Öldürdü?",
+    "url": "https://www.diziyou.one/cozulemeyen-vaka-jonbenet-ramseyyi-kim-oldurdu/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/cold-case-who-killed-jonbenet-ramsey.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "112001",
+            "sub": "https://storage.diziyou.one/episodes/112001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "112002",
+            "sub": "https://storage.diziyou.one/episodes/112002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "112003",
+            "sub": "https://storage.diziyou.one/episodes/112003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112003_tr/play.m3u8"
+        }
+    ]
+}

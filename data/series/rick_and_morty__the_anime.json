@@ -1,0 +1,67 @@
+{
+    "title": "Rick and Morty: The Anime",
+    "url": "https://www.diziyou.one/rick-and-morty-the-anime/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/rick-and-morty-the-anime.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "127601",
+            "sub": "https://storage.diziyou.one/episodes/127601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "127602",
+            "sub": "https://storage.diziyou.one/episodes/127602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "127603",
+            "sub": "https://storage.diziyou.one/episodes/127603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "127604",
+            "sub": "https://storage.diziyou.one/episodes/127604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "127605",
+            "sub": "https://storage.diziyou.one/episodes/127605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "127606",
+            "sub": "https://storage.diziyou.one/episodes/127606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "127607",
+            "sub": "https://storage.diziyou.one/episodes/127607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "127608",
+            "sub": "https://storage.diziyou.one/episodes/127608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127608_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "127609",
+            "sub": "https://storage.diziyou.one/episodes/127609/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127609_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "127610",
+            "sub": "https://storage.diziyou.one/episodes/127610/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/127610_tr/play.m3u8"
+        }
+    ]
+}

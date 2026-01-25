@@ -1,0 +1,55 @@
+{
+    "title": "Reacher",
+    "url": "https://www.diziyou.one/reacher/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/reacher.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "16051",
+            "sub": "https://storage.diziyou.one/episodes/16051/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16051_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "16052",
+            "sub": "https://storage.diziyou.one/episodes/16052/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16052_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "16053",
+            "sub": "https://storage.diziyou.one/episodes/16053/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16053_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "16054",
+            "sub": "https://storage.diziyou.one/episodes/16054/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16054_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "16055",
+            "sub": "https://storage.diziyou.one/episodes/16055/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16055_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "16056",
+            "sub": "https://storage.diziyou.one/episodes/16056/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16056_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "16057",
+            "sub": "https://storage.diziyou.one/episodes/16057/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16057_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "16058",
+            "sub": "https://storage.diziyou.one/episodes/16058/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16058_tr/play.m3u8"
+        }
+    ]
+}

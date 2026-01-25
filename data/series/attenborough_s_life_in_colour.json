@@ -1,0 +1,25 @@
+{
+    "title": "Attenborough's Life in Colour",
+    "url": "https://www.diziyou.one/attenboroughs-life-in-colour/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/attenboroughs-life-in-colour.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "2142",
+            "sub": "https://storage.diziyou.one/episodes/2142/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2142_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "2143",
+            "sub": "https://storage.diziyou.one/episodes/2143/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2143_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "2141",
+            "sub": "https://storage.diziyou.one/episodes/2141/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/2141_tr/play.m3u8"
+        }
+    ]
+}

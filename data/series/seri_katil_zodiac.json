@@ -1,0 +1,25 @@
+{
+    "title": "Seri Katil Zodiac",
+    "url": "https://www.diziyou.one/seri-katil-zodiac/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/this-is-the-zodiac-speaking.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "107401",
+            "sub": "https://storage.diziyou.one/episodes/107401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "107402",
+            "sub": "https://storage.diziyou.one/episodes/107402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "107403",
+            "sub": "https://storage.diziyou.one/episodes/107403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107403_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Tomb Raider: The Legend of Lara Croft",
+    "url": "https://www.diziyou.one/tomb-raider-the-legend-of-lara-croft/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/tomb-raider-the-legend-of-lara-croft.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "106501",
+            "sub": "https://storage.diziyou.one/episodes/106501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "106502",
+            "sub": "https://storage.diziyou.one/episodes/106502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "106503",
+            "sub": "https://storage.diziyou.one/episodes/106503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "106504",
+            "sub": "https://storage.diziyou.one/episodes/106504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "106505",
+            "sub": "https://storage.diziyou.one/episodes/106505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "106506",
+            "sub": "https://storage.diziyou.one/episodes/106506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "106507",
+            "sub": "https://storage.diziyou.one/episodes/106507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "106508",
+            "sub": "https://storage.diziyou.one/episodes/106508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/106508_tr/play.m3u8"
+        }
+    ]
+}

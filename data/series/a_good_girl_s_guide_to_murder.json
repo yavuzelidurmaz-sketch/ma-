@@ -1,0 +1,43 @@
+{
+    "title": "A Good Girl's Guide to Murder",
+    "url": "https://www.diziyou.one/a-good-girls-guide-to-murder/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/a-good-girls-guide-to-murder.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "100001",
+            "sub": "https://storage.diziyou.one/episodes/100001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "100002",
+            "sub": "https://storage.diziyou.one/episodes/100002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "100003",
+            "sub": "https://storage.diziyou.one/episodes/100003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "100004",
+            "sub": "https://storage.diziyou.one/episodes/100004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "100005",
+            "sub": "https://storage.diziyou.one/episodes/100005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "100006",
+            "sub": "https://storage.diziyou.one/episodes/100006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100006_tr/play.m3u8"
+        }
+    ]
+}

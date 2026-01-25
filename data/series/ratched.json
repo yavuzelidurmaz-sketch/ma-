@@ -1,0 +1,55 @@
+{
+    "title": "Ratched",
+    "url": "https://www.diziyou.one/ratched/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/ratched.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1091",
+            "sub": "https://storage.diziyou.one/episodes/1091/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1091_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1092",
+            "sub": "https://storage.diziyou.one/episodes/1092/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1092_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1093",
+            "sub": "https://storage.diziyou.one/episodes/1093/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1093_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1094",
+            "sub": "https://storage.diziyou.one/episodes/1094/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1094_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1095",
+            "sub": "https://storage.diziyou.one/episodes/1095/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1095_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1096",
+            "sub": "https://storage.diziyou.one/episodes/1096/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1096_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1097",
+            "sub": "https://storage.diziyou.one/episodes/1097/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1097_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "1098",
+            "sub": "https://storage.diziyou.one/episodes/1098/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1098_tr/play.m3u8"
+        }
+    ]
+}

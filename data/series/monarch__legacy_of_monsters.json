@@ -1,0 +1,67 @@
+{
+    "title": "Monarch: Legacy of Monsters",
+    "url": "https://www.diziyou.one/monarch-legacy-of-monsters/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/monarch-legacy-of-monsters.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "83201",
+            "sub": "https://storage.diziyou.one/episodes/83201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "83202",
+            "sub": "https://storage.diziyou.one/episodes/83202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "83203",
+            "sub": "https://storage.diziyou.one/episodes/83203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "83204",
+            "sub": "https://storage.diziyou.one/episodes/83204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "83205",
+            "sub": "https://storage.diziyou.one/episodes/83205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "83206",
+            "sub": "https://storage.diziyou.one/episodes/83206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "83207",
+            "sub": "https://storage.diziyou.one/episodes/83207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "83208",
+            "sub": "https://storage.diziyou.one/episodes/83208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83208_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "83209",
+            "sub": "https://storage.diziyou.one/episodes/83209/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83209_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "83210",
+            "sub": "https://storage.diziyou.one/episodes/83210/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83210_tr/play.m3u8"
+        }
+    ]
+}

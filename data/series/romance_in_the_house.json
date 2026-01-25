@@ -1,0 +1,79 @@
+{
+    "title": "Romance in the House",
+    "url": "https://www.diziyou.one/romance-in-the-house/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/romance-in-the-house.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "100501",
+            "sub": "https://storage.diziyou.one/episodes/100501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "100502",
+            "sub": "https://storage.diziyou.one/episodes/100502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "100503",
+            "sub": "https://storage.diziyou.one/episodes/100503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "100504",
+            "sub": "https://storage.diziyou.one/episodes/100504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "100505",
+            "sub": "https://storage.diziyou.one/episodes/100505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "100506",
+            "sub": "https://storage.diziyou.one/episodes/100506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "100507",
+            "sub": "https://storage.diziyou.one/episodes/100507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "100508",
+            "sub": "https://storage.diziyou.one/episodes/100508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100508_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "100509",
+            "sub": "https://storage.diziyou.one/episodes/100509/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100509_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "100510",
+            "sub": "https://storage.diziyou.one/episodes/100510/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100510_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "100511",
+            "sub": "https://storage.diziyou.one/episodes/100511/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100511_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 12. Bölüm",
+            "id": "100512",
+            "sub": "https://storage.diziyou.one/episodes/100512/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/100512_tr/play.m3u8"
+        }
+    ]
+}

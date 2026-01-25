@@ -1,0 +1,37 @@
+{
+    "title": "Bank Under Siege",
+    "url": "https://www.diziyou.one/bank-under-siege/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/bank-under-siege.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "109301",
+            "sub": "https://storage.diziyou.one/episodes/109301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "109302",
+            "sub": "https://storage.diziyou.one/episodes/109302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "109303",
+            "sub": "https://storage.diziyou.one/episodes/109303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "109304",
+            "sub": "https://storage.diziyou.one/episodes/109304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "109305",
+            "sub": "https://storage.diziyou.one/episodes/109305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/109305_tr/play.m3u8"
+        }
+    ]
+}

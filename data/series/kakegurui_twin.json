@@ -1,0 +1,43 @@
+{
+    "title": "Kakegurui Twin",
+    "url": "https://www.diziyou.one/kakegurui-twin/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/kakegurui-twin.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "20951",
+            "sub": "https://storage.diziyou.one/episodes/20951/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20951_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "20952",
+            "sub": "https://storage.diziyou.one/episodes/20952/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20952_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "20953",
+            "sub": "https://storage.diziyou.one/episodes/20953/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20953_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "20954",
+            "sub": "https://storage.diziyou.one/episodes/20954/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20954_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "20955",
+            "sub": "https://storage.diziyou.one/episodes/20955/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20955_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "20956",
+            "sub": "https://storage.diziyou.one/episodes/20956/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20956_tr/play.m3u8"
+        }
+    ]
+}

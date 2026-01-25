@@ -1,0 +1,43 @@
+{
+    "title": "Like a Dragon: Yakuza",
+    "url": "https://www.diziyou.one/like-a-dragon-yakuza/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/like-a-dragon-yakuza.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "107901",
+            "sub": "https://storage.diziyou.one/episodes/107901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "107902",
+            "sub": "https://storage.diziyou.one/episodes/107902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "107903",
+            "sub": "https://storage.diziyou.one/episodes/107903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "107904",
+            "sub": "https://storage.diziyou.one/episodes/107904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "107905",
+            "sub": "https://storage.diziyou.one/episodes/107905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "107906",
+            "sub": "https://storage.diziyou.one/episodes/107906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107906_tr/play.m3u8"
+        }
+    ]
+}

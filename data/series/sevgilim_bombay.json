@@ -1,0 +1,67 @@
+{
+    "title": "Sevgilim Bombay",
+    "url": "https://www.diziyou.one/sevgilim-bombay/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sevgilim-bombay.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "76501",
+            "sub": "https://storage.diziyou.one/episodes/76501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "76502",
+            "sub": "https://storage.diziyou.one/episodes/76502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "76503",
+            "sub": "https://storage.diziyou.one/episodes/76503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "76504",
+            "sub": "https://storage.diziyou.one/episodes/76504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "76505",
+            "sub": "https://storage.diziyou.one/episodes/76505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "76506",
+            "sub": "https://storage.diziyou.one/episodes/76506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "76507",
+            "sub": "https://storage.diziyou.one/episodes/76507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "76508",
+            "sub": "https://storage.diziyou.one/episodes/76508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76508_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "76509",
+            "sub": "https://storage.diziyou.one/episodes/76509/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76509_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "76510",
+            "sub": "https://storage.diziyou.one/episodes/76510/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/76510_tr/play.m3u8"
+        }
+    ]
+}

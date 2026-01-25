@@ -1,0 +1,55 @@
+{
+    "title": "Renegade Nell",
+    "url": "https://www.diziyou.one/renegade-nell/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/renegade-nell.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "92801",
+            "sub": "https://storage.diziyou.one/episodes/92801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "92802",
+            "sub": "https://storage.diziyou.one/episodes/92802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "92803",
+            "sub": "https://storage.diziyou.one/episodes/92803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "92804",
+            "sub": "https://storage.diziyou.one/episodes/92804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "92805",
+            "sub": "https://storage.diziyou.one/episodes/92805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "92806",
+            "sub": "https://storage.diziyou.one/episodes/92806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "92807",
+            "sub": "https://storage.diziyou.one/episodes/92807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "92808",
+            "sub": "https://storage.diziyou.one/episodes/92808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92808_tr/play.m3u8"
+        }
+    ]
+}

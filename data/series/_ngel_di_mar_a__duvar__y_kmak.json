@@ -1,0 +1,25 @@
+{
+    "title": "Ángel Di María: Duvarı Yıkmak",
+    "url": "https://www.diziyou.one/angel-di-maria-duvari-yikmak/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/angel-di-maria-duvari-yikmak.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "104001",
+            "sub": "https://storage.diziyou.one/episodes/104001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/104001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "104002",
+            "sub": "https://storage.diziyou.one/episodes/104002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/104002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "104003",
+            "sub": "https://storage.diziyou.one/episodes/104003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/104003_tr/play.m3u8"
+        }
+    ]
+}

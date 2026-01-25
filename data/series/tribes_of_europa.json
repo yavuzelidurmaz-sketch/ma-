@@ -1,0 +1,43 @@
+{
+    "title": "Tribes of Europa",
+    "url": "https://www.diziyou.one/tribes-of-europa/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/tribes-of-europa.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1531",
+            "sub": "https://storage.diziyou.one/episodes/1531/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1531_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1532",
+            "sub": "https://storage.diziyou.one/episodes/1532/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1532_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1533",
+            "sub": "https://storage.diziyou.one/episodes/1533/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1533_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1534",
+            "sub": "https://storage.diziyou.one/episodes/1534/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1534_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1535",
+            "sub": "https://storage.diziyou.one/episodes/1535/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1535_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1536",
+            "sub": "https://storage.diziyou.one/episodes/1536/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1536_tr/play.m3u8"
+        }
+    ]
+}

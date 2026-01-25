@@ -1,0 +1,31 @@
+{
+    "title": "All the Light We Cannot See",
+    "url": "https://www.diziyou.one/all-the-light-we-cannot-see/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/all-the-light-we-cannot-see.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "80601",
+            "sub": "https://storage.diziyou.one/episodes/80601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "80602",
+            "sub": "https://storage.diziyou.one/episodes/80602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "80603",
+            "sub": "https://storage.diziyou.one/episodes/80603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "80604",
+            "sub": "https://storage.diziyou.one/episodes/80604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80604_tr/play.m3u8"
+        }
+    ]
+}

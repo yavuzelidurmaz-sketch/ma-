@@ -1,0 +1,31 @@
+{
+    "title": "Lost Ollie",
+    "url": "https://www.diziyou.one/lost-ollie/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/lost-ollie.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "21101",
+            "sub": "https://storage.diziyou.one/episodes/21101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "21102",
+            "sub": "https://storage.diziyou.one/episodes/21102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "21103",
+            "sub": "https://storage.diziyou.one/episodes/21103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "21104",
+            "sub": "https://storage.diziyou.one/episodes/21104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21104_tr/play.m3u8"
+        }
+    ]
+}

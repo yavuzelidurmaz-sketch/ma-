@@ -1,0 +1,43 @@
+{
+    "title": "Parasyte: The Grey",
+    "url": "https://www.diziyou.one/parasyte-the-grey/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/parasyte-the-grey.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "92501",
+            "sub": "https://storage.diziyou.one/episodes/92501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "92502",
+            "sub": "https://storage.diziyou.one/episodes/92502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "92503",
+            "sub": "https://storage.diziyou.one/episodes/92503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "92504",
+            "sub": "https://storage.diziyou.one/episodes/92504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "92505",
+            "sub": "https://storage.diziyou.one/episodes/92505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "92506",
+            "sub": "https://storage.diziyou.one/episodes/92506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92506_tr/play.m3u8"
+        }
+    ]
+}

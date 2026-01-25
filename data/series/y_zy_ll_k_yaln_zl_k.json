@@ -1,0 +1,55 @@
+{
+    "title": "Yüzyıllık Yalnızlık",
+    "url": "https://www.diziyou.one/yuzyillik-yalnizlik/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/yuzyillik-yalnizlik.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "113401",
+            "sub": "https://storage.diziyou.one/episodes/113401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "113402",
+            "sub": "https://storage.diziyou.one/episodes/113402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "113403",
+            "sub": "https://storage.diziyou.one/episodes/113403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "113404",
+            "sub": "https://storage.diziyou.one/episodes/113404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "113405",
+            "sub": "https://storage.diziyou.one/episodes/113405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "113406",
+            "sub": "https://storage.diziyou.one/episodes/113406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "113407",
+            "sub": "https://storage.diziyou.one/episodes/113407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "113408",
+            "sub": "https://storage.diziyou.one/episodes/113408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113408_tr/play.m3u8"
+        }
+    ]
+}

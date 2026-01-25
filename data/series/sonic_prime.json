@@ -1,0 +1,55 @@
+{
+    "title": "Sonic Prime",
+    "url": "https://www.diziyou.one/sonic-prime/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sonic-prime.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "26201",
+            "sub": "https://storage.diziyou.one/episodes/26201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "26202",
+            "sub": "https://storage.diziyou.one/episodes/26202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "26203",
+            "sub": "https://storage.diziyou.one/episodes/26203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "26204",
+            "sub": "https://storage.diziyou.one/episodes/26204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "26205",
+            "sub": "https://storage.diziyou.one/episodes/26205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "26206",
+            "sub": "https://storage.diziyou.one/episodes/26206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "26207",
+            "sub": "https://storage.diziyou.one/episodes/26207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "26208",
+            "sub": "https://storage.diziyou.one/episodes/26208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26208_tr/play.m3u8"
+        }
+    ]
+}

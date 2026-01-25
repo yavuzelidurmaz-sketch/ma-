@@ -1,0 +1,67 @@
+{
+    "title": "Messiah",
+    "url": "https://www.diziyou.one/messiah/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/messiah.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "660",
+            "sub": "https://storage.diziyou.one/episodes/660/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/660_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "661",
+            "sub": "https://storage.diziyou.one/episodes/661/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/661_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "662",
+            "sub": "https://storage.diziyou.one/episodes/662/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/662_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "663",
+            "sub": "https://storage.diziyou.one/episodes/663/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/663_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "664",
+            "sub": "https://storage.diziyou.one/episodes/664/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/664_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "665",
+            "sub": "https://storage.diziyou.one/episodes/665/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/665_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "666",
+            "sub": "https://storage.diziyou.one/episodes/666/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/666_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "667",
+            "sub": "https://storage.diziyou.one/episodes/667/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/667_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "668",
+            "sub": "https://storage.diziyou.one/episodes/668/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/668_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "669",
+            "sub": "https://storage.diziyou.one/episodes/669/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/669_tr/play.m3u8"
+        }
+    ]
+}

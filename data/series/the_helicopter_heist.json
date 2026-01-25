@@ -1,0 +1,55 @@
+{
+    "title": "The Helicopter Heist",
+    "url": "https://www.diziyou.one/the-helicopter-heist/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-helicopter-heist.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "111501",
+            "sub": "https://storage.diziyou.one/episodes/111501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "111502",
+            "sub": "https://storage.diziyou.one/episodes/111502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "111503",
+            "sub": "https://storage.diziyou.one/episodes/111503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "111504",
+            "sub": "https://storage.diziyou.one/episodes/111504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "111505",
+            "sub": "https://storage.diziyou.one/episodes/111505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "111506",
+            "sub": "https://storage.diziyou.one/episodes/111506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "111507",
+            "sub": "https://storage.diziyou.one/episodes/111507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "111508",
+            "sub": "https://storage.diziyou.one/episodes/111508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111508_tr/play.m3u8"
+        }
+    ]
+}

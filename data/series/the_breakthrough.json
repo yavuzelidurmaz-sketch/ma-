@@ -1,0 +1,31 @@
+{
+    "title": "The Breakthrough",
+    "url": "https://www.diziyou.one/the-breakthrough/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-breakthrough.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "116101",
+            "sub": "https://storage.diziyou.one/episodes/116101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "116102",
+            "sub": "https://storage.diziyou.one/episodes/116102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "116103",
+            "sub": "https://storage.diziyou.one/episodes/116103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "116104",
+            "sub": "https://storage.diziyou.one/episodes/116104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116104_tr/play.m3u8"
+        }
+    ]
+}

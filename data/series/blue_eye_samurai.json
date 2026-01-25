@@ -1,0 +1,55 @@
+{
+    "title": "Blue Eye Samurai",
+    "url": "https://www.diziyou.one/blue-eye-samurai/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/blue-eye-samurai.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "80701",
+            "sub": "https://storage.diziyou.one/episodes/80701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "80702",
+            "sub": "https://storage.diziyou.one/episodes/80702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "80703",
+            "sub": "https://storage.diziyou.one/episodes/80703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "80704",
+            "sub": "https://storage.diziyou.one/episodes/80704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "80705",
+            "sub": "https://storage.diziyou.one/episodes/80705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "80706",
+            "sub": "https://storage.diziyou.one/episodes/80706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "80707",
+            "sub": "https://storage.diziyou.one/episodes/80707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80707_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "80708",
+            "sub": "https://storage.diziyou.one/episodes/80708/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80708_tr/play.m3u8"
+        }
+    ]
+}

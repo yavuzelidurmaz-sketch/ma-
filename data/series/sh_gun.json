@@ -1,0 +1,67 @@
+{
+    "title": "Shōgun",
+    "url": "https://www.diziyou.one/shogun/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/shogun.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "88001",
+            "sub": "https://storage.diziyou.one/episodes/88001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "88002",
+            "sub": "https://storage.diziyou.one/episodes/88002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "88003",
+            "sub": "https://storage.diziyou.one/episodes/88003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "88004",
+            "sub": "https://storage.diziyou.one/episodes/88004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "88005",
+            "sub": "https://storage.diziyou.one/episodes/88005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "88006",
+            "sub": "https://storage.diziyou.one/episodes/88006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "88007",
+            "sub": "https://storage.diziyou.one/episodes/88007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "88008",
+            "sub": "https://storage.diziyou.one/episodes/88008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88008_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "88009",
+            "sub": "https://storage.diziyou.one/episodes/88009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88009_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "88010",
+            "sub": "https://storage.diziyou.one/episodes/88010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88010_tr/play.m3u8"
+        }
+    ]
+}

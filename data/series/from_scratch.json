@@ -1,0 +1,55 @@
+{
+    "title": "From Scratch",
+    "url": "https://www.diziyou.one/from-scratch/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/from-scratch.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "23251",
+            "sub": "https://storage.diziyou.one/episodes/23251/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23251_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "23252",
+            "sub": "https://storage.diziyou.one/episodes/23252/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23252_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "23253",
+            "sub": "https://storage.diziyou.one/episodes/23253/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23253_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "23254",
+            "sub": "https://storage.diziyou.one/episodes/23254/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23254_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "23255",
+            "sub": "https://storage.diziyou.one/episodes/23255/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23255_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "23256",
+            "sub": "https://storage.diziyou.one/episodes/23256/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23256_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "23257",
+            "sub": "https://storage.diziyou.one/episodes/23257/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23257_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "23258",
+            "sub": "https://storage.diziyou.one/episodes/23258/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23258_tr/play.m3u8"
+        }
+    ]
+}

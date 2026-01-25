@@ -1,0 +1,55 @@
+{
+    "title": "Iron Reign",
+    "url": "https://www.diziyou.one/iron-reign/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/iron-reign.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "90401",
+            "sub": "https://storage.diziyou.one/episodes/90401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "90402",
+            "sub": "https://storage.diziyou.one/episodes/90402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "90403",
+            "sub": "https://storage.diziyou.one/episodes/90403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "90404",
+            "sub": "https://storage.diziyou.one/episodes/90404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "90405",
+            "sub": "https://storage.diziyou.one/episodes/90405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "90406",
+            "sub": "https://storage.diziyou.one/episodes/90406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "90407",
+            "sub": "https://storage.diziyou.one/episodes/90407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "90408",
+            "sub": "https://storage.diziyou.one/episodes/90408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90408_tr/play.m3u8"
+        }
+    ]
+}

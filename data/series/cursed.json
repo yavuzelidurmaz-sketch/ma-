@@ -1,0 +1,67 @@
+{
+    "title": "Cursed",
+    "url": "https://www.diziyou.one/cursed/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/cursed.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1071",
+            "sub": "https://storage.diziyou.one/episodes/1071/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1071_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1072",
+            "sub": "https://storage.diziyou.one/episodes/1072/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1072_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1073",
+            "sub": "https://storage.diziyou.one/episodes/1073/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1073_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1074",
+            "sub": "https://storage.diziyou.one/episodes/1074/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1074_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1075",
+            "sub": "https://storage.diziyou.one/episodes/1075/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1075_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1076",
+            "sub": "https://storage.diziyou.one/episodes/1076/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1076_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1077",
+            "sub": "https://storage.diziyou.one/episodes/1077/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1077_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "1078",
+            "sub": "https://storage.diziyou.one/episodes/1078/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1078_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "1079",
+            "sub": "https://storage.diziyou.one/episodes/1079/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1079_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "1080",
+            "sub": "https://storage.diziyou.one/episodes/1080/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1080_tr/play.m3u8"
+        }
+    ]
+}

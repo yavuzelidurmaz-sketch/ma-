@@ -1,0 +1,61 @@
+{
+    "title": "Inventing Anna",
+    "url": "https://www.diziyou.one/inventing-anna/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/inventing-anna.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "16201",
+            "sub": "https://storage.diziyou.one/episodes/16201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "16202",
+            "sub": "https://storage.diziyou.one/episodes/16202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "16203",
+            "sub": "https://storage.diziyou.one/episodes/16203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "16204",
+            "sub": "https://storage.diziyou.one/episodes/16204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "16205",
+            "sub": "https://storage.diziyou.one/episodes/16205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "16206",
+            "sub": "https://storage.diziyou.one/episodes/16206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "16207",
+            "sub": "https://storage.diziyou.one/episodes/16207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "16208",
+            "sub": "https://storage.diziyou.one/episodes/16208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16208_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "16209",
+            "sub": "https://storage.diziyou.one/episodes/16209/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/16209_tr/play.m3u8"
+        }
+    ]
+}

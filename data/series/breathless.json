@@ -1,0 +1,55 @@
+{
+    "title": "Breathless",
+    "url": "https://www.diziyou.one/breathless/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/breathless.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "103801",
+            "sub": "https://storage.diziyou.one/episodes/103801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "103802",
+            "sub": "https://storage.diziyou.one/episodes/103802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "103803",
+            "sub": "https://storage.diziyou.one/episodes/103803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "103804",
+            "sub": "https://storage.diziyou.one/episodes/103804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "103805",
+            "sub": "https://storage.diziyou.one/episodes/103805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "103806",
+            "sub": "https://storage.diziyou.one/episodes/103806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "103807",
+            "sub": "https://storage.diziyou.one/episodes/103807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "103808",
+            "sub": "https://storage.diziyou.one/episodes/103808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103808_tr/play.m3u8"
+        }
+    ]
+}

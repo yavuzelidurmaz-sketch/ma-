@@ -1,0 +1,49 @@
+{
+    "title": "Lady in the Lake",
+    "url": "https://www.diziyou.one/lady-in-the-lake/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/lady-in-the-lake.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "99101",
+            "sub": "https://storage.diziyou.one/episodes/99101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "99102",
+            "sub": "https://storage.diziyou.one/episodes/99102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "99103",
+            "sub": "https://storage.diziyou.one/episodes/99103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "99104",
+            "sub": "https://storage.diziyou.one/episodes/99104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "99105",
+            "sub": "https://storage.diziyou.one/episodes/99105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "99106",
+            "sub": "https://storage.diziyou.one/episodes/99106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "99107",
+            "sub": "https://storage.diziyou.one/episodes/99107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99107_tr/play.m3u8"
+        }
+    ]
+}

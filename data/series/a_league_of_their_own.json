@@ -1,0 +1,55 @@
+{
+    "title": "A League of Their Own",
+    "url": "https://www.diziyou.one/a-league-of-their-own/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/a-league-of-their-own.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "21001",
+            "sub": "https://storage.diziyou.one/episodes/21001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "21002",
+            "sub": "https://storage.diziyou.one/episodes/21002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "21003",
+            "sub": "https://storage.diziyou.one/episodes/21003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "21004",
+            "sub": "https://storage.diziyou.one/episodes/21004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "21005",
+            "sub": "https://storage.diziyou.one/episodes/21005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "21006",
+            "sub": "https://storage.diziyou.one/episodes/21006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "21007",
+            "sub": "https://storage.diziyou.one/episodes/21007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "21008",
+            "sub": "https://storage.diziyou.one/episodes/21008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21008_tr/play.m3u8"
+        }
+    ]
+}

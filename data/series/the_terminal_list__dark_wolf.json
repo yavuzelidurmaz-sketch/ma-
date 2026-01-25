@@ -1,0 +1,49 @@
+{
+    "title": "The Terminal List: Dark Wolf",
+    "url": "https://www.diziyou.one/the-terminal-list-dark-wolf/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-terminal-list-dark-wolf.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "131501",
+            "sub": "https://storage.diziyou.one/episodes/131501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "131502",
+            "sub": "https://storage.diziyou.one/episodes/131502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "131503",
+            "sub": "https://storage.diziyou.one/episodes/131503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "131504",
+            "sub": "https://storage.diziyou.one/episodes/131504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "131505",
+            "sub": "https://storage.diziyou.one/episodes/131505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "131506",
+            "sub": "https://storage.diziyou.one/episodes/131506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "131507",
+            "sub": "https://storage.diziyou.one/episodes/131507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131507_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "The Decameron",
+    "url": "https://www.diziyou.one/the-decameron/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-decameron.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "98701",
+            "sub": "https://storage.diziyou.one/episodes/98701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "98702",
+            "sub": "https://storage.diziyou.one/episodes/98702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "98703",
+            "sub": "https://storage.diziyou.one/episodes/98703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "98704",
+            "sub": "https://storage.diziyou.one/episodes/98704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "98705",
+            "sub": "https://storage.diziyou.one/episodes/98705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "98706",
+            "sub": "https://storage.diziyou.one/episodes/98706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "98707",
+            "sub": "https://storage.diziyou.one/episodes/98707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98707_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "98708",
+            "sub": "https://storage.diziyou.one/episodes/98708/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/98708_tr/play.m3u8"
+        }
+    ]
+}

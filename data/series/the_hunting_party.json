@@ -1,0 +1,67 @@
+{
+    "title": "The Hunting Party",
+    "url": "https://www.diziyou.one/the-hunting-party/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-hunting-party.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "118001",
+            "sub": "https://storage.diziyou.one/episodes/118001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "118002",
+            "sub": "https://storage.diziyou.one/episodes/118002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "118003",
+            "sub": "https://storage.diziyou.one/episodes/118003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "118004",
+            "sub": "https://storage.diziyou.one/episodes/118004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "118005",
+            "sub": "https://storage.diziyou.one/episodes/118005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "118006",
+            "sub": "https://storage.diziyou.one/episodes/118006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "118007",
+            "sub": "https://storage.diziyou.one/episodes/118007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "118008",
+            "sub": "https://storage.diziyou.one/episodes/118008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118008_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "118009",
+            "sub": "https://storage.diziyou.one/episodes/118009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118009_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "118010",
+            "sub": "https://storage.diziyou.one/episodes/118010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/118010_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Drops of God",
+    "url": "https://www.diziyou.one/drops-of-god/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/drops-of-god.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "70501",
+            "sub": "https://storage.diziyou.one/episodes/70501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "70502",
+            "sub": "https://storage.diziyou.one/episodes/70502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "70503",
+            "sub": "https://storage.diziyou.one/episodes/70503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "70504",
+            "sub": "https://storage.diziyou.one/episodes/70504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "70505",
+            "sub": "https://storage.diziyou.one/episodes/70505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "70506",
+            "sub": "https://storage.diziyou.one/episodes/70506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "70507",
+            "sub": "https://storage.diziyou.one/episodes/70507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "70508",
+            "sub": "https://storage.diziyou.one/episodes/70508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70508_tr/play.m3u8"
+        }
+    ]
+}

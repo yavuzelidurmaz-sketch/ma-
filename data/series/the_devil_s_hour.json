@@ -1,0 +1,73 @@
+{
+    "title": "The Devil's Hour",
+    "url": "https://www.diziyou.one/the-devils-hour/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-devils-hour.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "107001",
+            "sub": "https://storage.diziyou.one/episodes/107001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "107002",
+            "sub": "https://storage.diziyou.one/episodes/107002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "107003",
+            "sub": "https://storage.diziyou.one/episodes/107003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "107004",
+            "sub": "https://storage.diziyou.one/episodes/107004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "107005",
+            "sub": "https://storage.diziyou.one/episodes/107005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "107006",
+            "sub": "https://storage.diziyou.one/episodes/107006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107006_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "107007",
+            "sub": "https://storage.diziyou.one/episodes/107007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107007_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "107008",
+            "sub": "https://storage.diziyou.one/episodes/107008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107008_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "107009",
+            "sub": "https://storage.diziyou.one/episodes/107009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107009_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "107010",
+            "sub": "https://storage.diziyou.one/episodes/107010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107010_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "107011",
+            "sub": "https://storage.diziyou.one/episodes/107011/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/107011_tr/play.m3u8"
+        }
+    ]
+}

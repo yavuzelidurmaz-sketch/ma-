@@ -1,0 +1,25 @@
+{
+    "title": "War Sailor",
+    "url": "https://www.diziyou.one/war-sailor/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/war-sailor.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "50501",
+            "sub": "https://storage.diziyou.one/episodes/50501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "50502",
+            "sub": "https://storage.diziyou.one/episodes/50502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "50503",
+            "sub": "https://storage.diziyou.one/episodes/50503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/50503_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "title": "Blue Planet II",
+    "url": "https://www.diziyou.one/blue-planet-2/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/blue-planet-2.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1061",
+            "sub": "https://storage.diziyou.one/episodes/1061/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1061_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1062",
+            "sub": "https://storage.diziyou.one/episodes/1062/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1062_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1063",
+            "sub": "https://storage.diziyou.one/episodes/1063/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1063_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1064",
+            "sub": "https://storage.diziyou.one/episodes/1064/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1064_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1065",
+            "sub": "https://storage.diziyou.one/episodes/1065/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1065_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1066",
+            "sub": "https://storage.diziyou.one/episodes/1066/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1066_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1067",
+            "sub": "https://storage.diziyou.one/episodes/1067/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1067_tr/play.m3u8"
+        }
+    ]
+}

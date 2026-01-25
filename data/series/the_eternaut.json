@@ -1,0 +1,43 @@
+{
+    "title": "The Eternaut",
+    "url": "https://www.diziyou.one/the-eternaut/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-eternaut.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "122101",
+            "sub": "https://storage.diziyou.one/episodes/122101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "122102",
+            "sub": "https://storage.diziyou.one/episodes/122102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "122103",
+            "sub": "https://storage.diziyou.one/episodes/122103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "122104",
+            "sub": "https://storage.diziyou.one/episodes/122104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "122105",
+            "sub": "https://storage.diziyou.one/episodes/122105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "122106",
+            "sub": "https://storage.diziyou.one/episodes/122106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122106_tr/play.m3u8"
+        }
+    ]
+}

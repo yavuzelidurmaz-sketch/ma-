@@ -1,0 +1,43 @@
+{
+    "title": "The Leopard",
+    "url": "https://www.diziyou.one/the-leopard/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-leopard.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "120801",
+            "sub": "https://storage.diziyou.one/episodes/120801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "120802",
+            "sub": "https://storage.diziyou.one/episodes/120802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "120803",
+            "sub": "https://storage.diziyou.one/episodes/120803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "120804",
+            "sub": "https://storage.diziyou.one/episodes/120804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "120805",
+            "sub": "https://storage.diziyou.one/episodes/120805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "120806",
+            "sub": "https://storage.diziyou.one/episodes/120806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120806_tr/play.m3u8"
+        }
+    ]
+}

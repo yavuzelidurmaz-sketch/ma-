@@ -1,0 +1,43 @@
+{
+    "title": "1992",
+    "url": "https://www.diziyou.one/1992/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/1992.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "113701",
+            "sub": "https://storage.diziyou.one/episodes/113701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "113702",
+            "sub": "https://storage.diziyou.one/episodes/113702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "113703",
+            "sub": "https://storage.diziyou.one/episodes/113703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "113704",
+            "sub": "https://storage.diziyou.one/episodes/113704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "113705",
+            "sub": "https://storage.diziyou.one/episodes/113705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "113706",
+            "sub": "https://storage.diziyou.one/episodes/113706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113706_tr/play.m3u8"
+        }
+    ]
+}

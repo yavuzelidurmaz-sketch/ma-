@@ -1,0 +1,55 @@
+{
+    "title": "Freud",
+    "url": "https://www.diziyou.one/freud/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/freud.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1271",
+            "sub": "https://storage.diziyou.one/episodes/1271/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1271_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1272",
+            "sub": "https://storage.diziyou.one/episodes/1272/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1272_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1273",
+            "sub": "https://storage.diziyou.one/episodes/1273/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1273_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1274",
+            "sub": "https://storage.diziyou.one/episodes/1274/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1274_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1275",
+            "sub": "https://storage.diziyou.one/episodes/1275/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1275_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1276",
+            "sub": "https://storage.diziyou.one/episodes/1276/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1276_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1277",
+            "sub": "https://storage.diziyou.one/episodes/1277/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1277_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "1278",
+            "sub": "https://storage.diziyou.one/episodes/1278/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1278_tr/play.m3u8"
+        }
+    ]
+}

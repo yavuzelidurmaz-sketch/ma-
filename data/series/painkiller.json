@@ -1,0 +1,43 @@
+{
+    "title": "Painkiller",
+    "url": "https://www.diziyou.one/painkiller/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/painkiller.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "74401",
+            "sub": "https://storage.diziyou.one/episodes/74401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "74402",
+            "sub": "https://storage.diziyou.one/episodes/74402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "74403",
+            "sub": "https://storage.diziyou.one/episodes/74403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "74404",
+            "sub": "https://storage.diziyou.one/episodes/74404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "74405",
+            "sub": "https://storage.diziyou.one/episodes/74405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "74406",
+            "sub": "https://storage.diziyou.one/episodes/74406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/74406_tr/play.m3u8"
+        }
+    ]
+}

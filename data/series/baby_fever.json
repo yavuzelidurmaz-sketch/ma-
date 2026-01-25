@@ -1,0 +1,79 @@
+{
+    "title": "Baby Fever",
+    "url": "https://www.diziyou.one/baby-fever/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/baby-fever.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "103001",
+            "sub": "https://storage.diziyou.one/episodes/103001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "103002",
+            "sub": "https://storage.diziyou.one/episodes/103002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "103003",
+            "sub": "https://storage.diziyou.one/episodes/103003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "103004",
+            "sub": "https://storage.diziyou.one/episodes/103004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "103005",
+            "sub": "https://storage.diziyou.one/episodes/103005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "103006",
+            "sub": "https://storage.diziyou.one/episodes/103006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103006_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "103007",
+            "sub": "https://storage.diziyou.one/episodes/103007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103007_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "103008",
+            "sub": "https://storage.diziyou.one/episodes/103008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103008_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "103009",
+            "sub": "https://storage.diziyou.one/episodes/103009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103009_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "103010",
+            "sub": "https://storage.diziyou.one/episodes/103010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103010_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "103011",
+            "sub": "https://storage.diziyou.one/episodes/103011/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103011_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "103012",
+            "sub": "https://storage.diziyou.one/episodes/103012/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/103012_tr/play.m3u8"
+        }
+    ]
+}

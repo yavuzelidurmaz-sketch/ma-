@@ -1,0 +1,61 @@
+{
+    "title": "First Love",
+    "url": "https://www.diziyou.one/first-love/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/first-love.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "24751",
+            "sub": "https://storage.diziyou.one/episodes/24751/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24751_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "24752",
+            "sub": "https://storage.diziyou.one/episodes/24752/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24752_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "24753",
+            "sub": "https://storage.diziyou.one/episodes/24753/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24753_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "24754",
+            "sub": "https://storage.diziyou.one/episodes/24754/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24754_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "24755",
+            "sub": "https://storage.diziyou.one/episodes/24755/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24755_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "24756",
+            "sub": "https://storage.diziyou.one/episodes/24756/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24756_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "24757",
+            "sub": "https://storage.diziyou.one/episodes/24757/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24757_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "24758",
+            "sub": "https://storage.diziyou.one/episodes/24758/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24758_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "24759",
+            "sub": "https://storage.diziyou.one/episodes/24759/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/24759_tr/play.m3u8"
+        }
+    ]
+}

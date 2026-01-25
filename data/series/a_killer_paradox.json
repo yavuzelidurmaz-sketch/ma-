@@ -1,0 +1,55 @@
+{
+    "title": "A Killer Paradox",
+    "url": "https://www.diziyou.one/a-killer-paradox/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/a-killer-paradox.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "88801",
+            "sub": "https://storage.diziyou.one/episodes/88801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "88802",
+            "sub": "https://storage.diziyou.one/episodes/88802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "88803",
+            "sub": "https://storage.diziyou.one/episodes/88803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "88804",
+            "sub": "https://storage.diziyou.one/episodes/88804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "88805",
+            "sub": "https://storage.diziyou.one/episodes/88805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "88806",
+            "sub": "https://storage.diziyou.one/episodes/88806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "88807",
+            "sub": "https://storage.diziyou.one/episodes/88807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "88808",
+            "sub": "https://storage.diziyou.one/episodes/88808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/88808_tr/play.m3u8"
+        }
+    ]
+}

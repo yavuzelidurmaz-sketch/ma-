@@ -1,0 +1,79 @@
+{
+    "title": "The Rig",
+    "url": "https://www.diziyou.one/the-rig/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-rig.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "115701",
+            "sub": "https://storage.diziyou.one/episodes/115701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "115702",
+            "sub": "https://storage.diziyou.one/episodes/115702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "115703",
+            "sub": "https://storage.diziyou.one/episodes/115703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "115704",
+            "sub": "https://storage.diziyou.one/episodes/115704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "115705",
+            "sub": "https://storage.diziyou.one/episodes/115705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "115706",
+            "sub": "https://storage.diziyou.one/episodes/115706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115706_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "115707",
+            "sub": "https://storage.diziyou.one/episodes/115707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115707_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "115708",
+            "sub": "https://storage.diziyou.one/episodes/115708/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115708_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "115709",
+            "sub": "https://storage.diziyou.one/episodes/115709/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115709_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "115710",
+            "sub": "https://storage.diziyou.one/episodes/115710/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115710_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "115711",
+            "sub": "https://storage.diziyou.one/episodes/115711/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115711_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "115712",
+            "sub": "https://storage.diziyou.one/episodes/115712/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115712_tr/play.m3u8"
+        }
+    ]
+}

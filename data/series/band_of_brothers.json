@@ -1,0 +1,67 @@
+{
+    "title": "Band of Brothers",
+    "url": "https://www.diziyou.one/band-of-brothers/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/band-of-brothers.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1141",
+            "sub": "https://storage.diziyou.one/episodes/1141/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1141_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1142",
+            "sub": "https://storage.diziyou.one/episodes/1142/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1142_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1143",
+            "sub": "https://storage.diziyou.one/episodes/1143/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1143_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1144",
+            "sub": "https://storage.diziyou.one/episodes/1144/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1144_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1145",
+            "sub": "https://storage.diziyou.one/episodes/1145/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1145_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1146",
+            "sub": "https://storage.diziyou.one/episodes/1146/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1146_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1147",
+            "sub": "https://storage.diziyou.one/episodes/1147/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1147_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "1148",
+            "sub": "https://storage.diziyou.one/episodes/1148/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1148_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "1149",
+            "sub": "https://storage.diziyou.one/episodes/1149/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1149_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "1150",
+            "sub": "https://storage.diziyou.one/episodes/1150/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1150_tr/play.m3u8"
+        }
+    ]
+}

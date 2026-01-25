@@ -1,0 +1,67 @@
+{
+    "title": "The Imperfects",
+    "url": "https://www.diziyou.one/the-imperfects/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-imperfects.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "21801",
+            "sub": "https://storage.diziyou.one/episodes/21801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "21802",
+            "sub": "https://storage.diziyou.one/episodes/21802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "21803",
+            "sub": "https://storage.diziyou.one/episodes/21803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "21804",
+            "sub": "https://storage.diziyou.one/episodes/21804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "21805",
+            "sub": "https://storage.diziyou.one/episodes/21805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "21806",
+            "sub": "https://storage.diziyou.one/episodes/21806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "21807",
+            "sub": "https://storage.diziyou.one/episodes/21807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "21808",
+            "sub": "https://storage.diziyou.one/episodes/21808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21808_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "21809",
+            "sub": "https://storage.diziyou.one/episodes/21809/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21809_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "21810",
+            "sub": "https://storage.diziyou.one/episodes/21810/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/21810_tr/play.m3u8"
+        }
+    ]
+}

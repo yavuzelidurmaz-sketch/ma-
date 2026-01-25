@@ -1,0 +1,55 @@
+{
+    "title": "The Four Seasons",
+    "url": "https://www.diziyou.one/the-four-seasons/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-four-seasons.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "122201",
+            "sub": "https://storage.diziyou.one/episodes/122201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "122202",
+            "sub": "https://storage.diziyou.one/episodes/122202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "122203",
+            "sub": "https://storage.diziyou.one/episodes/122203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "122204",
+            "sub": "https://storage.diziyou.one/episodes/122204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "122205",
+            "sub": "https://storage.diziyou.one/episodes/122205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "122206",
+            "sub": "https://storage.diziyou.one/episodes/122206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "122207",
+            "sub": "https://storage.diziyou.one/episodes/122207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "122208",
+            "sub": "https://storage.diziyou.one/episodes/122208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122208_tr/play.m3u8"
+        }
+    ]
+}

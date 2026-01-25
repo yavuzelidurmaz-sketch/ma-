@@ -1,0 +1,67 @@
+{
+    "title": "Cyberpunk: Edgerunners",
+    "url": "https://www.diziyou.one/cyberpunk-edgerunners/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/cyberpunk-edgerunners.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "22001",
+            "sub": "https://storage.diziyou.one/episodes/22001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "22002",
+            "sub": "https://storage.diziyou.one/episodes/22002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "22003",
+            "sub": "https://storage.diziyou.one/episodes/22003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "22004",
+            "sub": "https://storage.diziyou.one/episodes/22004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "22005",
+            "sub": "https://storage.diziyou.one/episodes/22005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "22006",
+            "sub": "https://storage.diziyou.one/episodes/22006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "22007",
+            "sub": "https://storage.diziyou.one/episodes/22007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "22008",
+            "sub": "https://storage.diziyou.one/episodes/22008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22008_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "22009",
+            "sub": "https://storage.diziyou.one/episodes/22009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22009_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "22010",
+            "sub": "https://storage.diziyou.one/episodes/22010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22010_tr/play.m3u8"
+        }
+    ]
+}

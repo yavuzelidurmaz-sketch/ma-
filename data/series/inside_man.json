@@ -1,0 +1,31 @@
+{
+    "title": "Inside Man",
+    "url": "https://www.diziyou.one/inside-man/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/inside-man.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "23451",
+            "sub": "https://storage.diziyou.one/episodes/23451/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23451_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "23452",
+            "sub": "https://storage.diziyou.one/episodes/23452/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23452_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "23453",
+            "sub": "https://storage.diziyou.one/episodes/23453/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23453_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "23454",
+            "sub": "https://storage.diziyou.one/episodes/23454/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/23454_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Black Rabbit",
+    "url": "https://www.diziyou.one/black-rabbit/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/black-rabbit.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "134401",
+            "sub": "https://storage.diziyou.one/episodes/134401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "134402",
+            "sub": "https://storage.diziyou.one/episodes/134402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "134403",
+            "sub": "https://storage.diziyou.one/episodes/134403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "134404",
+            "sub": "https://storage.diziyou.one/episodes/134404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "134405",
+            "sub": "https://storage.diziyou.one/episodes/134405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "134406",
+            "sub": "https://storage.diziyou.one/episodes/134406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "134407",
+            "sub": "https://storage.diziyou.one/episodes/134407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "134408",
+            "sub": "https://storage.diziyou.one/episodes/134408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/134408_tr/play.m3u8"
+        }
+    ]
+}

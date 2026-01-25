@@ -1,0 +1,43 @@
+{
+    "title": "I Hate Christmas",
+    "url": "https://www.diziyou.one/i-hate-christmas/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/i-hate-christmas.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "26101",
+            "sub": "https://storage.diziyou.one/episodes/26101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "26102",
+            "sub": "https://storage.diziyou.one/episodes/26102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "26103",
+            "sub": "https://storage.diziyou.one/episodes/26103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "26104",
+            "sub": "https://storage.diziyou.one/episodes/26104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "26105",
+            "sub": "https://storage.diziyou.one/episodes/26105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "26106",
+            "sub": "https://storage.diziyou.one/episodes/26106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/26106_tr/play.m3u8"
+        }
+    ]
+}

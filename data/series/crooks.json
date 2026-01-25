@@ -1,0 +1,55 @@
+{
+    "title": "Crooks",
+    "url": "https://www.diziyou.one/crooks/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/crooks.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "92601",
+            "sub": "https://storage.diziyou.one/episodes/92601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "92602",
+            "sub": "https://storage.diziyou.one/episodes/92602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "92603",
+            "sub": "https://storage.diziyou.one/episodes/92603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "92604",
+            "sub": "https://storage.diziyou.one/episodes/92604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "92605",
+            "sub": "https://storage.diziyou.one/episodes/92605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "92606",
+            "sub": "https://storage.diziyou.one/episodes/92606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "92607",
+            "sub": "https://storage.diziyou.one/episodes/92607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "92608",
+            "sub": "https://storage.diziyou.one/episodes/92608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/92608_tr/play.m3u8"
+        }
+    ]
+}

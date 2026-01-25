@@ -1,0 +1,25 @@
+{
+    "title": "MH370: Kaybolan Uçak",
+    "url": "https://www.diziyou.one/mh370-kaybolan-ucak/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/mh370-kaybolan-ucak.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "29601",
+            "sub": "https://storage.diziyou.one/episodes/29601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "29602",
+            "sub": "https://storage.diziyou.one/episodes/29602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "29603",
+            "sub": "https://storage.diziyou.one/episodes/29603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29603_tr/play.m3u8"
+        }
+    ]
+}

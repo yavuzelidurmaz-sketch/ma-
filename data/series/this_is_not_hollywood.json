@@ -1,0 +1,31 @@
+{
+    "title": "This Is Not Hollywood",
+    "url": "https://www.diziyou.one/this-is-not-hollywood/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/this-is-not-hollywood.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "111201",
+            "sub": "https://storage.diziyou.one/episodes/111201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "111202",
+            "sub": "https://storage.diziyou.one/episodes/111202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "111203",
+            "sub": "https://storage.diziyou.one/episodes/111203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "111204",
+            "sub": "https://storage.diziyou.one/episodes/111204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111204_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "Narco-Saints",
+    "url": "https://www.diziyou.one/narco-saints/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/narco-saints.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "22351",
+            "sub": "https://storage.diziyou.one/episodes/22351/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22351_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "22352",
+            "sub": "https://storage.diziyou.one/episodes/22352/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22352_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "22353",
+            "sub": "https://storage.diziyou.one/episodes/22353/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22353_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "22354",
+            "sub": "https://storage.diziyou.one/episodes/22354/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22354_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "22355",
+            "sub": "https://storage.diziyou.one/episodes/22355/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22355_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "22356",
+            "sub": "https://storage.diziyou.one/episodes/22356/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/22356_tr/play.m3u8"
+        }
+    ]
+}

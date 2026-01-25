@@ -1,0 +1,31 @@
+{
+    "title": "Tomorrow and I",
+    "url": "https://www.diziyou.one/tomorrow-and-i/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/tomorrow-and-i.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "113001",
+            "sub": "https://storage.diziyou.one/episodes/113001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "113002",
+            "sub": "https://storage.diziyou.one/episodes/113002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "113003",
+            "sub": "https://storage.diziyou.one/episodes/113003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "113004",
+            "sub": "https://storage.diziyou.one/episodes/113004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/113004_tr/play.m3u8"
+        }
+    ]
+}

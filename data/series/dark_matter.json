@@ -1,0 +1,61 @@
+{
+    "title": "Dark Matter",
+    "url": "https://www.diziyou.one/dark-matter/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dark-matter.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "93501",
+            "sub": "https://storage.diziyou.one/episodes/93501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "93502",
+            "sub": "https://storage.diziyou.one/episodes/93502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "93503",
+            "sub": "https://storage.diziyou.one/episodes/93503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "93504",
+            "sub": "https://storage.diziyou.one/episodes/93504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "93505",
+            "sub": "https://storage.diziyou.one/episodes/93505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "93506",
+            "sub": "https://storage.diziyou.one/episodes/93506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "93507",
+            "sub": "https://storage.diziyou.one/episodes/93507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "93508",
+            "sub": "https://storage.diziyou.one/episodes/93508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93508_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "93509",
+            "sub": "https://storage.diziyou.one/episodes/93509/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/93509_tr/play.m3u8"
+        }
+    ]
+}

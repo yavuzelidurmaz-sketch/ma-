@@ -1,0 +1,31 @@
+{
+    "title": "Robbie Williams",
+    "url": "https://www.diziyou.one/robbie-williams/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/robbie-williams.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "80901",
+            "sub": "https://storage.diziyou.one/episodes/80901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "80902",
+            "sub": "https://storage.diziyou.one/episodes/80902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "80903",
+            "sub": "https://storage.diziyou.one/episodes/80903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "80904",
+            "sub": "https://storage.diziyou.one/episodes/80904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80904_tr/play.m3u8"
+        }
+    ]
+}

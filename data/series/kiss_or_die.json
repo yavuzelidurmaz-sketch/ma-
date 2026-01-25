@@ -1,0 +1,43 @@
+{
+    "title": "Kiss or Die",
+    "url": "https://www.diziyou.one/kiss-or-die/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/kiss-or-die.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "132601",
+            "sub": "https://storage.diziyou.one/episodes/132601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "132602",
+            "sub": "https://storage.diziyou.one/episodes/132602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "132603",
+            "sub": "https://storage.diziyou.one/episodes/132603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "132604",
+            "sub": "https://storage.diziyou.one/episodes/132604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "132605",
+            "sub": "https://storage.diziyou.one/episodes/132605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "132606",
+            "sub": "https://storage.diziyou.one/episodes/132606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/132606_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,43 @@
+{
+    "title": "The Life You Wanted",
+    "url": "https://www.diziyou.one/the-life-you-wanted/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-life-you-wanted.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "94101",
+            "sub": "https://storage.diziyou.one/episodes/94101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "94102",
+            "sub": "https://storage.diziyou.one/episodes/94102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "94103",
+            "sub": "https://storage.diziyou.one/episodes/94103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "94104",
+            "sub": "https://storage.diziyou.one/episodes/94104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "94105",
+            "sub": "https://storage.diziyou.one/episodes/94105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "94106",
+            "sub": "https://storage.diziyou.one/episodes/94106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/94106_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Kadınlar Savaşta",
+    "url": "https://www.diziyou.one/kadinlar-savasta/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/kadinlar-savasta.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "27001",
+            "sub": "https://storage.diziyou.one/episodes/27001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "27002",
+            "sub": "https://storage.diziyou.one/episodes/27002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "27003",
+            "sub": "https://storage.diziyou.one/episodes/27003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "27004",
+            "sub": "https://storage.diziyou.one/episodes/27004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "27005",
+            "sub": "https://storage.diziyou.one/episodes/27005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "27006",
+            "sub": "https://storage.diziyou.one/episodes/27006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "27007",
+            "sub": "https://storage.diziyou.one/episodes/27007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "27008",
+            "sub": "https://storage.diziyou.one/episodes/27008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/27008_tr/play.m3u8"
+        }
+    ]
+}

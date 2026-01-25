@@ -1,0 +1,43 @@
+{
+    "title": "Land of Women",
+    "url": "https://www.diziyou.one/land-of-women/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/land-of-women.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "99301",
+            "sub": "https://storage.diziyou.one/episodes/99301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "99302",
+            "sub": "https://storage.diziyou.one/episodes/99302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "99303",
+            "sub": "https://storage.diziyou.one/episodes/99303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "99304",
+            "sub": "https://storage.diziyou.one/episodes/99304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "99305",
+            "sub": "https://storage.diziyou.one/episodes/99305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "99306",
+            "sub": "https://storage.diziyou.one/episodes/99306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99306_tr/play.m3u8"
+        }
+    ]
+}

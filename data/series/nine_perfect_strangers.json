@@ -1,0 +1,55 @@
+{
+    "title": "Nine Perfect Strangers",
+    "url": "https://www.diziyou.one/nine-perfect-strangers/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/nine-perfect-strangers.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "128901",
+            "sub": "https://storage.diziyou.one/episodes/128901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "128902",
+            "sub": "https://storage.diziyou.one/episodes/128902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "128903",
+            "sub": "https://storage.diziyou.one/episodes/128903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "128904",
+            "sub": "https://storage.diziyou.one/episodes/128904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "128905",
+            "sub": "https://storage.diziyou.one/episodes/128905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "128906",
+            "sub": "https://storage.diziyou.one/episodes/128906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "128907",
+            "sub": "https://storage.diziyou.one/episodes/128907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "128908",
+            "sub": "https://storage.diziyou.one/episodes/128908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/128908_tr/play.m3u8"
+        }
+    ]
+}

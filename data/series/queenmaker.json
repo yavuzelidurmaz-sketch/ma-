@@ -1,0 +1,73 @@
+{
+    "title": "Queenmaker",
+    "url": "https://www.diziyou.one/queenmaker/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/queenmaker.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "70101",
+            "sub": "https://storage.diziyou.one/episodes/70101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "70102",
+            "sub": "https://storage.diziyou.one/episodes/70102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "70103",
+            "sub": "https://storage.diziyou.one/episodes/70103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "70104",
+            "sub": "https://storage.diziyou.one/episodes/70104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "70105",
+            "sub": "https://storage.diziyou.one/episodes/70105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "70106",
+            "sub": "https://storage.diziyou.one/episodes/70106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "70107",
+            "sub": "https://storage.diziyou.one/episodes/70107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "70108",
+            "sub": "https://storage.diziyou.one/episodes/70108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70108_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "70109",
+            "sub": "https://storage.diziyou.one/episodes/70109/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70109_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "70110",
+            "sub": "https://storage.diziyou.one/episodes/70110/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70110_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "70111",
+            "sub": "https://storage.diziyou.one/episodes/70111/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70111_tr/play.m3u8"
+        }
+    ]
+}

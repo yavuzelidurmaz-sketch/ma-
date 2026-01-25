@@ -1,0 +1,43 @@
+{
+    "title": "The Pimp – No F***ing Fairytale",
+    "url": "https://www.diziyou.one/the-pimp-no-fucking-fairytale/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-pimp-no-fucking-fairytale.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "30101",
+            "sub": "https://storage.diziyou.one/episodes/30101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "30102",
+            "sub": "https://storage.diziyou.one/episodes/30102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "30103",
+            "sub": "https://storage.diziyou.one/episodes/30103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "30104",
+            "sub": "https://storage.diziyou.one/episodes/30104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "30105",
+            "sub": "https://storage.diziyou.one/episodes/30105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "30106",
+            "sub": "https://storage.diziyou.one/episodes/30106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30106_tr/play.m3u8"
+        }
+    ]
+}

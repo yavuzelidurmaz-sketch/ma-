@@ -1,0 +1,43 @@
+{
+    "title": "Dead Ringers",
+    "url": "https://www.diziyou.one/dead-ringers/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dead-ringers.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "70301",
+            "sub": "https://storage.diziyou.one/episodes/70301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "70302",
+            "sub": "https://storage.diziyou.one/episodes/70302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "70303",
+            "sub": "https://storage.diziyou.one/episodes/70303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "70304",
+            "sub": "https://storage.diziyou.one/episodes/70304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "70305",
+            "sub": "https://storage.diziyou.one/episodes/70305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "70306",
+            "sub": "https://storage.diziyou.one/episodes/70306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/70306_tr/play.m3u8"
+        }
+    ]
+}

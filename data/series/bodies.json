@@ -1,0 +1,55 @@
+{
+    "title": "Bodies",
+    "url": "https://www.diziyou.one/bodies/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/bodies.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "79301",
+            "sub": "https://storage.diziyou.one/episodes/79301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "79302",
+            "sub": "https://storage.diziyou.one/episodes/79302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "79303",
+            "sub": "https://storage.diziyou.one/episodes/79303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "79304",
+            "sub": "https://storage.diziyou.one/episodes/79304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "79305",
+            "sub": "https://storage.diziyou.one/episodes/79305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "79306",
+            "sub": "https://storage.diziyou.one/episodes/79306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "79307",
+            "sub": "https://storage.diziyou.one/episodes/79307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79307_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "79308",
+            "sub": "https://storage.diziyou.one/episodes/79308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/79308_tr/play.m3u8"
+        }
+    ]
+}

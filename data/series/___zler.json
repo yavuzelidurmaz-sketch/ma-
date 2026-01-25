@@ -1,0 +1,55 @@
+{
+    "title": "Üçüzler",
+    "url": "https://www.diziyou.one/ucuzler-triptych/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/ucuzler.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "29701",
+            "sub": "https://storage.diziyou.one/episodes/29701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "29702",
+            "sub": "https://storage.diziyou.one/episodes/29702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "29703",
+            "sub": "https://storage.diziyou.one/episodes/29703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "29704",
+            "sub": "https://storage.diziyou.one/episodes/29704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "29705",
+            "sub": "https://storage.diziyou.one/episodes/29705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "29706",
+            "sub": "https://storage.diziyou.one/episodes/29706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "29707",
+            "sub": "https://storage.diziyou.one/episodes/29707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29707_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "29708",
+            "sub": "https://storage.diziyou.one/episodes/29708/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/29708_tr/play.m3u8"
+        }
+    ]
+}

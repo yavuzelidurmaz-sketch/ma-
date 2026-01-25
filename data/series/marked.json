@@ -1,0 +1,43 @@
+{
+    "title": "Marked",
+    "url": "https://www.diziyou.one/marked/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/marked.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "126701",
+            "sub": "https://storage.diziyou.one/episodes/126701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/126701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "126702",
+            "sub": "https://storage.diziyou.one/episodes/126702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/126702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "126703",
+            "sub": "https://storage.diziyou.one/episodes/126703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/126703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "126704",
+            "sub": "https://storage.diziyou.one/episodes/126704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/126704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "126705",
+            "sub": "https://storage.diziyou.one/episodes/126705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/126705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "126706",
+            "sub": "https://storage.diziyou.one/episodes/126706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/126706_tr/play.m3u8"
+        }
+    ]
+}

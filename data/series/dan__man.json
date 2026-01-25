@@ -1,0 +1,55 @@
+{
+    "title": "Danışman",
+    "url": "https://www.diziyou.one/danisman/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-consultant.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "30801",
+            "sub": "https://storage.diziyou.one/episodes/30801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "30802",
+            "sub": "https://storage.diziyou.one/episodes/30802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "30803",
+            "sub": "https://storage.diziyou.one/episodes/30803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "30804",
+            "sub": "https://storage.diziyou.one/episodes/30804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "30805",
+            "sub": "https://storage.diziyou.one/episodes/30805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "30806",
+            "sub": "https://storage.diziyou.one/episodes/30806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "30807",
+            "sub": "https://storage.diziyou.one/episodes/30807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "30808",
+            "sub": "https://storage.diziyou.one/episodes/30808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30808_tr/play.m3u8"
+        }
+    ]
+}

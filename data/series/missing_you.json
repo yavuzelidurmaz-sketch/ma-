@@ -1,0 +1,37 @@
+{
+    "title": "Missing You",
+    "url": "https://www.diziyou.one/missing-you/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/missing-you.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "115801",
+            "sub": "https://storage.diziyou.one/episodes/115801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "115802",
+            "sub": "https://storage.diziyou.one/episodes/115802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "115803",
+            "sub": "https://storage.diziyou.one/episodes/115803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "115804",
+            "sub": "https://storage.diziyou.one/episodes/115804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "115805",
+            "sub": "https://storage.diziyou.one/episodes/115805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/115805_tr/play.m3u8"
+        }
+    ]
+}

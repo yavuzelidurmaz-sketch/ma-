@@ -1,0 +1,43 @@
+{
+    "title": "Superstar",
+    "url": "https://www.diziyou.one/superstar/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/superstar.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "125101",
+            "sub": "https://storage.diziyou.one/episodes/125101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "125102",
+            "sub": "https://storage.diziyou.one/episodes/125102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "125103",
+            "sub": "https://storage.diziyou.one/episodes/125103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "125104",
+            "sub": "https://storage.diziyou.one/episodes/125104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "125105",
+            "sub": "https://storage.diziyou.one/episodes/125105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "125106",
+            "sub": "https://storage.diziyou.one/episodes/125106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/125106_tr/play.m3u8"
+        }
+    ]
+}

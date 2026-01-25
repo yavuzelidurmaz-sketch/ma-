@@ -1,0 +1,79 @@
+{
+    "title": "Our Planet",
+    "url": "https://www.diziyou.one/our-planet/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/our-planet.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1001",
+            "sub": "https://storage.diziyou.one/episodes/1001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1002",
+            "sub": "https://storage.diziyou.one/episodes/1002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1003",
+            "sub": "https://storage.diziyou.one/episodes/1003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1004",
+            "sub": "https://storage.diziyou.one/episodes/1004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1005",
+            "sub": "https://storage.diziyou.one/episodes/1005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1006",
+            "sub": "https://storage.diziyou.one/episodes/1006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "1007",
+            "sub": "https://storage.diziyou.one/episodes/1007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "1008",
+            "sub": "https://storage.diziyou.one/episodes/1008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1008_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "139401",
+            "sub": "https://storage.diziyou.one/episodes/139401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139401_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "139402",
+            "sub": "https://storage.diziyou.one/episodes/139402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139402_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "139403",
+            "sub": "https://storage.diziyou.one/episodes/139403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139403_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "139404",
+            "sub": "https://storage.diziyou.one/episodes/139404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139404_tr/play.m3u8"
+        }
+    ]
+}

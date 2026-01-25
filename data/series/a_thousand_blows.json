@@ -1,0 +1,43 @@
+{
+    "title": "A Thousand Blows",
+    "url": "https://www.diziyou.one/a-thousand-blows/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/a-thousand-blows.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "119801",
+            "sub": "https://storage.diziyou.one/episodes/119801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "119802",
+            "sub": "https://storage.diziyou.one/episodes/119802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "119803",
+            "sub": "https://storage.diziyou.one/episodes/119803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "119804",
+            "sub": "https://storage.diziyou.one/episodes/119804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "119805",
+            "sub": "https://storage.diziyou.one/episodes/119805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "119806",
+            "sub": "https://storage.diziyou.one/episodes/119806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119806_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,79 @@
+{
+    "title": "Hellbound",
+    "url": "https://www.diziyou.one/hellbound/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/hellbound.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "13551",
+            "sub": "https://storage.diziyou.one/episodes/13551/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13551_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "13552",
+            "sub": "https://storage.diziyou.one/episodes/13552/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13552_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "13553",
+            "sub": "https://storage.diziyou.one/episodes/13553/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13553_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "13554",
+            "sub": "https://storage.diziyou.one/episodes/13554/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13554_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "13555",
+            "sub": "https://storage.diziyou.one/episodes/13555/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13555_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "13556",
+            "sub": "https://storage.diziyou.one/episodes/13556/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13556_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "13557",
+            "sub": "https://storage.diziyou.one/episodes/13557/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13557_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "13558",
+            "sub": "https://storage.diziyou.one/episodes/13558/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13558_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "13559",
+            "sub": "https://storage.diziyou.one/episodes/13559/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13559_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "13560",
+            "sub": "https://storage.diziyou.one/episodes/13560/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13560_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "13561",
+            "sub": "https://storage.diziyou.one/episodes/13561/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13561_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "13562",
+            "sub": "https://storage.diziyou.one/episodes/13562/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/13562_tr/play.m3u8"
+        }
+    ]
+}

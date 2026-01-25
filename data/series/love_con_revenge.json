@@ -1,0 +1,43 @@
+{
+    "title": "Love Con Revenge",
+    "url": "https://www.diziyou.one/love-con-revenge/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/love-con-revenge.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "131801",
+            "sub": "https://storage.diziyou.one/episodes/131801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "131802",
+            "sub": "https://storage.diziyou.one/episodes/131802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "131803",
+            "sub": "https://storage.diziyou.one/episodes/131803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "131804",
+            "sub": "https://storage.diziyou.one/episodes/131804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "131805",
+            "sub": "https://storage.diziyou.one/episodes/131805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "131806",
+            "sub": "https://storage.diziyou.one/episodes/131806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/131806_tr/play.m3u8"
+        }
+    ]
+}

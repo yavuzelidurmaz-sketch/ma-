@@ -1,0 +1,67 @@
+{
+    "title": "Daisy Jones & the Six",
+    "url": "https://www.diziyou.one/daisy-jones-the-six/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/daisy-jones-the-six.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "30401",
+            "sub": "https://storage.diziyou.one/episodes/30401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "30402",
+            "sub": "https://storage.diziyou.one/episodes/30402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "30403",
+            "sub": "https://storage.diziyou.one/episodes/30403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "30404",
+            "sub": "https://storage.diziyou.one/episodes/30404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "30405",
+            "sub": "https://storage.diziyou.one/episodes/30405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "30406",
+            "sub": "https://storage.diziyou.one/episodes/30406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "30407",
+            "sub": "https://storage.diziyou.one/episodes/30407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "30408",
+            "sub": "https://storage.diziyou.one/episodes/30408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30408_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "30409",
+            "sub": "https://storage.diziyou.one/episodes/30409/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30409_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "30410",
+            "sub": "https://storage.diziyou.one/episodes/30410/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30410_tr/play.m3u8"
+        }
+    ]
+}

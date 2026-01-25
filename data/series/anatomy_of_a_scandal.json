@@ -1,0 +1,43 @@
+{
+    "title": "Anatomy of a Scandal",
+    "url": "https://www.diziyou.one/anatomy-of-a-scandal/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/anatomy-of-a-scandal.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "18051",
+            "sub": "https://storage.diziyou.one/episodes/18051/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/18051_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "18052",
+            "sub": "https://storage.diziyou.one/episodes/18052/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/18052_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "18053",
+            "sub": "https://storage.diziyou.one/episodes/18053/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/18053_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "18054",
+            "sub": "https://storage.diziyou.one/episodes/18054/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/18054_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "18055",
+            "sub": "https://storage.diziyou.one/episodes/18055/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/18055_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "18056",
+            "sub": "https://storage.diziyou.one/episodes/18056/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/18056_tr/play.m3u8"
+        }
+    ]
+}

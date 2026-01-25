@@ -1,0 +1,55 @@
+{
+    "title": "My Lady Jane",
+    "url": "https://www.diziyou.one/my-lady-jane/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/my-lady-jane.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "96801",
+            "sub": "https://storage.diziyou.one/episodes/96801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "96802",
+            "sub": "https://storage.diziyou.one/episodes/96802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "96803",
+            "sub": "https://storage.diziyou.one/episodes/96803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "96804",
+            "sub": "https://storage.diziyou.one/episodes/96804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "96805",
+            "sub": "https://storage.diziyou.one/episodes/96805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "96806",
+            "sub": "https://storage.diziyou.one/episodes/96806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "96807",
+            "sub": "https://storage.diziyou.one/episodes/96807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "96808",
+            "sub": "https://storage.diziyou.one/episodes/96808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/96808_tr/play.m3u8"
+        }
+    ]
+}

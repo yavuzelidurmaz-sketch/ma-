@@ -1,0 +1,37 @@
+{
+    "title": "Yu Yu Hakusho",
+    "url": "https://www.diziyou.one/yu-yu-hakusho/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/yu-yu-hakusho.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "84101",
+            "sub": "https://storage.diziyou.one/episodes/84101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "84102",
+            "sub": "https://storage.diziyou.one/episodes/84102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "84103",
+            "sub": "https://storage.diziyou.one/episodes/84103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "84104",
+            "sub": "https://storage.diziyou.one/episodes/84104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "84105",
+            "sub": "https://storage.diziyou.one/episodes/84105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/84105_tr/play.m3u8"
+        }
+    ]
+}

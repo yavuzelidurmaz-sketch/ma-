@@ -1,0 +1,31 @@
+{
+    "title": "Simone Biles Rising",
+    "url": "https://www.diziyou.one/simone-biles-rising/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/simone-biles-rising.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "97701",
+            "sub": "https://storage.diziyou.one/episodes/97701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "97702",
+            "sub": "https://storage.diziyou.one/episodes/97702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "97703",
+            "sub": "https://storage.diziyou.one/episodes/97703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "97704",
+            "sub": "https://storage.diziyou.one/episodes/97704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/97704_tr/play.m3u8"
+        }
+    ]
+}

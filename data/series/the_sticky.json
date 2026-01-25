@@ -1,0 +1,43 @@
+{
+    "title": "The Sticky",
+    "url": "https://www.diziyou.one/the-sticky/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-sticky.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "112901",
+            "sub": "https://storage.diziyou.one/episodes/112901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "112902",
+            "sub": "https://storage.diziyou.one/episodes/112902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "112903",
+            "sub": "https://storage.diziyou.one/episodes/112903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "112904",
+            "sub": "https://storage.diziyou.one/episodes/112904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "112905",
+            "sub": "https://storage.diziyou.one/episodes/112905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "112906",
+            "sub": "https://storage.diziyou.one/episodes/112906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/112906_tr/play.m3u8"
+        }
+    ]
+}

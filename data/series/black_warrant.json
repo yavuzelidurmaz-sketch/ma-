@@ -1,0 +1,49 @@
+{
+    "title": "Black Warrant",
+    "url": "https://www.diziyou.one/black-warrant/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/black-warrant.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "116701",
+            "sub": "https://storage.diziyou.one/episodes/116701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "116702",
+            "sub": "https://storage.diziyou.one/episodes/116702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "116703",
+            "sub": "https://storage.diziyou.one/episodes/116703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "116704",
+            "sub": "https://storage.diziyou.one/episodes/116704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "116705",
+            "sub": "https://storage.diziyou.one/episodes/116705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "116706",
+            "sub": "https://storage.diziyou.one/episodes/116706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "116707",
+            "sub": "https://storage.diziyou.one/episodes/116707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/116707_tr/play.m3u8"
+        }
+    ]
+}

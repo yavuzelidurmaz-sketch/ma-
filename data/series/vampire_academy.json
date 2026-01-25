@@ -1,0 +1,67 @@
+{
+    "title": "Vampire Academy",
+    "url": "https://www.diziyou.one/vampire-academy/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/vampire-academy.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "30201",
+            "sub": "https://storage.diziyou.one/episodes/30201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "30202",
+            "sub": "https://storage.diziyou.one/episodes/30202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "30203",
+            "sub": "https://storage.diziyou.one/episodes/30203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "30204",
+            "sub": "https://storage.diziyou.one/episodes/30204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "30205",
+            "sub": "https://storage.diziyou.one/episodes/30205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "30206",
+            "sub": "https://storage.diziyou.one/episodes/30206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "30207",
+            "sub": "https://storage.diziyou.one/episodes/30207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "30208",
+            "sub": "https://storage.diziyou.one/episodes/30208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30208_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "30209",
+            "sub": "https://storage.diziyou.one/episodes/30209/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30209_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "30210",
+            "sub": "https://storage.diziyou.one/episodes/30210/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30210_tr/play.m3u8"
+        }
+    ]
+}

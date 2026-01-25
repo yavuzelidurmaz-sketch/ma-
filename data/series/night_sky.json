@@ -1,0 +1,55 @@
+{
+    "title": "Night Sky",
+    "url": "https://www.diziyou.one/night-sky/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/night-sky.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "20101",
+            "sub": "https://storage.diziyou.one/episodes/20101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "20102",
+            "sub": "https://storage.diziyou.one/episodes/20102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "20103",
+            "sub": "https://storage.diziyou.one/episodes/20103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "20104",
+            "sub": "https://storage.diziyou.one/episodes/20104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "20105",
+            "sub": "https://storage.diziyou.one/episodes/20105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "20106",
+            "sub": "https://storage.diziyou.one/episodes/20106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "20107",
+            "sub": "https://storage.diziyou.one/episodes/20107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "20108",
+            "sub": "https://storage.diziyou.one/episodes/20108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20108_tr/play.m3u8"
+        }
+    ]
+}

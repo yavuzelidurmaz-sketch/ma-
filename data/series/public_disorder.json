@@ -1,0 +1,43 @@
+{
+    "title": "Public Disorder",
+    "url": "https://www.diziyou.one/public-disorder/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/public-disorder.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "117001",
+            "sub": "https://storage.diziyou.one/episodes/117001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "117002",
+            "sub": "https://storage.diziyou.one/episodes/117002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "117003",
+            "sub": "https://storage.diziyou.one/episodes/117003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "117004",
+            "sub": "https://storage.diziyou.one/episodes/117004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "117005",
+            "sub": "https://storage.diziyou.one/episodes/117005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "117006",
+            "sub": "https://storage.diziyou.one/episodes/117006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/117006_tr/play.m3u8"
+        }
+    ]
+}

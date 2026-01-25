@@ -1,0 +1,67 @@
+{
+    "title": "Melo Movie",
+    "url": "https://www.diziyou.one/melo-movie/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/melo-movie.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "119201",
+            "sub": "https://storage.diziyou.one/episodes/119201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "119202",
+            "sub": "https://storage.diziyou.one/episodes/119202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "119203",
+            "sub": "https://storage.diziyou.one/episodes/119203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "119204",
+            "sub": "https://storage.diziyou.one/episodes/119204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "119205",
+            "sub": "https://storage.diziyou.one/episodes/119205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "119206",
+            "sub": "https://storage.diziyou.one/episodes/119206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "119207",
+            "sub": "https://storage.diziyou.one/episodes/119207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "119208",
+            "sub": "https://storage.diziyou.one/episodes/119208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119208_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "119209",
+            "sub": "https://storage.diziyou.one/episodes/119209/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119209_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "119210",
+            "sub": "https://storage.diziyou.one/episodes/119210/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/119210_tr/play.m3u8"
+        }
+    ]
+}

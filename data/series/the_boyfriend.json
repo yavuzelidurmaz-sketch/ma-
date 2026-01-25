@@ -1,0 +1,67 @@
+{
+    "title": "The Boyfriend",
+    "url": "https://www.diziyou.one/the-boyfriend/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-boyfriend.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "99801",
+            "sub": "https://storage.diziyou.one/episodes/99801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "99802",
+            "sub": "https://storage.diziyou.one/episodes/99802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "99803",
+            "sub": "https://storage.diziyou.one/episodes/99803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "99804",
+            "sub": "https://storage.diziyou.one/episodes/99804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "99805",
+            "sub": "https://storage.diziyou.one/episodes/99805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "99806",
+            "sub": "https://storage.diziyou.one/episodes/99806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "99807",
+            "sub": "https://storage.diziyou.one/episodes/99807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "99808",
+            "sub": "https://storage.diziyou.one/episodes/99808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99808_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "99809",
+            "sub": "https://storage.diziyou.one/episodes/99809/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99809_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "99810",
+            "sub": "https://storage.diziyou.one/episodes/99810/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/99810_tr/play.m3u8"
+        }
+    ]
+}

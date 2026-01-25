@@ -1,0 +1,79 @@
+{
+    "title": "Fleabag",
+    "url": "https://www.diziyou.one/fleabag/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/fleabag.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "1601",
+            "sub": "https://storage.diziyou.one/episodes/1601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "1602",
+            "sub": "https://storage.diziyou.one/episodes/1602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "1603",
+            "sub": "https://storage.diziyou.one/episodes/1603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "1604",
+            "sub": "https://storage.diziyou.one/episodes/1604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "1605",
+            "sub": "https://storage.diziyou.one/episodes/1605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "1606",
+            "sub": "https://storage.diziyou.one/episodes/1606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1606_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "1607",
+            "sub": "https://storage.diziyou.one/episodes/1607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1607_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "1608",
+            "sub": "https://storage.diziyou.one/episodes/1608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1608_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "1609",
+            "sub": "https://storage.diziyou.one/episodes/1609/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1609_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "1610",
+            "sub": "https://storage.diziyou.one/episodes/1610/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1610_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "1611",
+            "sub": "https://storage.diziyou.one/episodes/1611/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1611_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "1612",
+            "sub": "https://storage.diziyou.one/episodes/1612/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/1612_tr/play.m3u8"
+        }
+    ]
+}

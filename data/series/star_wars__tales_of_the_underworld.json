@@ -1,0 +1,43 @@
+{
+    "title": "Star Wars: Tales of the Underworld",
+    "url": "https://www.diziyou.one/star-wars-tales-of-the-underworld/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/star-wars-tales-of-the-underworld.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "122001",
+            "sub": "https://storage.diziyou.one/episodes/122001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "122002",
+            "sub": "https://storage.diziyou.one/episodes/122002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "122003",
+            "sub": "https://storage.diziyou.one/episodes/122003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "122004",
+            "sub": "https://storage.diziyou.one/episodes/122004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "122005",
+            "sub": "https://storage.diziyou.one/episodes/122005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "122006",
+            "sub": "https://storage.diziyou.one/episodes/122006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/122006_tr/play.m3u8"
+        }
+    ]
+}

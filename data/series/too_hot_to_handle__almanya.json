@@ -1,0 +1,67 @@
+{
+    "title": "Too Hot to Handle: Almanya",
+    "url": "https://www.diziyou.one/too-hot-to-handle-almanya/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/too-hot-to-handle-almanya.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "30001",
+            "sub": "https://storage.diziyou.one/episodes/30001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "30002",
+            "sub": "https://storage.diziyou.one/episodes/30002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "30003",
+            "sub": "https://storage.diziyou.one/episodes/30003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "30004",
+            "sub": "https://storage.diziyou.one/episodes/30004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "30005",
+            "sub": "https://storage.diziyou.one/episodes/30005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "30006",
+            "sub": "https://storage.diziyou.one/episodes/30006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "30007",
+            "sub": "https://storage.diziyou.one/episodes/30007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "30008",
+            "sub": "https://storage.diziyou.one/episodes/30008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30008_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "30009",
+            "sub": "https://storage.diziyou.one/episodes/30009/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30009_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "30010",
+            "sub": "https://storage.diziyou.one/episodes/30010/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/30010_tr/play.m3u8"
+        }
+    ]
+}

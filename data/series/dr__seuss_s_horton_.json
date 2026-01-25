@@ -1,0 +1,49 @@
+{
+    "title": "Dr. Seuss's Horton!",
+    "url": "https://www.diziyou.one/dr-seusss-horton/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dr-seusss-horton.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "136501",
+            "sub": "https://storage.diziyou.one/episodes/136501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "136502",
+            "sub": "https://storage.diziyou.one/episodes/136502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "136503",
+            "sub": "https://storage.diziyou.one/episodes/136503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "136504",
+            "sub": "https://storage.diziyou.one/episodes/136504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "136505",
+            "sub": "https://storage.diziyou.one/episodes/136505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "136506",
+            "sub": "https://storage.diziyou.one/episodes/136506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "136507",
+            "sub": "https://storage.diziyou.one/episodes/136507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/136507_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Seks Oyunları",
+    "url": "https://www.diziyou.one/seks-oyunlari/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/cruel-intentions.jpg",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "111401",
+            "sub": "https://storage.diziyou.one/episodes/111401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "111402",
+            "sub": "https://storage.diziyou.one/episodes/111402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "111403",
+            "sub": "https://storage.diziyou.one/episodes/111403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "111404",
+            "sub": "https://storage.diziyou.one/episodes/111404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "111405",
+            "sub": "https://storage.diziyou.one/episodes/111405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "111406",
+            "sub": "https://storage.diziyou.one/episodes/111406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "111407",
+            "sub": "https://storage.diziyou.one/episodes/111407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "111408",
+            "sub": "https://storage.diziyou.one/episodes/111408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/111408_tr/play.m3u8"
+        }
+    ]
+}
