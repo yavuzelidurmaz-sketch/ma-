@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 
-# Başlangıç numarası (Otomatik bulma için)
+# Başlangıç Numarası (Sırayla 1514, 1515... diye arar)
 LAST_KNOWN_NUMBER = 1514
 DOMAIN_EXTENSION = ".xyz"
 
@@ -14,8 +14,37 @@ HEADERS = {
     "Referer": "https://www.google.com/"
 }
 
+# ---------------------------------------------------------
+# KATEGORİ AYARLARI
+# ---------------------------------------------------------
+CATEGORY_TRANSLATIONS = {
+    "football": "Futbol",
+    "basketball": "Basketbol",
+    "volleyball": "Voleybol",
+    "tennis": "Tenis",
+    "handball": "Hentbol",
+    "motor-sports": "Motor Sporları",
+    "boxing": "Dövüş Sporları",
+    "formula1": "Formula 1",
+    "snooker": "Snooker",
+    "24-7": "7/24 TV",
+    "other": "Diğer"
+}
+
+# İKON HARİTASI (Etiket yoksa ikona bakar)
+ICON_MAP = {
+    "fa-futbol": "Futbol",
+    "fa-basketball-ball": "Basketbol",
+    "fa-volleyball-ball": "Voleybol",
+    "fa-table-tennis": "Masa Tenisi",
+    "fa-car": "Motor Sporları",
+    "fa-flag-checkered": "Formula 1",
+    "fa-tv": "7/24 TV",
+    "fa-desktop": "7/24 TV"
+}
+
 def find_active_domain():
-    """Çalışan site adresini bulur."""
+    """Çalışan site adresini bulur (Otomatik Güncelleme)."""
     print("[*] ADIM 1: Güncel site adresi taranıyor...")
     for i in range(0, 20):
         current_num = LAST_KNOWN_NUMBER + i
@@ -23,109 +52,83 @@ def find_active_domain():
         try:
             print(f"   > Deneniyor: {candidate_url}")
             res = requests.get(candidate_url, headers=HEADERS, timeout=5)
-            if res.status_code == 200 and "TRGoals" in res.text:
+            # Site açıldı mı ve doğru site mi kontrol et
+            if res.status_code == 200 and ("TRGoals" in res.text or "Canlı Maç" in res.text):
                 print(f"[+] AKTİF SİTE BULUNDU: {candidate_url}")
                 return candidate_url, res.text
         except: continue
-    print("[!] Hiçbir domain çalışmıyor. Manuel kontrol gerekebilir.")
+    print("[!] Hiçbir domain çalışmıyor.")
     return None, None
 
-def extract_channel_info(item, default_category="Genel"):
-    """Tek bir linkten veri ayıklar (Kategori tespiti geliştirildi)."""
-    try:
-        href = item.get('href')
-        if not href or 'id=' not in href: return None
+def determine_category(item):
+    """
+    Kategori bulma yapay zekası:
+    1. Önce yazılı etikete bakar.
+    2. Bulamazsa resim ikonuna bakar.
+    """
+    # 1. Yöntem: data-category özniteliği
+    cat_raw = item.get('data-category', '').lower()
+    if cat_raw in CATEGORY_TRANSLATIONS:
+        return CATEGORY_TRANSLATIONS[cat_raw]
+    
+    # 2. Yöntem: İkon sınıfı (Basketbol sorunu burada çözülüyor)
+    icon_tag = item.find('i')
+    if icon_tag:
+        classes = icon_tag.get('class', [])
+        # Class listesini stringe çevirip içinde ara
+        class_str = " ".join(classes)
         
-        stream_id = href.split('id=')[1]
-        
-        # 1. Kategori Tespiti (Önce data-category'ye bak, yoksa ikona bak)
-        cat_raw = item.get('data-category', '')
-        
-        # İkon kontrolü (HTML içindeki <i class="...">)
-        icon_class = ""
-        icon_tag = item.find('i')
-        if icon_tag and icon_tag.get('class'):
-            icon_class = " ".join(icon_tag.get('class'))
-            
-        category = default_category
-        
-        # Detaylı Kategori Mantığı
-        if 'football' in cat_raw or 'futbol' in icon_class:
-            category = "Futbol"
-        elif 'basketball' in cat_raw or 'basketball' in icon_class:
-            category = "Basketbol"
-        elif '24-7' in cat_raw:
-            category = "7/24 TV"
-        elif default_category != "Genel":
-            category = default_category # Tab'dan gelen zorunlu kategori
-            
-        # İsim Tespiti
-        name_div = item.find('div', class_='channel-name')
-        if name_div:
-            # İkon metnini temizle, sadece yazıyı al
-            channel_name = name_div.get_text(strip=True)
-        else:
-            channel_name = f"Kanal {stream_id}"
+        for icon_key, cat_name in ICON_MAP.items():
+            if icon_key in class_str:
+                return cat_name
+                
+        # Manuel kelime taraması
+        if 'basketball' in class_str: return "Basketbol"
+        if 'volleyball' in class_str: return "Voleybol"
+        if 'tennis' in class_str: return "Tenis"
+    
+    return "Diğer Sporlar"
 
-        return {
-            "id": stream_id,
-            "name": channel_name,
-            "category": category,
-            "href": href
-        }
-    except: return None
-
-def step2_parse_channels_advanced(html_content, base_url):
-    """HTML'i Tablo Tablo (Div Div) tarar."""
-    print("[*] ADIM 2: Kategori bazlı tarama yapılıyor...")
+def step2_parse_all_channels(html_content):
+    """HTML içindeki TÜM linkleri tarar."""
+    print("[*] ADIM 2: Tüm spor dalları taranıyor...")
     
     soup = BeautifulSoup(html_content, 'html.parser')
     all_channels = []
-    seen_ids = set() # Tekrarı önlemek için
+    seen_ids = set()
     
-    # -------------------------------------------------------
-    # 1. MAÇLAR SEKMESİNİ TARA (Futbol & Basketbol Burada)
-    # -------------------------------------------------------
-    matches_tab = soup.find('div', id='matches-tab')
-    if matches_tab:
-        print("   > 'Canlı Maçlar' sekmesi taraniyor...")
-        items = matches_tab.find_all('a', class_='channel-item')
-        for item in items:
-            # Burada kategori otomatik algılanacak (Futbol/Basketbol)
-            ch = extract_channel_info(item, default_category="Genel")
-            if ch and ch['id'] not in seen_ids:
-                all_channels.append(ch)
-                seen_ids.add(ch['id'])
-    else:
-        print("   ! 'matches-tab' bulunamadı.")
+    # Sayfadaki TÜM '.channel-item' sınıfına sahip linkleri bul
+    items = soup.find_all('a', class_='channel-item')
+    
+    for item in items:
+        try:
+            href = item.get('href')
+            if not href or 'id=' not in href: continue
+            
+            stream_id = href.split('id=')[1]
+            if stream_id in seen_ids: continue # Tekrarı önle
+            
+            # Kategori Belirle (Gelişmiş Fonksiyon)
+            category = determine_category(item)
+            
+            # İsim Belirle
+            name_div = item.find('div', class_='channel-name')
+            if name_div:
+                channel_name = name_div.get_text(strip=True)
+            else:
+                channel_name = f"Kanal {stream_id}"
 
-    # -------------------------------------------------------
-    # 2. 7/24 KANALLAR SEKMESİNİ TARA (BeIN, S Sport Burada)
-    # -------------------------------------------------------
-    tv_tab = soup.find('div', id='24-7-tab')
-    if tv_tab:
-        print("   > '7/24 Kanallar' sekmesi taraniyor...")
-        items = tv_tab.find_all('a', class_='channel-item')
-        for item in items:
-            # Buradaki her şeyi zorla "7/24 TV" yap
-            ch = extract_channel_info(item, default_category="7/24 TV")
-            if ch and ch['id'] not in seen_ids:
-                all_channels.append(ch)
-                seen_ids.add(ch['id'])
-    else:
-        # Belki ID değişmiştir, class ile geniş arama yapalım
-        print("   ! '24-7-tab' bulunamadı, genel tarama yapılıyor...")
-        # Bu durumda sayfadaki TÜM linkleri tarayıp eksikleri ekleyelim
-        all_items = soup.find_all('a', class_='channel-item')
-        for item in all_items:
-            ch = extract_channel_info(item)
-            if ch and ch['id'] not in seen_ids:
-                # Eğer daha önce eklenmediyse ve kategori Genel kaldıysa 7/24 yapalım
-                if ch['category'] == "Genel": ch['category'] = "7/24 TV"
-                all_channels.append(ch)
-                seen_ids.add(ch['id'])
+            all_channels.append({
+                "id": stream_id,
+                "name": channel_name,
+                "category": category,
+                "href": href
+            })
+            seen_ids.add(stream_id)
+            
+        except Exception: continue
 
-    print(f"[+] Toplam {len(all_channels)} içerik (Futbol, Basketbol, TV) bulundu.")
+    print(f"[+] Toplam {len(all_channels)} içerik bulundu (Futbol, Basketbol, TV vb.).")
     return all_channels
 
 def step3_find_stream_server(current_domain, sample_channel):
@@ -138,7 +141,7 @@ def step3_find_stream_server(current_domain, sample_channel):
     try:
         res = requests.get(target_url, headers=HEADERS, timeout=10)
         
-        # .sbs linki
+        # .sbs linki (Öncelikli)
         match = re.search(r'(https?://[^\s"\'<>]+\.sbs/)', res.text)
         if match: return match.group(1)
             
@@ -155,18 +158,29 @@ def step3_find_stream_server(current_domain, sample_channel):
 def save_outputs(channels, stream_base_url, current_domain):
     final_data = []
     
-    # Kategorileri sıralayalım: Önce Futbol, Sonra Basketbol, Sonra TV
-    cat_order = {"Futbol": 1, "Basketbol": 2, "7/24 TV": 3, "Genel": 4}
-    channels.sort(key=lambda x: cat_order.get(x['category'], 5))
+    # Sıralama: Önem sırasına göre
+    priority = {
+        "Futbol": 1, 
+        "Basketbol": 2, 
+        "Voleybol": 3, 
+        "Tenis": 4, 
+        "Formula 1": 5,
+        "7/24 TV": 90, 
+        "Diğer Sporlar": 99
+    }
+    
+    channels.sort(key=lambda x: priority.get(x['category'], 50))
     
     for c in channels:
         c["final_url"] = f"{stream_base_url}{c['id']}.m3u8"
         c["referer"] = current_domain
         final_data.append(c)
         
+    # JSON
     with open("trgoals.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
+    # M3U
     with open("trgoals.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         f.write(f'#EXTVLCOPT:http-referrer={current_domain}\n')
@@ -179,20 +193,22 @@ def save_outputs(channels, stream_base_url, current_domain):
     print(f"\n[*] İŞLEM TAMAM! {len(final_data)} kanal başarıyla kaydedildi.")
 
 def main():
+    # 1. Domain Bul
     current_domain, html_content = find_active_domain()
     if not current_domain: return
     
-    # Gelişmiş tarama fonksiyonunu çağırıyoruz
-    channels = step2_parse_channels_advanced(html_content, current_domain)
+    # 2. Tüm Kanalları Tara
+    channels = step2_parse_all_channels(html_content)
     
     if not channels:
         print("[!] Kanal listesi boş kaldı.")
         return
     
-    # Sunucuyu bul
+    # 3. Sunucu Bul
     sample = channels[0]
     stream_base_url = step3_find_stream_server(current_domain, sample)
     
+    # 4. Kaydet
     save_outputs(channels, stream_base_url, current_domain)
 
 if __name__ == "__main__":
