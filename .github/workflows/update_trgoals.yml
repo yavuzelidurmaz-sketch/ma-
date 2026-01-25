@@ -27,7 +27,7 @@ jobs:
           pip install requests
 
       - name: Run TRGoals Scraper
-        run: python scraper.py
+        run: python scraper2.py
 
       - name: Commit and Push changes
         run: |
