@@ -1,16 +1,17 @@
-name: Diziyou Bot Güncelleme
+name: Fanatik Arşiv Güncelleyici
 
 on:
   schedule:
-    - cron: '0 4 * * *' # Her gün sabah 04:00'te çalışır
-  workflow_dispatch: # Manuel tetikleme butonu ekler
+    - cron: '0 2 * * *' # Her gece 02:00
+  workflow_dispatch: # Manuel tetikleme butonu
 
 permissions:
-  contents: write
+  contents: write # Yazma izni şart
 
 jobs:
-  build:
+  scrape_and_push:
     runs-on: ubuntu-latest
+    timeout-minutes: 360
 
     steps:
       - name: Depoyu Çek (Checkout)
@@ -29,10 +30,20 @@ jobs:
       - name: Botu Çalıştır
         run: python diziyou_bot.py
 
-      - name: Dosyaları Commit ve Push Yap
+      - name: Klasör Kontrolü
+        run: |
+          ls -R data/ || echo "Data klasörü bulunamadı!"
+
+      - name: Dosyaları GitHub'a Yükle (Commit & Push)
         run: |
           git config --global user.name "GitHub Action Bot"
-          git config --global user.email "actions@github.com"
-          git add diziyou_playlist.m3u diziyou_playlist.json
-          git commit -m "Otomatik Güncelleme: $(date +'%Y-%m-%d')" || echo "Değişiklik yok"
+          git config --global user.email "action@github.com"
+          
+          # Tüm yeni dosyaları sahneye al
+          git add data/
+          
+          # Eğer değişiklik varsa commit yap, yoksa hata verme
+          git commit -m "Otomatik Arşiv Güncellemesi: $(date +'%Y-%m-%d')" || echo "Değişiklik yok, commit atlanıyor."
+          
+          # Değişiklikleri repoya gönder
           git push
