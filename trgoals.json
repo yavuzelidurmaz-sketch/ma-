@@ -8,14 +8,6 @@
         "referer": "https://trgoals1514.xyz/"
     },
     {
-        "id": "yayinb5",
-        "name": "Anadolu Efes - Bursaspor",
-        "category": "Basketbol",
-        "href": "/channel.html?id=yayinb5",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8",
-        "referer": "https://trgoals1514.xyz/"
-    },
-    {
         "id": "yayinbm1",
         "name": "Hatayspor - Ãmraniyespor",
         "category": "Futbol",
@@ -120,6 +112,14 @@
         "referer": "https://trgoals1514.xyz/"
     },
     {
+        "id": "yayinb5",
+        "name": "Anadolu Efes - Bursaspor",
+        "category": "Basketbol",
+        "href": "/channel.html?id=yayinb5",
+        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8",
+        "referer": "https://trgoals1514.xyz/"
+    },
+    {
         "id": "yayinex3",
         "name": "Memphis - Denver",
         "category": "Basketbol",
@@ -130,7 +130,7 @@
     {
         "id": "yayint1",
         "name": "Tivibu 1",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayint1",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint1.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -138,7 +138,7 @@
     {
         "id": "yayinsmarts",
         "name": "Smartspor",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayinsmarts",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinsmarts.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -146,7 +146,7 @@
     {
         "id": "yayinsms2",
         "name": "Smartspor 2",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayinsms2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinsms2.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -154,7 +154,7 @@
     {
         "id": "yayintrtspor2",
         "name": "TRT Spor 2",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayintrtspor2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrtspor2.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -162,7 +162,7 @@
     {
         "id": "yayintrt1",
         "name": "TRT 1",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayintrt1",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrt1.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -170,7 +170,7 @@
     {
         "id": "yayinas",
         "name": "A Spor",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayinas",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinas.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -178,7 +178,7 @@
     {
         "id": "yayinatv",
         "name": "ATV",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayinatv",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinatv.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -186,7 +186,7 @@
     {
         "id": "yayintv8",
         "name": "TV 8",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayintv8",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintv8.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -194,7 +194,7 @@
     {
         "id": "yayintv85",
         "name": "TV 8,5",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayintv85",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintv85.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -202,7 +202,7 @@
     {
         "id": "yayinnbatv",
         "name": "NBA TV",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayinnbatv",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinnbatv.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -210,7 +210,7 @@
     {
         "id": "yayineu1",
         "name": "Euro Sport 1",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayineu1",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayineu1.m3u8",
         "referer": "https://trgoals1514.xyz/"
@@ -218,7 +218,7 @@
     {
         "id": "yayineu2",
         "name": "Euro Sport 2",
-        "category": "Genel",
+        "category": "7/24 TV",
         "href": "/channel.html?id=yayineu2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayineu2.m3u8",
         "referer": "https://trgoals1514.xyz/"
