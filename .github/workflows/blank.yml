@@ -24,22 +24,15 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests selenium webdriver-manager
+          pip install requests
 
       - name: Run Scraper
         run: python scraper.py
-
-      - name: List files (Debug)
-        run: ls -la
 
       - name: Commit and Push changes
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
           
-          if [ -f channels.json ]; then
-            git add channels.json playlist.m3u
-            git diff --staged --quiet || (git commit -m "Otomatik Güncelleme: $(date +'%Y-%m-%d %H:%M')" && git push)
-          else
-            echo "Dosyalar oluşturulmamış, commit atlanıyor."
-          fi
+          git add channels.json playlist.m3u
+          git diff --staged --quiet || (git commit -m "Playlist Guncellendi: $(date +'%Y-%m-%d %H:%M')" && git push)
