@@ -2,48 +2,64 @@ import re
 import json
 import requests
 import concurrent.futures
-import os
+import time
+from selenium import webdriver
+from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.chrome.service import Service
+from webdriver_manager.chrome import ChromeDriverManager
 
 # Hedef site bilgileri
 BASE_URL = "https://www.sporcafe.xyz" 
 PLAYER_BASE_URL = "https://main.uxsyplayer8566224aa5.click/index.php?id="
 
+# Requests için Headerlar (Stream linklerini çözerken lazım)
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Referer": BASE_URL,
-    "Origin": BASE_URL,
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Accept-Language": "tr-TR,tr;q=0.9,en-US;q=0.8,en;q=0.7"
+    "Origin": BASE_URL
 }
 
-def get_channels_data():
-    """Ana sayfadan JSON verisini çeker."""
+def get_channels_with_selenium():
+    """Ana sayfayı gerçek bir tarayıcı gibi açıp veriyi çeker."""
+    print(f"[*] Selenium ile ana sayfaya gidiliyor: {BASE_URL}")
+    
+    # Chrome Ayarları (Headless - Arayüzsüz Mod)
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")  # Ekransız çalıştır
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
+    chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36")
+    
+    driver = None
     try:
-        print(f"[*] Ana sayfa taranıyor: {BASE_URL}")
-        session = requests.Session()
-        response = session.get(BASE_URL, headers=HEADERS, timeout=20)
+        service = Service(ChromeDriverManager().install())
+        driver = webdriver.Chrome(service=service, options=chrome_options)
         
-        # Debug: Durum kodunu yazdır
-        print(f"[*] HTTP Status: {response.status_code}")
+        driver.get(BASE_URL)
+        time.sleep(5)  # Sitenin yüklenmesi ve JS'lerin çalışması için bekle
         
-        response.raise_for_status()
+        page_source = driver.page_source
         
-        # HTML içindeki 'const channelsData = [...]' kısmını regex ile bul
-        match = re.search(r'const channelsData\s*=\s*(\[.*?\]);', response.text, re.DOTALL)
+        # HTML içindeki veriyi ara
+        match = re.search(r'const channelsData\s*=\s*(\[.*?\]);', page_source, re.DOTALL)
         
         if match:
             json_str = match.group(1)
             data = json.loads(json_str)
-            print(f"[*] Toplam {len(data)} kanal bulundu.")
+            print(f"[*] Başarılı! {len(data)} kanal bulundu.")
             return data
         else:
-            print("[!] Kanal verisi (channelsData) bulunamadı.")
-            # Debug: Eğer bulamazsa HTML'in ilk 500 karakterini bas ki ne döndüğünü görelim
-            print(f"[DEBUG] Gelen HTML başı: {response.text[:500]}")
+            print("[!] Selenium sayfayı açtı ama 'channelsData' verisini bulamadı.")
+            # Debug: HTML'in bir kısmını yazdıralım
+            print(f"[DEBUG] HTML Özeti: {page_source[:500]}")
             return []
+            
     except Exception as e:
-        print(f"[!] Ana sayfa hatası: {e}")
+        print(f"[!] Selenium Hatası: {e}")
         return []
+    finally:
+        if driver:
+            driver.quit()
 
 def resolve_stream_url(channel):
     """Her kanal için player sayfasına gidip gerçek .m3u8 linkini bulur."""
@@ -54,27 +70,30 @@ def resolve_stream_url(channel):
     player_url = f"{PLAYER_BASE_URL}{stream_id}"
     
     try:
+        # Burası için hala requests kullanabiliriz, daha hızlıdır.
+        # Eğer burası da engellenirse burayı da Selenium'a çevirebiliriz ama yavaşlatır.
         res = requests.get(player_url, headers=HEADERS, timeout=10)
+        
+        # Link bazen JS içinde gizli olabilir, basit regex ile arıyoruz
         m3u8_match = re.search(r'(https?://[^\s"\']+\.m3u8[^\s"\']*)', res.text)
         
         if m3u8_match:
             real_url = m3u8_match.group(1).replace('\\/', '/')
             channel["final_url"] = real_url
-            # print(f"[+] Link bulundu: {channel['name']}") # Log kirliliği yapmasın diye kapattım
+            print(f"[+] Link Çözüldü: {channel['name']}")
             return channel
         else:
+            # print(f"[-] Link Bulunamadı: {channel['name']}")
             return None
             
     except Exception:
         return None
 
 def save_outputs(channels):
-    """M3U ve JSON dosyalarını oluşturur (Boş olsa bile)."""
-    
-    # Veri olmasa bile boş liste ile devam et
+    """M3U ve JSON dosyalarını oluşturur."""
     valid_channels = [c for c in channels if c is not None and "final_url" in c] if channels else []
     
-    print(f"[*] Kaydedilecek geçerli kanal sayısı: {len(valid_channels)}")
+    print(f"[*] Toplam {len(valid_channels)} çalışan kanal kaydediliyor.")
 
     # 1. JSON Çıktısı
     with open("channels.json", "w", encoding="utf-8") as f:
@@ -95,20 +114,22 @@ def save_outputs(channels):
             f.write(f'{url}\n')
 
 def main():
-    raw_channels = get_channels_data()
+    # 1. Adım: Ana listeyi Selenium ile al
+    raw_channels = get_channels_with_selenium()
     
     processed_channels = []
     
+    # 2. Adım: Linkleri çöz (Hız için Threading kullanıyoruz)
     if raw_channels:
+        print("[*] Linkler çözülüyor (Bu işlem biraz sürebilir)...")
         with concurrent.futures.ThreadPoolExecutor(max_workers=10) as executor:
             results = executor.map(resolve_stream_url, raw_channels)
             for result in results:
                 if result:
                     processed_channels.append(result)
     else:
-        print("[!] Hiç kanal bulunamadı, boş dosyalar oluşturuluyor...")
+        print("[!] Liste boş geldiği için link çözme işlemi atlandı.")
 
-    # save_outputs fonksiyonunu her durumda çağırıyoruz
     save_outputs(processed_channels)
 
 if __name__ == "__main__":
