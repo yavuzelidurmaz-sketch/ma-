@@ -1,158 +1,133 @@
 import re
 import json
 import requests
-import html
+from bs4 import BeautifulSoup
+from urllib.parse import urljoin
 
-# Giriş Adresi
-ENTRY_URL = "https://trgoalsgiris.xyz/"
+# Başlangıç Adresi (Yönlendirmeleri takip eder)
+ENTRY_URL = "https://trgoalsgiris.xyz/" 
+# Alternatif olarak senin attığın t.co linkini de buraya yazabilirsin, script onu da çözer.
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36",
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-    "Referer": "https://www.google.com/"
 }
 
-def step1_find_current_domain():
-    """1. ADIM: Güncel site adresini ve HTML içeriğini alır."""
+def step1_get_site_content():
+    """1. ADIM: Siteye girer, yönlendirmeleri izler ve HTML'i alır."""
+    print(f"[*] ADIM 1: Siteye bağlanılıyor ({ENTRY_URL})...")
     try:
-        print(f"[*] ADIM 1: Siteye bağlanılıyor...")
         session = requests.Session()
+        # allow_redirects=True sayesinde t.co gibi linkleri otomatik takip eder
         response = session.get(ENTRY_URL, headers=HEADERS, timeout=20, allow_redirects=True)
-        response.encoding = 'utf-8' # Türkçe karakter sorunu olmasın
+        response.encoding = 'utf-8'
         
-        current_url = response.url
-        if current_url.endswith('/'):
-            current_url = current_url[:-1]
-            
-        print(f"[+] Site URL: {current_url}")
+        final_url = response.url.rstrip('/')
+        print(f"[+] Güncel Site Adresi: {final_url}")
         
-        # Basit JS Yönlendirme Kontrolü (Eğer site boşsa ve yönlendirme varsa)
-        if "window.location.replace" in response.text or "window.location.href" in response.text:
-            redirect_match = re.search(r'window\.location\.(?:replace|href)\s*=\s*["\']([^"\']+)["\']', response.text)
-            if redirect_match:
-                new_url = redirect_match.group(1)
-                print(f"[!] JS Yönlendirmesi tespit edildi: {new_url}")
-                if not new_url.startswith("http"):
-                    # Relative path ise domainle birleştir
-                    new_url = current_url + "/" + new_url.lstrip("/")
-                return step1_direct_url(new_url)
-
-        return current_url, response.text
+        return final_url, response.text
     except Exception as e:
-        print(f"[!] Hata (Site Bulunamadı): {e}")
+        print(f"[!] Siteye erişim hatası: {e}")
         return None, None
 
-def step1_direct_url(url):
-    """Yönlendirilen adrese gider."""
-    try:
-        res = requests.get(url, headers=HEADERS, timeout=20)
-        res.encoding = 'utf-8'
-        return url.rstrip('/'), res.text
-    except:
-        return None, None
-
-def step2_scrape_channels_flexible(html_content):
-    """2. ADIM: HTML içinden kanalları ESNEK yöntemle (sıraya bakmaksızın) çeker."""
-    print("[*] ADIM 2: Kanal listesi taranıyor (Esnek Mod)...")
+def step2_parse_channels(html_content, base_url):
+    """2. ADIM: HTML'i analiz edip maçları ve kanalları listeler."""
+    print("[*] ADIM 2: Maçlar ve kanallar ayrıştırılıyor...")
     
+    soup = BeautifulSoup(html_content, 'html.parser')
     channels = []
     
-    # YÖNTEM: Önce class="channel-item" olan tüm <a> bloklarını bulalım.
-    # Bu regex, <a> etiketinin tamamını ve kapanışına kadar olan içeriği alır.
-    link_blocks = re.findall(r'(<a [^>]*class=["\']channel-item["\'][^>]*>.*?</a>)', html_content, re.DOTALL)
+    # Senin attığın HTML yapısı: <a class="channel-item" ...>
+    # Hem maçları hem 7/24 kanalları bulur
+    items = soup.find_all('a', class_='channel-item')
     
-    for block in link_blocks:
+    for item in items:
         try:
-            # 1. ID'yi bul (href içinden)
-            # href="/channel.html?id=yayin1" veya href="channel.html?id=yayin1"
-            id_match = re.search(r'id=([a-zA-Z0-9_-]+)', block)
-            if not id_match: continue
-            stream_id = id_match.group(1)
-
-            # 2. Kategoriyi bul (data-category içinden)
-            cat_match = re.search(r'data-category=["\']([^"\']+)["\']', block)
-            category_raw = cat_match.group(1) if cat_match else "other"
-            
-            # Kategoriyi güzelleştir
-            if "football" in category_raw: category = "Futbol"
-            elif "basketball" in category_raw: category = "Basketbol"
-            elif "24-7" in category_raw: category = "7/24 TV"
-            else: category = "Diğer"
-
-            # 3. Kanal İsmini bul (channel-name div'i içinden)
-            name_match = re.search(r'class=["\']channel-name["\'][^>]*>(?:<i[^>]*></i>)?\s*(.*?)<', block, re.DOTALL)
-            if name_match:
-                name_raw = name_match.group(1)
-                name = html.unescape(name_raw).strip() # HTML karakterlerini temizle (&amp; gibi)
+            # 1. ID'yi al (href içinden)
+            href = item.get('href')
+            if 'id=' in href:
+                stream_id = href.split('id=')[1]
             else:
-                name = f"Kanal {stream_id}"
+                continue
+
+            # 2. Kategoriyi al
+            cat_raw = item.get('data-category', 'other')
+            category = "Genel"
+            if cat_raw == 'football': category = "Futbol"
+            elif cat_raw == 'basketball': category = "Basketbol"
+            elif cat_raw == '24-7': category = "7/24 TV"
+            
+            # 3. İsmi al (İkonu temizle, sadece metni al)
+            name_div = item.find('div', class_='channel-name')
+            if name_div:
+                channel_name = name_div.get_text(strip=True)
+            else:
+                channel_name = f"Kanal {stream_id}"
+
+            # 4. Logo (Site genelinde özel logo yok, kategoriye göre ikon verebiliriz)
+            # Şimdilik boş geçiyoruz, m3u'da site iconu kullanılacak.
 
             channels.append({
                 "id": stream_id,
-                "name": name,
-                "category": category
+                "name": channel_name,
+                "category": category,
+                "href": href
             })
             
         except Exception:
             continue
             
-    if len(channels) == 0:
-        print("[!] Hata: Kanal bulunamadı. HTML yapısı farklı olabilir.")
-        # Debug: HTML'in bir kısmını yazdıralım ki sorunu görelim
-        # print(html_content[:1000])
-    else:
-        print(f"[+] Toplam {len(channels)} kanal bulundu.")
-        
+    print(f"[+] Toplam {len(channels)} adet içerik bulundu.")
     return channels
 
-def step3_find_stream_server(current_domain, sample_id):
-    """3. ADIM: Yayın sunucusunu bulur (.sbs veya genel .m3u8)."""
+def step3_find_stream_server(current_domain, sample_channel):
+    """3. ADIM: Bir kanala girip .sbs veya .m3u8 sunucusunu bulur."""
     
     # Örn: https://trgoals.xyz/channel.html?id=yayin1
-    target_url = f"{current_domain}/channel.html?id={sample_id}"
-    print(f"[*] ADIM 3: Sunucu aranıyor ({target_url})...")
+    # urljoin kullanarak hatasız birleştirme yapıyoruz
+    target_url = urljoin(current_domain, sample_channel['href'])
+    
+    print(f"[*] ADIM 3: Yayın sunucusu aranıyor ({target_url})...")
     
     try:
         res = requests.get(target_url, headers=HEADERS, timeout=15)
         
-        # 1. Öncelik: .sbs uzantılı sunucu (Senin verdiğin örnekteki gibi)
-        match_sbs = re.search(r'(https?://[^\s"\'<>]+\.sbs/)', res.text)
-        if match_sbs:
-            server = match_sbs.group(1)
-            print(f"[+] Sunucu Bulundu (.sbs): {server}")
+        # 1. Öncelik: .sbs uzantılı sunucu (Senin örneğin)
+        # Regex: https://...../yayin1.m3u8 bulur
+        match = re.search(r'(https?://[^\s"\'<>]+\.sbs/)', res.text)
+        
+        if match:
+            server = match.group(1)
+            print(f"[+] SUNUCU BULUNDU (.sbs): {server}")
             return server
-            
-        # 2. Öncelik: Genel .m3u8 linki bulup base url'i çıkarmak
-        match_m3u8 = re.search(r'(https?://[^\s"\'<>]+\.m3u8)', res.text)
-        if match_m3u8:
-            full_link = match_m3u8.group(1)
-            # Linkin sonundaki dosya ismini at, geriye sunucu kalsın
-            # örn: https://server.com/live/yayin1.m3u8 -> https://server.com/live/
+
+        # 2. Öncelik: Herhangi bir .m3u8 linki
+        match_gen = re.search(r'(https?://[^\s"\'<>]+\.m3u8)', res.text)
+        if match_gen:
+            full_link = match_gen.group(1)
+            # Linkin sonundaki dosya adını at, geriye sunucu kalsın
             base_url = full_link.rsplit('/', 1)[0] + '/'
-            print(f"[+] Sunucu Bulundu (Genel): {base_url}")
+            print(f"[+] SUNUCU BULUNDU (Genel): {base_url}")
             return base_url
-            
-        print("[!] Yayın sunucusu regex ile bulunamadı.")
-        return None
-            
+
+        print("[!] Otomatik sunucu bulunamadı. Varsayılan deneniyor.")
+        return "https://56r.d72577a9dd0ec17.sbs/" # Senin verdiğin örnek sunucu (Fallback)
+
     except Exception as e:
-        print(f"[!] Sunucu bulma hatası: {e}")
-        return None
+        print(f"[!] Hata: {e}")
+        return "https://56r.d72577a9dd0ec17.sbs/"
 
-def save_files(channels, stream_base_url, current_domain):
-    """Dosyaları kaydeder."""
-    if not channels or not stream_base_url: return
-
-    # 1. JSON
+def save_outputs(channels, stream_base_url, current_domain):
+    """Dosyaları oluşturur."""
+    
     final_data = []
     for c in channels:
-        # Final URL oluştur: Sunucu + ID + .m3u8
+        # Final URL: Sunucu + ID + .m3u8
         c["final_url"] = f"{stream_base_url}{c['id']}.m3u8"
         c["referer"] = current_domain
-        # Logoları sitenin kendisinden çekelim (varsa) veya genel bir ikon
-        # TRGoals'da logo genelde yok ama kategoriye göre ikon atayabilirsin app tarafında
         final_data.append(c)
         
+    # 1. JSON
     with open("trgoals.json", "w", encoding="utf-8") as f:
         json.dump(final_data, f, ensure_ascii=False, indent=4)
 
@@ -160,40 +135,33 @@ def save_files(channels, stream_base_url, current_domain):
     with open("trgoals.m3u", "w", encoding="utf-8") as f:
         f.write("#EXTM3U\n")
         f.write(f'#EXTVLCOPT:http-referrer={current_domain}\n')
-        f.write(f'#EXTVLCOPT:http-user-agent={HEADERS["User-Agent"]}\n')
         
         for c in final_data:
+            # Grup başlığı ve isim
             f.write(f'#EXTINF:-1 group-title="{c["category"]}",{c["name"]}\n')
             f.write(f'#EXTVLCOPT:http-referrer={current_domain}\n')
             f.write(f'{c["final_url"]}\n')
             
-    print(f"\n[*] İşlem Tamam! {len(final_data)} kanal kaydedildi.")
+    print(f"\n[*] İşlem Tamamlandı! {len(final_data)} kanal dosyaya yazıldı.")
 
 def main():
     # 1. Siteyi Bul
-    current_domain, html_content = step1_find_current_domain()
-    if not current_domain or not html_content:
-        print("[!] Siteye erişilemedi.")
-        return
+    current_domain, html_content = step1_get_site_content()
+    if not current_domain: return
     
-    # 2. Kanalları Çek (Esnek Mod)
-    channels = step2_scrape_channels_flexible(html_content)
+    # 2. Kanalları Ayrıştır (BeautifulSoup ile)
+    channels = step2_parse_channels(html_content, current_domain)
     if not channels:
+        print("[!] Hiç kanal bulunamadı.")
         return
         
-    # 3. Sunucuyu Bul (İlk kanalı kullanarak)
-    # Genelde ilk kanal yayındadır, test için onu kullanıyoruz
-    sample_id = channels[0]['id']
-    stream_base_url = step3_find_stream_server(current_domain, sample_id)
+    # 3. Sunucuyu Bul (Listedeki ilk yayını kullanarak)
+    # Genelde ilk yayın aktiftir (yayin1)
+    sample_channel = channels[0]
+    stream_base_url = step3_find_stream_server(current_domain, sample_channel)
     
-    # Eğer sunucu bulunamazsa manuel bir fallback (yedek) deneyebiliriz
-    if not stream_base_url:
-        print("[!] Sunucu bulunamadı, varsayılan deneniyor...")
-        # Senin verdiğin örnekteki sunucuyu yedek olarak ekleyelim
-        stream_base_url = "https://56r.d72577a9dd0ec17.sbs/"
-        
     # 4. Kaydet
-    save_files(channels, stream_base_url, current_domain)
+    save_outputs(channels, stream_base_url, current_domain)
 
 if __name__ == "__main__":
     main()
