@@ -1,0 +1,38 @@
+name: Diziyou Bot Güncelleme
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Her gün sabah 04:00'te çalışır
+  workflow_dispatch: # Manuel tetikleme butonu ekler
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Çek (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Kütüphaneleri Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Botu Çalıştır
+        run: python diziyou_bot.py
+
+      - name: Dosyaları Commit ve Push Yap
+        run: |
+          git config --global user.name "GitHub Action Bot"
+          git config --global user.email "actions@github.com"
+          git add diziyou_playlist.m3u diziyou_playlist.json
+          git commit -m "Otomatik Güncelleme: $(date +'%Y-%m-%d')" || echo "Değişiklik yok"
+          git push
