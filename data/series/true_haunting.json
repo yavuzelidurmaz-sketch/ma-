@@ -1,0 +1,37 @@
+{
+    "title": "True Haunting",
+    "url": "https://www.diziyou.one/true-haunting/",
+    "poster": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "136901",
+            "sub_stream": "https://storage.diziyou.one/episodes/136901/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "136902",
+            "sub_stream": "https://storage.diziyou.one/episodes/136902/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "136903",
+            "sub_stream": "https://storage.diziyou.one/episodes/136903/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "136904",
+            "sub_stream": "https://storage.diziyou.one/episodes/136904/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "136905",
+            "sub_stream": "https://storage.diziyou.one/episodes/136905/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136905_tr/play.m3u8"
+        }
+    ]
+}

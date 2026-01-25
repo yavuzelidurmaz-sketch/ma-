@@ -1,0 +1,55 @@
+{
+    "title": "Monster: The Ed Gein Story",
+    "url": "https://www.diziyou.one/monster-the-ed-gein-story/",
+    "poster": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "136101",
+            "sub_stream": "https://storage.diziyou.one/episodes/136101/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "136102",
+            "sub_stream": "https://storage.diziyou.one/episodes/136102/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "136103",
+            "sub_stream": "https://storage.diziyou.one/episodes/136103/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "136104",
+            "sub_stream": "https://storage.diziyou.one/episodes/136104/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "136105",
+            "sub_stream": "https://storage.diziyou.one/episodes/136105/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "136106",
+            "sub_stream": "https://storage.diziyou.one/episodes/136106/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136106_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "136107",
+            "sub_stream": "https://storage.diziyou.one/episodes/136107/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136107_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "136108",
+            "sub_stream": "https://storage.diziyou.one/episodes/136108/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/136108_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+{
+    "title": "Wayward",
+    "url": "https://www.diziyou.one/wayward/",
+    "poster": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "135701",
+            "sub_stream": "https://storage.diziyou.one/episodes/135701/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "135702",
+            "sub_stream": "https://storage.diziyou.one/episodes/135702/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "135703",
+            "sub_stream": "https://storage.diziyou.one/episodes/135703/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "135704",
+            "sub_stream": "https://storage.diziyou.one/episodes/135704/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "135705",
+            "sub_stream": "https://storage.diziyou.one/episodes/135705/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "135706",
+            "sub_stream": "https://storage.diziyou.one/episodes/135706/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "135707",
+            "sub_stream": "https://storage.diziyou.one/episodes/135707/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135707_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "135708",
+            "sub_stream": "https://storage.diziyou.one/episodes/135708/play.m3u8",
+            "dub_stream": "https://storage.diziyou.one/episodes/135708_tr/play.m3u8"
+        }
+    ]
+}
