@@ -25,6 +25,7 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install requests
+          pip install requests beautifulsoup4
 
       - name: Run TRGoals Scraper
         run: python scraper2.py
