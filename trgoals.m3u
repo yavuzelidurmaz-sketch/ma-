@@ -1,188 +1,50 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-#EXTINF:-1 group-title="Futbol",Fenerbahçe - Göztepe
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
+#EXTINF:-1 group-title="Futbol",FenerbahÃ§e - GÃ¶ztepe
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-#EXTINF:-1 group-title="Futbol",Çaykur Rizespor - Alanyaspor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-#EXTINF:-1 group-title="Futbol",Gaziantep FK - Konyaspor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-#EXTINF:-1 group-title="Basketbol",Anadolu Efes - Bursaspor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8
-#EXTINF:-1 group-title="Futbol",Hatayspor - Ümraniyespor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTINF:-1 group-title="Futbol",Hatayspor - Ãmraniyespor
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinbm1.m3u8
-#EXTINF:-1 group-title="Futbol",Sarıyer - Çorum FK
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTINF:-1 group-title="Futbol",SarÄ±yer - Ãorum FK
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8
 #EXTINF:-1 group-title="Futbol",Telstar - AZ Alkmaar
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayint4.m3u8
 #EXTINF:-1 group-title="Futbol",Sassuolo - Cremonese
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8
 #EXTINF:-1 group-title="Futbol",Paderborn - P.Munster
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayint3.m3u8
 #EXTINF:-1 group-title="Futbol",Schalke 04 - Kaiserslautern
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8
-#EXTINF:-1 group-title="Basketbol",Trabzonspor - Erokspor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8
 #EXTINF:-1 group-title="Futbol",Atletico Madrid - Mallorca
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8
-#EXTINF:-1 group-title="Futbol",Sivasspor - Amed SK
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8
-#EXTINF:-1 group-title="Futbol",Atalanta - Parma
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8
 #EXTINF:-1 group-title="Futbol",Genoa - Bologna
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinex1.m3u8
 #EXTINF:-1 group-title="Futbol",Brentford - Not.Forest
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinbm2.m3u8
 #EXTINF:-1 group-title="Futbol",Crystal Palace - Chelsea
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinb3.m3u8
 #EXTINF:-1 group-title="Futbol",Newcastle - Aston Villa
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8
-#EXTINF:-1 group-title="Futbol",Antalyaspor - Gençlerbirliği
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTINF:-1 group-title="Futbol",Antalyaspor - GenÃ§lerbirliÄi
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinb2.m3u8
-#EXTINF:-1 group-title="Futbol",M gladbach - Stuttgart
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8
 #EXTINF:-1 group-title="Futbol",Hearts - Celtic
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinex2.m3u8
-#EXTINF:-1 group-title="Basketbol",Petkim Spor - Fenerbahçe Beko
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTINF:-1 group-title="Basketbol",Anadolu Efes - Bursaspor
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8
-#EXTINF:-1 group-title="Futbol",Barcelona - Real Oviedo
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8
-#EXTINF:-1 group-title="Futbol",Feyenoord - Heracles
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint3.m3u8
-#EXTINF:-1 group-title="Futbol",Manisa FK - İstanbulspor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8
-#EXTINF:-1 group-title="Futbol",Paris FC - Angers
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinbm2.m3u8
-#EXTINF:-1 group-title="Futbol",Metz - Lyon
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8
-#EXTINF:-1 group-title="Futbol",Arsenal - Man Utd
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb3.m3u8
-#EXTINF:-1 group-title="Futbol",Freiburg - Köln
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint4.m3u8
-#EXTINF:-1 group-title="Futbol",Juventus - Napoli
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8
-#EXTINF:-1 group-title="Futbol",Real Sociedad - Celta Vigo
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8
-#EXTINF:-1 group-title="Futbol",Riyadh - Al Hilal Riyadh
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinex1.m3u8
-#EXTINF:-1 group-title="Futbol",Benfica - Estrela
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8
-#EXTINF:-1 group-title="Futbol",Roma - Milan
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8
-#EXTINF:-1 group-title="Futbol",Lille - Strasbourg
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8
-#EXTINF:-1 group-title="Futbol",Alaves - Real Betis
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8
 #EXTINF:-1 group-title="Basketbol",Memphis - Denver
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
+#EXTVLCOPT:http-referrer=https://trgoals1514.xyz/
 https://56r.d72577a9dd0ec17.sbs/yayinex3.m3u8
-#EXTINF:-1 group-title="Genel",BeIN Sports 1
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8
-#EXTINF:-1 group-title="Genel",BeIN Sports 2
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb2.m3u8
-#EXTINF:-1 group-title="Genel",BeIN Sports 3
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb3.m3u8
-#EXTINF:-1 group-title="Genel",BeIN Sports 4
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8
-#EXTINF:-1 group-title="Genel",BeIN Sports 5
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8
-#EXTINF:-1 group-title="Genel",BeIN Max 1
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinbm1.m3u8
-#EXTINF:-1 group-title="Genel",BeIN Max 2
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinbm2.m3u8
-#EXTINF:-1 group-title="Genel",S Sport
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8
-#EXTINF:-1 group-title="Genel",S Sport 2
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8
-#EXTINF:-1 group-title="Genel",Tivibu 1
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint1.m3u8
-#EXTINF:-1 group-title="Genel",Tivibu 2
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8
-#EXTINF:-1 group-title="Genel",Tivibu 3
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint3.m3u8
-#EXTINF:-1 group-title="Genel",Tivibu 4
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayint4.m3u8
-#EXTINF:-1 group-title="Genel",Smartspor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinsmarts.m3u8
-#EXTINF:-1 group-title="Genel",Smartspor 2
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinsms2.m3u8
-#EXTINF:-1 group-title="Genel",TRT Spor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8
-#EXTINF:-1 group-title="Genel",TRT Spor 2
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayintrtspor2.m3u8
-#EXTINF:-1 group-title="Genel",TRT 1
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayintrt1.m3u8
-#EXTINF:-1 group-title="Genel",A Spor
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinas.m3u8
-#EXTINF:-1 group-title="Genel",ATV
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinatv.m3u8
-#EXTINF:-1 group-title="Genel",TV 8
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayintv8.m3u8
-#EXTINF:-1 group-title="Genel",TV 8,5
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayintv85.m3u8
-#EXTINF:-1 group-title="Genel",NBA TV
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayinnbatv.m3u8
-#EXTINF:-1 group-title="Genel",Euro Sport 1
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayineu1.m3u8
-#EXTINF:-1 group-title="Genel",Euro Sport 2
-#EXTVLCOPT:http-referrer=https://trgoals1514.xyz
-https://56r.d72577a9dd0ec17.sbs/yayineu2.m3u8

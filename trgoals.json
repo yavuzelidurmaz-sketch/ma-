@@ -1,51 +1,27 @@
 [
     {
         "id": "yayin1",
-        "name": "Fenerbahçe - Göztepe",
+        "name": "FenerbahÃ§e - GÃ¶ztepe",
         "category": "Futbol",
         "href": "/channel.html?id=yayin1",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayin1",
-        "name": "Çaykur Rizespor - Alanyaspor",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayin1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayin1",
-        "name": "Gaziantep FK - Konyaspor",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayin1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb5",
-        "name": "Anadolu Efes - Bursaspor",
-        "category": "Basketbol",
-        "href": "/channel.html?id=yayinb5",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinbm1",
-        "name": "Hatayspor - Ümraniyespor",
+        "name": "Hatayspor - Ãmraniyespor",
         "category": "Futbol",
         "href": "/channel.html?id=yayinbm1",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinbm1.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayintrtspor",
-        "name": "Sarıyer - Çorum FK",
+        "name": "SarÄ±yer - Ãorum FK",
         "category": "Futbol",
         "href": "/channel.html?id=yayintrtspor",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayint4",
@@ -53,7 +29,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayint4",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint4.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinss2",
@@ -61,7 +37,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayinss2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayint3",
@@ -69,7 +45,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayint3",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint3.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayint2",
@@ -77,15 +53,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayint2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb5",
-        "name": "Trabzonspor - Erokspor",
-        "category": "Basketbol",
-        "href": "/channel.html?id=yayinb5",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinss",
@@ -93,23 +61,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayinss",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayintrtspor",
-        "name": "Sivasspor - Amed SK",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayintrtspor",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss2",
-        "name": "Atalanta - Parma",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinss2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinex1",
@@ -117,7 +69,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayinex1",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinex1.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinbm2",
@@ -125,7 +77,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayinbm2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinbm2.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinb3",
@@ -133,7 +85,7 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayinb3",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb3.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinb4",
@@ -141,23 +93,15 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayinb4",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinb2",
-        "name": "Antalyaspor - Gençlerbirliği",
+        "name": "Antalyaspor - GenÃ§lerbirliÄi",
         "category": "Futbol",
         "href": "/channel.html?id=yayinb2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint2",
-        "name": "M gladbach - Stuttgart",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayint2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinex2",
@@ -165,127 +109,15 @@
         "category": "Futbol",
         "href": "/channel.html?id=yayinex2",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinex2.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinb5",
-        "name": "Petkim Spor - Fenerbahçe Beko",
+        "name": "Anadolu Efes - Bursaspor",
         "category": "Basketbol",
         "href": "/channel.html?id=yayinb5",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss",
-        "name": "Barcelona - Real Oviedo",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinss",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint3",
-        "name": "Feyenoord - Heracles",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayint3",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint3.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayintrtspor",
-        "name": "Manisa FK - İstanbulspor",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayintrtspor",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinbm2",
-        "name": "Paris FC - Angers",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinbm2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinbm2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb4",
-        "name": "Metz - Lyon",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinb4",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb3",
-        "name": "Arsenal - Man Utd",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinb3",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb3.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint4",
-        "name": "Freiburg - Köln",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayint4",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint4.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss2",
-        "name": "Juventus - Napoli",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinss2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss",
-        "name": "Real Sociedad - Celta Vigo",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinss",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinex1",
-        "name": "Riyadh - Al Hilal Riyadh",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinex1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinex1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint2",
-        "name": "Benfica - Estrela",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayint2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss2",
-        "name": "Roma - Milan",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinss2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb4",
-        "name": "Lille - Strasbourg",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinb4",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss",
-        "name": "Alaves - Real Betis",
-        "category": "Futbol",
-        "href": "/channel.html?id=yayinss",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     },
     {
         "id": "yayinex3",
@@ -293,206 +125,6 @@
         "category": "Basketbol",
         "href": "/channel.html?id=yayinex3",
         "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinex3.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayin1",
-        "name": "BeIN Sports 1",
-        "category": "Genel",
-        "href": "/channel.html?id=yayin1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayin1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb2",
-        "name": "BeIN Sports 2",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinb2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb3",
-        "name": "BeIN Sports 3",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinb3",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb3.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb4",
-        "name": "BeIN Sports 4",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinb4",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb4.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinb5",
-        "name": "BeIN Sports 5",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinb5",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinb5.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinbm1",
-        "name": "BeIN Max 1",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinbm1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinbm1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinbm2",
-        "name": "BeIN Max 2",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinbm2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinbm2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss",
-        "name": "S Sport",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinss",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinss2",
-        "name": "S Sport 2",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinss2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinss2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint1",
-        "name": "Tivibu 1",
-        "category": "Genel",
-        "href": "/channel.html?id=yayint1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint2",
-        "name": "Tivibu 2",
-        "category": "Genel",
-        "href": "/channel.html?id=yayint2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint3",
-        "name": "Tivibu 3",
-        "category": "Genel",
-        "href": "/channel.html?id=yayint3",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint3.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayint4",
-        "name": "Tivibu 4",
-        "category": "Genel",
-        "href": "/channel.html?id=yayint4",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayint4.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinsmarts",
-        "name": "Smartspor",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinsmarts",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinsmarts.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinsms2",
-        "name": "Smartspor 2",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinsms2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinsms2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayintrtspor",
-        "name": "TRT Spor",
-        "category": "Genel",
-        "href": "/channel.html?id=yayintrtspor",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrtspor.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayintrtspor2",
-        "name": "TRT Spor 2",
-        "category": "Genel",
-        "href": "/channel.html?id=yayintrtspor2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrtspor2.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayintrt1",
-        "name": "TRT 1",
-        "category": "Genel",
-        "href": "/channel.html?id=yayintrt1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintrt1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinas",
-        "name": "A Spor",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinas",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinas.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinatv",
-        "name": "ATV",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinatv",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinatv.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayintv8",
-        "name": "TV 8",
-        "category": "Genel",
-        "href": "/channel.html?id=yayintv8",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintv8.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayintv85",
-        "name": "TV 8,5",
-        "category": "Genel",
-        "href": "/channel.html?id=yayintv85",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayintv85.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayinnbatv",
-        "name": "NBA TV",
-        "category": "Genel",
-        "href": "/channel.html?id=yayinnbatv",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayinnbatv.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayineu1",
-        "name": "Euro Sport 1",
-        "category": "Genel",
-        "href": "/channel.html?id=yayineu1",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayineu1.m3u8",
-        "referer": "https://trgoals1514.xyz"
-    },
-    {
-        "id": "yayineu2",
-        "name": "Euro Sport 2",
-        "category": "Genel",
-        "href": "/channel.html?id=yayineu2",
-        "final_url": "https://56r.d72577a9dd0ec17.sbs/yayineu2.m3u8",
-        "referer": "https://trgoals1514.xyz"
+        "referer": "https://trgoals1514.xyz/"
     }
 ]
