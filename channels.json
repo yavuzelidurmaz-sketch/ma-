@@ -1,1 +1,198 @@
-[]
+[
+    {
+        "name": "A Spor",
+        "logo_url": "/assets/images/channels/aspor.png",
+        "stream_url": "saspor",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/saspor/playlist.m3u8"
+    },
+    {
+        "name": "ATV",
+        "logo_url": "/assets/images/channels/atv_logo.png",
+        "stream_url": "satv",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/satv/playlist.m3u8"
+    },
+    {
+        "name": "beIN Sports 1",
+        "logo_url": "/assets/images/channels/beinsports1.png",
+        "stream_url": "sbeinsports-1",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsports-1/playlist.m3u8"
+    },
+    {
+        "name": "beIN Sports 2",
+        "logo_url": "/assets/images/channels/beinsports2.png",
+        "stream_url": "sbeinsports-2",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsports-2/playlist.m3u8"
+    },
+    {
+        "name": "beIN Sports 3",
+        "logo_url": "/assets/images/channels/beinsports3.png",
+        "stream_url": "sbeinsports-3",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsports-3/playlist.m3u8"
+    },
+    {
+        "name": "beIN Sports 4",
+        "logo_url": "/assets/images/channels/beinsports4.png",
+        "stream_url": "sbeinsports-4",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsports-4/playlist.m3u8"
+    },
+    {
+        "name": "beIN Sports 5",
+        "logo_url": "/assets/images/channels/beinsports5.png",
+        "stream_url": "sbeinsports-5",
+        "category": "basketbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsports-5/playlist.m3u8"
+    },
+    {
+        "name": "beIN Sports Haber",
+        "logo_url": "/assets/images/channels/beinsportshaber.png",
+        "stream_url": "sbeinsportshaber",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sbeinsportshaber/playlist.m3u8"
+    },
+    {
+        "name": "Exxen Spor 1",
+        "logo_url": "/assets/images/channels/exxen.png",
+        "stream_url": "sexxen-1",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sexxen-1/playlist.m3u8"
+    },
+    {
+        "name": "Exxen Spor 2",
+        "logo_url": "/assets/images/channels/exxen.png",
+        "stream_url": "sexxen-2",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sexxen-2/playlist.m3u8"
+    },
+    {
+        "name": "Exxen Spor 3",
+        "logo_url": "/assets/images/channels/exxen.png",
+        "stream_url": "sexxen-3",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sexxen-3/playlist.m3u8"
+    },
+    {
+        "name": "Exxen Spor 4",
+        "logo_url": "/assets/images/channels/exxen.png",
+        "stream_url": "sexxen-4",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sexxen-4/playlist.m3u8"
+    },
+    {
+        "name": "Exxen Spor 5",
+        "logo_url": "/assets/images/channels/exxen.png",
+        "stream_url": "sexxen-5",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sexxen-5/playlist.m3u8"
+    },
+    {
+        "name": "Exxen Spor 6",
+        "logo_url": "/assets/images/channels/exxen.png",
+        "stream_url": "sexxen-6",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sexxen-6/playlist.m3u8"
+    },
+    {
+        "name": "S Sport",
+        "logo_url": "/assets/images/channels/ssport_logo.png",
+        "stream_url": "sssport",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sssport/playlist.m3u8"
+    },
+    {
+        "name": "S Sport 2",
+        "logo_url": "/assets/images/channels/ssport2_logo.png",
+        "stream_url": "sssport2",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sssport2/playlist.m3u8"
+    },
+    {
+        "name": "S Sport Plus",
+        "logo_url": "/assets/images/channels/ssportplus_logo.png",
+        "stream_url": "sssplus1",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sssplus1/playlist.m3u8"
+    },
+    {
+        "name": "S Sport Plus 2",
+        "logo_url": "/assets/images/channels/ssportplus_logo.png",
+        "stream_url": "sssplus2",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/sssplus2/playlist.m3u8"
+    },
+    {
+        "name": "Smart Spor",
+        "logo_url": "/assets/images/channels/smartspor.jpg",
+        "stream_url": "ssmartspor",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/ssmartspor/playlist.m3u8"
+    },
+    {
+        "name": "Tabii Spor 1",
+        "logo_url": "/assets/images/channels/tabiispor.png",
+        "stream_url": "stabiispor-1",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/stabiispor-1/playlist.m3u8"
+    },
+    {
+        "name": "Tabii Spor 2",
+        "logo_url": "/assets/images/channels/tabiispor.png",
+        "stream_url": "stabiispor-2",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/stabiispor-2/playlist.m3u8"
+    },
+    {
+        "name": "Tivibu Spor 1",
+        "logo_url": "/assets/images/channels/tivibu.png",
+        "stream_url": "stivibuspor-1",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/stivibuspor-1/playlist.m3u8"
+    },
+    {
+        "name": "Tivibu Spor 2",
+        "logo_url": "/assets/images/channels/tivibu.png",
+        "stream_url": "stivibuspor-2",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/stivibuspor-2/playlist.m3u8"
+    },
+    {
+        "name": "Tivibu Spor 3",
+        "logo_url": "/assets/images/channels/tivibu.png",
+        "stream_url": "stivibuspor-3",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/stivibuspor-3/playlist.m3u8"
+    },
+    {
+        "name": "Tivibu Spor 4",
+        "logo_url": "/assets/images/channels/tivibu.png",
+        "stream_url": "stivibuspor-4",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/stivibuspor-4/playlist.m3u8"
+    },
+    {
+        "name": "TRT 1",
+        "logo_url": "/assets/uploads/trt1-21284924-0-0-250-250.png",
+        "stream_url": "strt1",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/strt1/playlist.m3u8"
+    },
+    {
+        "name": "TRT Spor",
+        "logo_url": "/assets/images/channels/trtspor.png",
+        "stream_url": "strtspor",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/strtspor/playlist.m3u8"
+    },
+    {
+        "name": "TV8",
+        "logo_url": "/assets/images/channels/tv8_logo.png",
+        "stream_url": "stv8",
+        "category": "futbol",
+        "final_url": "https://dga1op10s1u3leo.ee086cf9635f72.click/live/stv8/playlist.m3u8"
+    }
+]
