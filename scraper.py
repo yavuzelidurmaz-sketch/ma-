@@ -3,17 +3,17 @@ import json
 import requests
 import concurrent.futures
 
-# Oynatıcı adresi (HTML'den alındı)
+# Oynatıcı adresi
 PLAYER_BASE_URL = "https://main.uxsyplayer8566224aa5.click/index.php?id="
 
-# Headerlar: Sanki site üzerinden izliyormuşuz gibi görünmek için
+# Headerlar
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
     "Referer": "https://www.sporcafe.xyz/",
     "Origin": "https://www.sporcafe.xyz"
 }
 
-# İlk mesajındaki kanal listesini buraya gömdük
+# Senin verdiğin sabit kanal listesi
 STATIC_CHANNELS = [
     {"name":"A Spor","logo_url":"/assets/images/channels/aspor.png","stream_url":"saspor","category":"futbol"},
     {"name":"ATV","logo_url":"/assets/images/channels/atv_logo.png","stream_url":"satv","category":"futbol"},
@@ -45,41 +45,50 @@ STATIC_CHANNELS = [
     {"name":"TV8","logo_url":"/assets/images/channels/tv8_logo.png","stream_url":"stv8","category":"futbol"}
 ]
 
-def resolve_stream_url(channel):
-    """Player sayfasına gidip gerçek linki çeker."""
-    stream_id = channel.get("stream_url")
-    if not stream_id:
+def get_base_stream_url():
+    """Herhangi bir player sayfasına gidip güncel Base URL'i (dga1op10...) çeker."""
+    test_url = PLAYER_BASE_URL + "sbeinsports-1"
+    try:
+        print("[*] Güncel yayın sunucusu (Base URL) tespit ediliyor...")
+        res = requests.get(test_url, headers=HEADERS, timeout=10)
+        
+        # JS içindeki this.baseStreamUrl = '...' kısmını yakala
+        match = re.search(r"this\.baseStreamUrl\s*=\s*['\"]([^'\"]+)['\"]", res.text)
+        
+        if match:
+            base_url = match.group(1)
+            print(f"[+] Base URL bulundu: {base_url}")
+            return base_url
+        else:
+            print("[!] Base URL regex ile bulunamadı!")
+            return None
+    except Exception as e:
+        print(f"[!] Base URL çekilirken hata: {e}")
         return None
 
-    player_url = f"{PLAYER_BASE_URL}{stream_id}"
-    
-    try:
-        # Timeout'u kısa tutalım ki hızlı geçsin
-        res = requests.get(player_url, headers=HEADERS, timeout=10)
-        
-        # .m3u8 linkini regex ile bul
-        m3u8_match = re.search(r'(https?://[^\s"\']+\.m3u8[^\s"\']*)', res.text)
-        
-        if m3u8_match:
-            real_url = m3u8_match.group(1).replace('\\/', '/')
-            channel["final_url"] = real_url
-            print(f"[+] {channel['name']} -> OK")
-            return channel
-        else:
-            print(f"[-] {channel['name']} -> Link bulunamadı (Stream ID: {stream_id})")
-            return None
-            
-    except requests.exceptions.RequestException as e:
-        print(f"[!] Hata ({channel['name']}): Erişim sorunu.")
+def resolve_stream_url(channel, base_url):
+    """Bulunan Base URL ile kanal linkini oluşturur."""
+    stream_id = channel.get("stream_url")
+    if not stream_id or not base_url:
         return None
+
+    # JS kodundaki mantık: baseStreamUrl + streamId + /playlist.m3u8
+    # Örn: https://dga1.../live/ + sbeinsports-1 + /playlist.m3u8
+    
+    # Base URL genelde '/' ile biter ama kontrol edelim
+    if not base_url.endswith('/'):
+        base_url += '/'
+        
+    final_url = f"{base_url}{stream_id}/playlist.m3u8"
+    
+    channel["final_url"] = final_url
+    print(f"[+] Oluşturuldu: {channel['name']}")
+    return channel
 
 def save_outputs(channels):
-    """JSON ve M3U dosyalarını kaydeder."""
+    """Dosyaları kaydeder."""
     if not channels:
-        print("[!] Hiçbir kanal çözülemedi.")
-        # Yine de boş dosya oluştur ki Git hata vermesin
-        with open("channels.json", "w") as f: f.write("[]")
-        with open("playlist.m3u", "w") as f: f.write("#EXTM3U")
+        print("[!] Kaydedilecek kanal yok.")
         return
 
     # 1. JSON
@@ -91,28 +100,39 @@ def save_outputs(channels):
         f.write("#EXTM3U\n")
         for c in channels:
             name = c.get("name", "Unknown")
-            # Logo URL'si tam değilse düzelt (Görsel için domain gerekebilir ama opsiyonel)
-            logo = c.get("logo_url", "") 
+            logo = c.get("logo_url", "")
+            # Logo URL tamamlama
+            if logo.startswith("/"):
+                # Ana site URL'i ekleyelim ki logolar görünsün
+                logo = "https://www.sporcafe.xyz" + logo
+            
             group = c.get("category", "General")
             url = c.get("final_url")
             
             f.write(f'#EXTINF:-1 tvg-logo="{logo}" group-title="{group}",{name}\n')
             f.write(f'{url}\n')
             
-    print(f"\n[*] Başarılı: {len(channels)} kanal dosyaya yazıldı.")
+    print(f"\n[*] {len(channels)} kanal başarıyla kaydedildi.")
 
 def main():
-    print(f"[*] İşlem başlıyor. {len(STATIC_CHANNELS)} kanal taranacak...")
+    # 1. Önce Base URL'i bul (Tek bir istek atarak)
+    base_url = get_base_stream_url()
     
+    if not base_url:
+        print("[!] Base URL bulunamadığı için işlem iptal edildi.")
+        # Boş dosya oluştur ki Action hata vermesin
+        with open("channels.json", "w") as f: f.write("[]")
+        with open("playlist.m3u", "w") as f: f.write("#EXTM3U")
+        return
+
     processed_channels = []
     
-    # Hızlı tarama için Threading
-    with concurrent.futures.ThreadPoolExecutor(max_workers=20) as executor:
-        results = executor.map(resolve_stream_url, STATIC_CHANNELS)
-        
-        for result in results:
-            if result:
-                processed_channels.append(result)
+    # 2. Base URL'i kullanarak tüm linkleri oluştur (Hızlıca)
+    # Artık her siteye istek atmamıza gerek yok, string birleştiriyoruz.
+    for channel in STATIC_CHANNELS:
+        result = resolve_stream_url(channel, base_url)
+        if result:
+            processed_channels.append(result)
                 
     save_outputs(processed_channels)
 
