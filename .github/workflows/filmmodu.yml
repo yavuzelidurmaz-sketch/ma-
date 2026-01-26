@@ -27,7 +27,7 @@ jobs:
           pip install requests beautifulsoup4
 
       - name: Scraper'ı Çalıştır
-        run: python scraper.py
+        run: python scraper3.py
 
       - name: Değişiklikleri Commit ve Push Yap
         uses: stefanzweifel/git-auto-commit-action@v5
