@@ -1,0 +1,37 @@
+name: FilmModu Scraper
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Her 6 saatte bir çalışır
+  workflow_dispatch: # Manuel tetikleme için
+
+permissions:
+  contents: write
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Depoyu Çek (Checkout)
+        uses: actions/checkout@v3
+
+      - name: Python Kurulumu
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Gereksinimleri Yükle
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests beautifulsoup4
+
+      - name: Scraper'ı Çalıştır
+        run: python scraper.py
+
+      - name: Değişiklikleri Commit ve Push Yap
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Otomatik güncelleme: Film listesi ve M3U"
+          file_pattern: "*.json *.m3u"
+          branch: main
