@@ -1,9 +1,9 @@
-name: FilmModu Selenium Scraper
+name: FilmModu Scraper
 
 on:
+  workflow_dispatch: # Manuel tetikleme butonu
   schedule:
-    - cron: '0 */6 * * *' # 6 saatte bir
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Her 6 saatte bir çalış
 
 permissions:
   contents: write
@@ -11,9 +11,9 @@ permissions:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    
+
     steps:
-      - name: Depoyu Çek
+      - name: Depoyu Çek (Checkout)
         uses: actions/checkout@v3
 
       - name: Python Kurulumu
@@ -24,17 +24,18 @@ jobs:
       - name: Chrome Tarayıcıyı Kur
         uses: browser-actions/setup-chrome@latest
 
-      - name: Bağımlılıkları Yükle
+      # KRİTİK ADIM: Gerekli kütüphaneleri yükle
+      - name: Kütüphaneleri Yükle
         run: |
           python -m pip install --upgrade pip
-          pip install selenium webdriver-manager beautifulsoup4
+          pip install selenium webdriver-manager beautifulsoup4 requests
 
       - name: Botu Çalıştır
         run: python scraper3.py
 
-      - name: Commit ve Push
+      - name: Kaydet ve Gönder (Commit & Push)
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: "Güncelleme: M3U8 ve VTT linkleri eklendi"
-          file_pattern: "*.json *.m3u"
+          commit_message: "Film listesi ve linkler güncellendi"
+          file_pattern: "data/*"
           branch: main
