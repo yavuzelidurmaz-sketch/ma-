@@ -1,7 +1,15 @@
 {
     "title": "Criminal Minds",
+    "original_title": "Criminal Minds",
     "url": "https://www.diziyou.one/criminal-minds/",
     "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/criminal-minds.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
@@ -1834,6 +1842,12 @@
             "dub": "https://storage.diziyou.one/episodes/80005_tr/play.m3u8"
         },
         {
+            "name": "14. Sezon 7. Bölüm",
+            "id": "80006",
+            "sub": "https://storage.diziyou.one/episodes/80006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80006_tr/play.m3u8"
+        },
+        {
             "name": "14. Sezon 8. Bölüm",
             "id": "80007",
             "sub": "https://storage.diziyou.one/episodes/80007/play.m3u8",
@@ -1892,6 +1906,12 @@
             "id": "80016",
             "sub": "https://storage.diziyou.one/episodes/80016/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/80016_tr/play.m3u8"
+        },
+        {
+            "name": "15. Sezon 3. Bölüm",
+            "id": "80017",
+            "sub": "https://storage.diziyou.one/episodes/80017/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/80017_tr/play.m3u8"
         },
         {
             "name": "15. Sezon 4. Bölüm",

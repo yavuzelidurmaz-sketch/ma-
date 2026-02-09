@@ -1,7 +1,15 @@
 {
     "title": "The Lincoln Lawyer",
+    "original_title": "The Lincoln Lawyer",
     "url": "https://www.diziyou.one/the-lincoln-lawyer/",
     "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-lincoln-lawyer.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
@@ -182,6 +190,66 @@
             "id": "20030",
             "sub": "https://storage.diziyou.one/episodes/20030/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/20030_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 1. Bölüm",
+            "id": "20031",
+            "sub": "https://storage.diziyou.one/episodes/20031/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20031_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 2. Bölüm",
+            "id": "20032",
+            "sub": "https://storage.diziyou.one/episodes/20032/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20032_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 3. Bölüm",
+            "id": "20033",
+            "sub": "https://storage.diziyou.one/episodes/20033/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20033_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 4. Bölüm",
+            "id": "20034",
+            "sub": "https://storage.diziyou.one/episodes/20034/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20034_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 5. Bölüm",
+            "id": "20035",
+            "sub": "https://storage.diziyou.one/episodes/20035/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20035_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 6. Bölüm",
+            "id": "20036",
+            "sub": "https://storage.diziyou.one/episodes/20036/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20036_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 7. Bölüm",
+            "id": "20037",
+            "sub": "https://storage.diziyou.one/episodes/20037/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20037_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 8. Bölüm",
+            "id": "20038",
+            "sub": "https://storage.diziyou.one/episodes/20038/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20038_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 9. Bölüm",
+            "id": "20039",
+            "sub": "https://storage.diziyou.one/episodes/20039/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20039_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 10. Bölüm",
+            "id": "20040",
+            "sub": "https://storage.diziyou.one/episodes/20040/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/20040_tr/play.m3u8"
         }
     ]
 }

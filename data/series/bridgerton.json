@@ -1,7 +1,15 @@
 {
     "title": "Bridgerton",
+    "original_title": "Bridgerton",
     "url": "https://www.diziyou.one/bridgerton/",
     "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/bridgerton.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
@@ -146,6 +154,30 @@
             "id": "12024",
             "sub": "https://storage.diziyou.one/episodes/12024/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/12024_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 1. Bölüm",
+            "id": "147801",
+            "sub": "https://storage.diziyou.one/episodes/147801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147801_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 2. Bölüm",
+            "id": "147802",
+            "sub": "https://storage.diziyou.one/episodes/147802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147802_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 3. Bölüm",
+            "id": "147803",
+            "sub": "https://storage.diziyou.one/episodes/147803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147803_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 4. Bölüm",
+            "id": "147804",
+            "sub": "https://storage.diziyou.one/episodes/147804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147804_tr/play.m3u8"
         }
     ]
 }

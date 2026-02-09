@@ -1,7 +1,15 @@
 {
     "title": "Shrinking",
+    "original_title": "Shrinking",
     "url": "https://www.diziyou.one/shrinking/",
     "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/shrinking.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
     "episodes": [
         {
             "name": "1. Sezon 1. Bölüm",
@@ -134,6 +142,18 @@
             "id": "60022",
             "sub": "https://storage.diziyou.one/episodes/60022/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/60022_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 1. Bölüm",
+            "id": "60023",
+            "sub": "https://storage.diziyou.one/episodes/60023/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60023_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 2. Bölüm",
+            "id": "60024",
+            "sub": "https://storage.diziyou.one/episodes/60024/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60024_tr/play.m3u8"
         }
     ]
 }
