@@ -1,26 +1,29 @@
-name: Fanatik Arşiv Güncelleyici
+name: diziyou Arşiv Güncelleyici
 
 on:
   schedule:
-    - cron: '0 2 * * *' # Her gece 02:00
-  workflow_dispatch: # Manuel tetikleme butonu
+    # UTC saati ile 02:00 (Türkiye saati ile 05:00)
+    - cron: '0 2 * * *'
+  workflow_dispatch: # Manuel tetikleme butonu aktif
 
 permissions:
-  contents: write # Yazma izni şart
+  contents: write # Depoya dosya yükleyebilmesi için gerekli izin
 
 jobs:
   scrape_and_push:
     runs-on: ubuntu-latest
-    timeout-minutes: 360
+    # İşlem uzun sürerse durdurması için (Maksimum 6 saat)
+    timeout-minutes: 360 
 
     steps:
       - name: Depoyu Çek (Checkout)
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Python Kurulumu
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.9'
+          cache: 'pip' # Paket yüklemelerini hızlandırmak için önbellek
 
       - name: Kütüphaneleri Yükle
         run: |
@@ -32,17 +35,17 @@ jobs:
 
       - name: Klasör Kontrolü
         run: |
-          ls -R data/ || echo "Data klasörü bulunamadı!"
+          ls -R data/ || echo "Data klasörü bulunamadı veya boş!"
 
       - name: Dosyaları GitHub'a Yükle (Commit & Push)
         run: |
           git config --global user.name "GitHub Action Bot"
-          git config --global user.email "action@github.com"
+          git config --global user.email "actions@github.com"
           
-          # Tüm yeni dosyaları sahneye al
+          # Oluşan data klasörünü ekle
           git add data/
           
-          # Eğer değişiklik varsa commit yap, yoksa hata verme
+          # Değişiklik varsa commit yap, yoksa işlemi başarıyla bitir (hata verme)
           git commit -m "Otomatik Arşiv Güncellemesi: $(date +'%Y-%m-%d')" || echo "Değişiklik yok, commit atlanıyor."
           
           # Değişiklikleri repoya gönder
