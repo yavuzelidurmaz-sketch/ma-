@@ -1,19 +1,17 @@
-name: diziyou Arşiv Güncelleyici
+name: Fanatik Arşiv Güncelleyici
 
 on:
   schedule:
-    # UTC saati ile 02:00 (Türkiye saati ile 05:00)
-    - cron: '0 2 * * *'
-  workflow_dispatch: # Manuel tetikleme butonu aktif
+    - cron: '0 2 * * *' # Her gece 02:00
+  workflow_dispatch: # Manuel tetikleme butonu
 
 permissions:
-  contents: write # Depoya dosya yükleyebilmesi için gerekli izin
+  contents: write # Yazma izni şart
 
 jobs:
   scrape_and_push:
     runs-on: ubuntu-latest
-    # İşlem uzun sürerse durdurması için (Maksimum 6 saat)
-    timeout-minutes: 360 
+    timeout-minutes: 360
 
     steps:
       - name: Depoyu Çek (Checkout)
@@ -23,7 +21,7 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.9'
-          cache: 'pip' # Paket yüklemelerini hızlandırmak için önbellek
+          # cache: 'pip' satırını kaldırdık, hata buna sebep oluyordu.
 
       - name: Kütüphaneleri Yükle
         run: |
@@ -42,11 +40,8 @@ jobs:
           git config --global user.name "GitHub Action Bot"
           git config --global user.email "actions@github.com"
           
-          # Oluşan data klasörünü ekle
           git add data/
           
-          # Değişiklik varsa commit yap, yoksa işlemi başarıyla bitir (hata verme)
           git commit -m "Otomatik Arşiv Güncellemesi: $(date +'%Y-%m-%d')" || echo "Değişiklik yok, commit atlanıyor."
           
-          # Değişiklikleri repoya gönder
           git push
