@@ -1,0 +1,69 @@
+{
+    "title": "Masumiyet Müzesi",
+    "original_title": "Masumiyet Müzesi",
+    "url": "https://www.diziyou.one/masumiyet-muzesi/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/masumiyet-muzesi.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "148501",
+            "sub": "https://storage.diziyou.one/episodes/148501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "148502",
+            "sub": "https://storage.diziyou.one/episodes/148502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "148503",
+            "sub": "https://storage.diziyou.one/episodes/148503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "148504",
+            "sub": "https://storage.diziyou.one/episodes/148504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "148505",
+            "sub": "https://storage.diziyou.one/episodes/148505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "148506",
+            "sub": "https://storage.diziyou.one/episodes/148506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "148507",
+            "sub": "https://storage.diziyou.one/episodes/148507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "148508",
+            "sub": "https://storage.diziyou.one/episodes/148508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148508_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "148509",
+            "sub": "https://storage.diziyou.one/episodes/148509/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148509_tr/play.m3u8"
+        }
+    ]
+}

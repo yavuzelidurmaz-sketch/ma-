@@ -1,0 +1,51 @@
+{
+    "title": "Unfamiliar",
+    "original_title": "Unfamiliar",
+    "url": "https://www.diziyou.one/unfamiliar/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/unfamiliar.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "148301",
+            "sub": "https://storage.diziyou.one/episodes/148301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "148302",
+            "sub": "https://storage.diziyou.one/episodes/148302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "148303",
+            "sub": "https://storage.diziyou.one/episodes/148303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "148304",
+            "sub": "https://storage.diziyou.one/episodes/148304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "148305",
+            "sub": "https://storage.diziyou.one/episodes/148305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "148306",
+            "sub": "https://storage.diziyou.one/episodes/148306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148306_tr/play.m3u8"
+        }
+    ]
+}

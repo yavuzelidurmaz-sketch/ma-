@@ -1,0 +1,39 @@
+{
+    "title": "A Knight of the Seven Kingdoms",
+    "original_title": "A Knight of the Seven Kingdoms",
+    "url": "https://www.diziyou.one/a-knight-of-the-seven-kingdoms/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/a-knight-of-the-seven-kingdoms.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "146901",
+            "sub": "https://storage.diziyou.one/episodes/146901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/146901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "146902",
+            "sub": "https://storage.diziyou.one/episodes/146902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/146902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "146903",
+            "sub": "https://storage.diziyou.one/episodes/146903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/146903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "146904",
+            "sub": "https://storage.diziyou.one/episodes/146904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/146904_tr/play.m3u8"
+        }
+    ]
+}
