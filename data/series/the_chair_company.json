@@ -1,0 +1,63 @@
+{
+    "title": "The Chair Company",
+    "original_title": "The Chair Company",
+    "url": "https://www.diziyou.one/the-chair-company/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-chair-company.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "137401",
+            "sub": "https://storage.diziyou.one/episodes/137401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "137402",
+            "sub": "https://storage.diziyou.one/episodes/137402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "137403",
+            "sub": "https://storage.diziyou.one/episodes/137403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "137404",
+            "sub": "https://storage.diziyou.one/episodes/137404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "137405",
+            "sub": "https://storage.diziyou.one/episodes/137405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137405_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "137406",
+            "sub": "https://storage.diziyou.one/episodes/137406/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "137407",
+            "sub": "https://storage.diziyou.one/episodes/137407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "137408",
+            "sub": "https://storage.diziyou.one/episodes/137408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137408_tr/play.m3u8"
+        }
+    ]
+}
