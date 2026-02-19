@@ -1,0 +1,51 @@
+{
+    "title": "Lead Children",
+    "original_title": "Lead Children",
+    "url": "https://www.diziyou.one/lead-children/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/lead-children.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "148901",
+            "sub": "https://storage.diziyou.one/episodes/148901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "148902",
+            "sub": "https://storage.diziyou.one/episodes/148902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "148903",
+            "sub": "https://storage.diziyou.one/episodes/148903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "148904",
+            "sub": "https://storage.diziyou.one/episodes/148904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "148905",
+            "sub": "https://storage.diziyou.one/episodes/148905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "148906",
+            "sub": "https://storage.diziyou.one/episodes/148906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/148906_tr/play.m3u8"
+        }
+    ]
+}

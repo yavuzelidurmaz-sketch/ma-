@@ -1,0 +1,51 @@
+{
+    "title": "The Asset",
+    "original_title": "The Asset",
+    "url": "https://www.diziyou.one/the-asset/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-asset.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "138501",
+            "sub": "https://storage.diziyou.one/episodes/138501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "138502",
+            "sub": "https://storage.diziyou.one/episodes/138502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "138503",
+            "sub": "https://storage.diziyou.one/episodes/138503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "138504",
+            "sub": "https://storage.diziyou.one/episodes/138504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "138505",
+            "sub": "https://storage.diziyou.one/episodes/138505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "138506",
+            "sub": "https://storage.diziyou.one/episodes/138506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138506_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "title": "No One Saw Us Leave",
+    "original_title": "No One Saw Us Leave",
+    "url": "https://www.diziyou.one/no-one-saw-us-leave/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/no-one-saw-us-leave.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "138001",
+            "sub": "https://storage.diziyou.one/episodes/138001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "138002",
+            "sub": "https://storage.diziyou.one/episodes/138002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "138003",
+            "sub": "https://storage.diziyou.one/episodes/138003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "138004",
+            "sub": "https://storage.diziyou.one/episodes/138004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "138005",
+            "sub": "https://storage.diziyou.one/episodes/138005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138005_tr/play.m3u8"
+        }
+    ]
+}

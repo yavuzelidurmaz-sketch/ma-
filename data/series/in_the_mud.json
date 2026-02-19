@@ -58,6 +58,54 @@
             "id": "130308",
             "sub": "https://storage.diziyou.one/episodes/130308/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/130308_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "130309",
+            "sub": "https://storage.diziyou.one/episodes/130309/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130309_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "130310",
+            "sub": "https://storage.diziyou.one/episodes/130310/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130310_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 3. Bölüm",
+            "id": "130311",
+            "sub": "https://storage.diziyou.one/episodes/130311/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130311_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "130312",
+            "sub": "https://storage.diziyou.one/episodes/130312/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130312_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 5. Bölüm",
+            "id": "130313",
+            "sub": "https://storage.diziyou.one/episodes/130313/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130313_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "130314",
+            "sub": "https://storage.diziyou.one/episodes/130314/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130314_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 7. Bölüm",
+            "id": "130315",
+            "sub": "https://storage.diziyou.one/episodes/130315/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130315_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 8. Bölüm",
+            "id": "130316",
+            "sub": "https://storage.diziyou.one/episodes/130316/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/130316_tr/play.m3u8"
         }
     ]
 }

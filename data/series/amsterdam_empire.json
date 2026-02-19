@@ -1,0 +1,57 @@
+{
+    "title": "Amsterdam Empire",
+    "original_title": "Amsterdam Empire",
+    "url": "https://www.diziyou.one/amsterdam-empire/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/amsterdam-empire.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "138701",
+            "sub": "https://storage.diziyou.one/episodes/138701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "138702",
+            "sub": "https://storage.diziyou.one/episodes/138702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "138703",
+            "sub": "https://storage.diziyou.one/episodes/138703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "138704",
+            "sub": "https://storage.diziyou.one/episodes/138704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "138705",
+            "sub": "https://storage.diziyou.one/episodes/138705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "138706",
+            "sub": "https://storage.diziyou.one/episodes/138706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "138707",
+            "sub": "https://storage.diziyou.one/episodes/138707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138707_tr/play.m3u8"
+        }
+    ]
+}

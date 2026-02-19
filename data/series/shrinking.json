@@ -160,6 +160,12 @@
             "id": "60025",
             "sub": "https://storage.diziyou.one/episodes/60025/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/60025_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 4. Bölüm",
+            "id": "60026",
+            "sub": "https://storage.diziyou.one/episodes/60026/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/60026_tr/play.m3u8"
         }
     ]
 }

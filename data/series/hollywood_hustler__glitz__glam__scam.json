@@ -1,0 +1,33 @@
+{
+    "title": "Hollywood Hustler: Glitz, Glam, Scam",
+    "original_title": "Hollywood Hustler: Glitz, Glam, Scam",
+    "url": "https://www.diziyou.one/hollywood-hustler-glitz-glam-scam/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/hollywood-hustler-glitz-glam-scam.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "137801",
+            "sub": "https://storage.diziyou.one/episodes/137801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "137802",
+            "sub": "https://storage.diziyou.one/episodes/137802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "137803",
+            "sub": "https://storage.diziyou.one/episodes/137803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/137803_tr/play.m3u8"
+        }
+    ]
+}

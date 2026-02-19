@@ -1,0 +1,63 @@
+{
+    "title": "Rulers of Fortune",
+    "original_title": "Rulers of Fortune",
+    "url": "https://www.diziyou.one/rulers-of-fortune/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/rulers-of-fortune.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "138601",
+            "sub": "https://storage.diziyou.one/episodes/138601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "138602",
+            "sub": "https://storage.diziyou.one/episodes/138602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "138603",
+            "sub": "https://storage.diziyou.one/episodes/138603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "138604",
+            "sub": "https://storage.diziyou.one/episodes/138604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "138605",
+            "sub": "https://storage.diziyou.one/episodes/138605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "138606",
+            "sub": "https://storage.diziyou.one/episodes/138606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "138607",
+            "sub": "https://storage.diziyou.one/episodes/138607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "138608",
+            "sub": "https://storage.diziyou.one/episodes/138608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138608_tr/play.m3u8"
+        }
+    ]
+}
