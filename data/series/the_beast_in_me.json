@@ -1,0 +1,63 @@
+{
+    "title": "The Beast in Me",
+    "original_title": "The Beast in Me",
+    "url": "https://www.diziyou.one/the-beast-in-me/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-beast-in-me.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "140301",
+            "sub": "https://storage.diziyou.one/episodes/140301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "140302",
+            "sub": "https://storage.diziyou.one/episodes/140302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "140303",
+            "sub": "https://storage.diziyou.one/episodes/140303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "140304",
+            "sub": "https://storage.diziyou.one/episodes/140304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "140305",
+            "sub": "https://storage.diziyou.one/episodes/140305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "140306",
+            "sub": "https://storage.diziyou.one/episodes/140306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140306_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "140307",
+            "sub": "https://storage.diziyou.one/episodes/140307/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140307_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "140308",
+            "sub": "https://storage.diziyou.one/episodes/140308/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140308_tr/play.m3u8"
+        }
+    ]
+}

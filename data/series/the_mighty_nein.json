@@ -1,0 +1,63 @@
+{
+    "title": "The Mighty Nein",
+    "original_title": "The Mighty Nein",
+    "url": "https://www.diziyou.one/the-mighty-nein/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-mighty-nein.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "140801",
+            "sub": "https://storage.diziyou.one/episodes/140801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "140802",
+            "sub": "https://storage.diziyou.one/episodes/140802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "140803",
+            "sub": "https://storage.diziyou.one/episodes/140803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "140804",
+            "sub": "https://storage.diziyou.one/episodes/140804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "140805",
+            "sub": "https://storage.diziyou.one/episodes/140805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "140806",
+            "sub": "https://storage.diziyou.one/episodes/140806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "140807",
+            "sub": "https://storage.diziyou.one/episodes/140807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "140808",
+            "sub": "https://storage.diziyou.one/episodes/140808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140808_tr/play.m3u8"
+        }
+    ]
+}

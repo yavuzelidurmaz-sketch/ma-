@@ -1,0 +1,51 @@
+{
+    "title": "The Crystal Cuckoo",
+    "original_title": "The Crystal Cuckoo",
+    "url": "https://www.diziyou.one/the-crystal-cuckoo/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-crystal-cuckoo.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "140001",
+            "sub": "https://storage.diziyou.one/episodes/140001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "140002",
+            "sub": "https://storage.diziyou.one/episodes/140002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "140003",
+            "sub": "https://storage.diziyou.one/episodes/140003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "140004",
+            "sub": "https://storage.diziyou.one/episodes/140004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "140005",
+            "sub": "https://storage.diziyou.one/episodes/140005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "140006",
+            "sub": "https://storage.diziyou.one/episodes/140006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140006_tr/play.m3u8"
+        }
+    ]
+}

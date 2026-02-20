@@ -1,0 +1,51 @@
+{
+    "title": "Harlan Coben's Lazarus",
+    "original_title": "Harlan Coben's Lazarus",
+    "url": "https://www.diziyou.one/harlan-cobens-lazarus/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/harlan-cobens-lazarus.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "140501",
+            "sub": "https://storage.diziyou.one/episodes/140501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "140502",
+            "sub": "https://storage.diziyou.one/episodes/140502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "140503",
+            "sub": "https://storage.diziyou.one/episodes/140503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "140504",
+            "sub": "https://storage.diziyou.one/episodes/140504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "140505",
+            "sub": "https://storage.diziyou.one/episodes/140505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "140506",
+            "sub": "https://storage.diziyou.one/episodes/140506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/140506_tr/play.m3u8"
+        }
+    ]
+}

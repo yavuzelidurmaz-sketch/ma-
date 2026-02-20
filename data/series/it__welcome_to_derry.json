@@ -1,0 +1,63 @@
+{
+    "title": "IT: Welcome to Derry",
+    "original_title": "IT: Welcome to Derry",
+    "url": "https://www.diziyou.one/it-welcome-to-derry/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/it-welcome-to-derry.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "138801",
+            "sub": "https://storage.diziyou.one/episodes/138801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "138802",
+            "sub": "https://storage.diziyou.one/episodes/138802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "138803",
+            "sub": "https://storage.diziyou.one/episodes/138803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "138804",
+            "sub": "https://storage.diziyou.one/episodes/138804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "138805",
+            "sub": "https://storage.diziyou.one/episodes/138805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "138806",
+            "sub": "https://storage.diziyou.one/episodes/138806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "138807",
+            "sub": "https://storage.diziyou.one/episodes/138807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "138808",
+            "sub": "https://storage.diziyou.one/episodes/138808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/138808_tr/play.m3u8"
+        }
+    ]
+}

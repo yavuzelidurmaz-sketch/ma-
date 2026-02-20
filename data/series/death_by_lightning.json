@@ -1,0 +1,39 @@
+{
+    "title": "Death by Lightning",
+    "original_title": "Death by Lightning",
+    "url": "https://www.diziyou.one/death-by-lightning/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/death-by-lightning.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "139201",
+            "sub": "https://storage.diziyou.one/episodes/139201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "139202",
+            "sub": "https://storage.diziyou.one/episodes/139202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "139203",
+            "sub": "https://storage.diziyou.one/episodes/139203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "139204",
+            "sub": "https://storage.diziyou.one/episodes/139204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139204_tr/play.m3u8"
+        }
+    ]
+}

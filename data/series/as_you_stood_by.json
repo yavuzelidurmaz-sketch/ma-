@@ -1,0 +1,63 @@
+{
+    "title": "As You Stood By",
+    "original_title": "As You Stood By",
+    "url": "https://www.diziyou.one/as-you-stood-by/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/as-you-stood-by.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "139001",
+            "sub": "https://storage.diziyou.one/episodes/139001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "139002",
+            "sub": "https://storage.diziyou.one/episodes/139002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "139003",
+            "sub": "https://storage.diziyou.one/episodes/139003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "139004",
+            "sub": "https://storage.diziyou.one/episodes/139004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "139005",
+            "sub": "https://storage.diziyou.one/episodes/139005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "139006",
+            "sub": "https://storage.diziyou.one/episodes/139006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "139007",
+            "sub": "https://storage.diziyou.one/episodes/139007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "139008",
+            "sub": "https://storage.diziyou.one/episodes/139008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/139008_tr/play.m3u8"
+        }
+    ]
+}
