@@ -178,6 +178,30 @@
             "id": "147804",
             "sub": "https://storage.diziyou.one/episodes/147804/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/147804_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 5. Bölüm",
+            "id": "147805",
+            "sub": "https://storage.diziyou.one/episodes/147805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147805_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 6. Bölüm",
+            "id": "147806",
+            "sub": "https://storage.diziyou.one/episodes/147806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147806_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 7. Bölüm",
+            "id": "147807",
+            "sub": "https://storage.diziyou.one/episodes/147807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147807_tr/play.m3u8"
+        },
+        {
+            "name": "4. Sezon 8. Bölüm",
+            "id": "147808",
+            "sub": "https://storage.diziyou.one/episodes/147808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/147808_tr/play.m3u8"
         }
     ]
 }
