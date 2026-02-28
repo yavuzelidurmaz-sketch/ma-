@@ -1,0 +1,63 @@
+{
+    "title": "56 Days",
+    "original_title": "56 Days",
+    "url": "https://www.diziyou.one/56-days/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/56-days.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "149001",
+            "sub": "https://storage.diziyou.one/episodes/149001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "149002",
+            "sub": "https://storage.diziyou.one/episodes/149002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "149003",
+            "sub": "https://storage.diziyou.one/episodes/149003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "149004",
+            "sub": "https://storage.diziyou.one/episodes/149004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "149005",
+            "sub": "https://storage.diziyou.one/episodes/149005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149005_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "149006",
+            "sub": "https://storage.diziyou.one/episodes/149006/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149006_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "149007",
+            "sub": "https://storage.diziyou.one/episodes/149007/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149007_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "149008",
+            "sub": "https://storage.diziyou.one/episodes/149008/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149008_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "Being Gordon Ramsay",
+    "original_title": "Being Gordon Ramsay",
+    "url": "https://www.diziyou.one/being-gordon-ramsay/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/being-gordon-ramsay.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "149301",
+            "sub": "https://storage.diziyou.one/episodes/149301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "149302",
+            "sub": "https://storage.diziyou.one/episodes/149302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "149303",
+            "sub": "https://storage.diziyou.one/episodes/149303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "149304",
+            "sub": "https://storage.diziyou.one/episodes/149304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "149305",
+            "sub": "https://storage.diziyou.one/episodes/149305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "149306",
+            "sub": "https://storage.diziyou.one/episodes/149306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149306_tr/play.m3u8"
+        }
+    ]
+}

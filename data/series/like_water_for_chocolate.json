@@ -1,0 +1,63 @@
+{
+    "title": "Like Water for Chocolate",
+    "original_title": "Like Water for Chocolate",
+    "url": "https://www.diziyou.one/like-water-for-chocolate/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/like-water-for-chocolate.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "149101",
+            "sub": "https://storage.diziyou.one/episodes/149101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "149102",
+            "sub": "https://storage.diziyou.one/episodes/149102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "149103",
+            "sub": "https://storage.diziyou.one/episodes/149103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "149104",
+            "sub": "https://storage.diziyou.one/episodes/149104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "149105",
+            "sub": "https://storage.diziyou.one/episodes/149105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "149106",
+            "sub": "https://storage.diziyou.one/episodes/149106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149106_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "149107",
+            "sub": "https://storage.diziyou.one/episodes/149107/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149107_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "149108",
+            "sub": "https://storage.diziyou.one/episodes/149108/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149108_tr/play.m3u8"
+        }
+    ]
+}
