@@ -1,0 +1,69 @@
+{
+    "title": "Crap Happens",
+    "original_title": "Crap Happens",
+    "url": "https://www.diziyou.one/crap-happens/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/crap-happens.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "149801",
+            "sub": "https://storage.diziyou.one/episodes/149801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "149802",
+            "sub": "https://storage.diziyou.one/episodes/149802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "149803",
+            "sub": "https://storage.diziyou.one/episodes/149803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "149804",
+            "sub": "https://storage.diziyou.one/episodes/149804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149804_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "149805",
+            "sub": "https://storage.diziyou.one/episodes/149805/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149805_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "149806",
+            "sub": "https://storage.diziyou.one/episodes/149806/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149806_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "149807",
+            "sub": "https://storage.diziyou.one/episodes/149807/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149807_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "149808",
+            "sub": "https://storage.diziyou.one/episodes/149808/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149808_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "149809",
+            "sub": "https://storage.diziyou.one/episodes/149809/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149809_tr/play.m3u8"
+        }
+    ]
+}

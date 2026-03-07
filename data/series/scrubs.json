@@ -1,0 +1,33 @@
+{
+    "title": "Scrubs",
+    "original_title": "Scrubs",
+    "url": "https://www.diziyou.one/scrubs/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/scrubs.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "149701",
+            "sub": "https://storage.diziyou.one/episodes/149701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "149702",
+            "sub": "https://storage.diziyou.one/episodes/149702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "149703",
+            "sub": "https://storage.diziyou.one/episodes/149703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149703_tr/play.m3u8"
+        }
+    ]
+}

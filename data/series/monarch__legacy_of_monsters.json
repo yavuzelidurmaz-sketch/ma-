@@ -70,6 +70,18 @@
             "id": "83210",
             "sub": "https://storage.diziyou.one/episodes/83210/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/83210_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "83211",
+            "sub": "https://storage.diziyou.one/episodes/83211/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83211_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 2. Bölüm",
+            "id": "83212",
+            "sub": "https://storage.diziyou.one/episodes/83212/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/83212_tr/play.m3u8"
         }
     ]
 }

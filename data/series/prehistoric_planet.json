@@ -70,6 +70,36 @@
             "id": "72510",
             "sub": "https://storage.diziyou.one/episodes/72510/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/72510_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 1. Bölüm",
+            "id": "72511",
+            "sub": "https://storage.diziyou.one/episodes/72511/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72511_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 2. Bölüm",
+            "id": "72512",
+            "sub": "https://storage.diziyou.one/episodes/72512/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72512_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 3. Bölüm",
+            "id": "72513",
+            "sub": "https://storage.diziyou.one/episodes/72513/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72513_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 4. Bölüm",
+            "id": "72514",
+            "sub": "https://storage.diziyou.one/episodes/72514/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72514_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 5. Bölüm",
+            "id": "72515",
+            "sub": "https://storage.diziyou.one/episodes/72515/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/72515_tr/play.m3u8"
         }
     ]
 }

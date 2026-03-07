@@ -1,0 +1,27 @@
+{
+    "title": "Siren's Kiss",
+    "original_title": "Siren's Kiss",
+    "url": "https://www.diziyou.one/sirens-kiss/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/sirens-kiss.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "150001",
+            "sub": "https://storage.diziyou.one/episodes/150001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "150002",
+            "sub": "https://storage.diziyou.one/episodes/150002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150002_tr/play.m3u8"
+        }
+    ]
+}

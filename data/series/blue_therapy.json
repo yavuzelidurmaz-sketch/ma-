@@ -1,0 +1,63 @@
+{
+    "title": "Blue Therapy",
+    "original_title": "Blue Therapy",
+    "url": "https://www.diziyou.one/blue-therapy/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/blue-therapy.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "150501",
+            "sub": "https://storage.diziyou.one/episodes/150501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "150502",
+            "sub": "https://storage.diziyou.one/episodes/150502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "150503",
+            "sub": "https://storage.diziyou.one/episodes/150503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "150504",
+            "sub": "https://storage.diziyou.one/episodes/150504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "150505",
+            "sub": "https://storage.diziyou.one/episodes/150505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "150506",
+            "sub": "https://storage.diziyou.one/episodes/150506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "150507",
+            "sub": "https://storage.diziyou.one/episodes/150507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "150508",
+            "sub": "https://storage.diziyou.one/episodes/150508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150508_tr/play.m3u8"
+        }
+    ]
+}

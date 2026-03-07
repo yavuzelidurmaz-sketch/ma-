@@ -1,0 +1,63 @@
+{
+    "title": "Vladimir",
+    "original_title": "Vladimir",
+    "url": "https://www.diziyou.one/vladimir/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/vladimir.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "150201",
+            "sub": "https://storage.diziyou.one/episodes/150201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "150202",
+            "sub": "https://storage.diziyou.one/episodes/150202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "150203",
+            "sub": "https://storage.diziyou.one/episodes/150203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "150204",
+            "sub": "https://storage.diziyou.one/episodes/150204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "150205",
+            "sub": "https://storage.diziyou.one/episodes/150205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "150206",
+            "sub": "https://storage.diziyou.one/episodes/150206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "150207",
+            "sub": "https://storage.diziyou.one/episodes/150207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "150208",
+            "sub": "https://storage.diziyou.one/episodes/150208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150208_tr/play.m3u8"
+        }
+    ]
+}

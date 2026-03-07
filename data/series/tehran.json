@@ -106,6 +106,54 @@
             "id": "90116",
             "sub": "https://storage.diziyou.one/episodes/90116/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/90116_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 1. Bölüm",
+            "id": "90117",
+            "sub": "https://storage.diziyou.one/episodes/90117/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90117_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 2. Bölüm",
+            "id": "90118",
+            "sub": "https://storage.diziyou.one/episodes/90118/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90118_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 3. Bölüm",
+            "id": "90119",
+            "sub": "https://storage.diziyou.one/episodes/90119/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90119_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 4. Bölüm",
+            "id": "90120",
+            "sub": "https://storage.diziyou.one/episodes/90120/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90120_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 5. Bölüm",
+            "id": "90121",
+            "sub": "https://storage.diziyou.one/episodes/90121/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90121_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 6. Bölüm",
+            "id": "90122",
+            "sub": "https://storage.diziyou.one/episodes/90122/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90122_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 7. Bölüm",
+            "id": "90123",
+            "sub": "https://storage.diziyou.one/episodes/90123/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90123_tr/play.m3u8"
+        },
+        {
+            "name": "3. Sezon 8. Bölüm",
+            "id": "90124",
+            "sub": "https://storage.diziyou.one/episodes/90124/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/90124_tr/play.m3u8"
         }
     ]
 }
