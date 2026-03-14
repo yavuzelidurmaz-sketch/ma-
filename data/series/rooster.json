@@ -1,0 +1,21 @@
+{
+    "title": "Rooster",
+    "original_title": "Rooster",
+    "url": "https://www.diziyou.one/rooster/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/rooster.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "151701",
+            "sub": "https://storage.diziyou.one/episodes/151701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151701_tr/play.m3u8"
+        }
+    ]
+}

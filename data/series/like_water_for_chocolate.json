@@ -64,6 +64,12 @@
             "id": "149109",
             "sub": "https://storage.diziyou.one/episodes/149109/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/149109_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 4. Bölüm",
+            "id": "149110",
+            "sub": "https://storage.diziyou.one/episodes/149110/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149110_tr/play.m3u8"
         }
     ]
 }

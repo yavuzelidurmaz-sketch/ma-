@@ -1,0 +1,75 @@
+{
+    "title": "Boyfriend on Demand",
+    "original_title": "Boyfriend on Demand",
+    "url": "https://www.diziyou.one/boyfriend-on-demand/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/boyfriend-on-demand.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "150901",
+            "sub": "https://storage.diziyou.one/episodes/150901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "150902",
+            "sub": "https://storage.diziyou.one/episodes/150902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "150903",
+            "sub": "https://storage.diziyou.one/episodes/150903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "150904",
+            "sub": "https://storage.diziyou.one/episodes/150904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "150905",
+            "sub": "https://storage.diziyou.one/episodes/150905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "150906",
+            "sub": "https://storage.diziyou.one/episodes/150906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150906_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "150907",
+            "sub": "https://storage.diziyou.one/episodes/150907/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150907_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "150908",
+            "sub": "https://storage.diziyou.one/episodes/150908/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150908_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "150909",
+            "sub": "https://storage.diziyou.one/episodes/150909/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150909_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "150910",
+            "sub": "https://storage.diziyou.one/episodes/150910/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150910_tr/play.m3u8"
+        }
+    ]
+}

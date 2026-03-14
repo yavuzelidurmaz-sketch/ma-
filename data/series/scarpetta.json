@@ -1,0 +1,63 @@
+{
+    "title": "Scarpetta",
+    "original_title": "Scarpetta",
+    "url": "https://www.diziyou.one/scarpetta/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/scarpetta.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "151601",
+            "sub": "https://storage.diziyou.one/episodes/151601/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151601_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "151602",
+            "sub": "https://storage.diziyou.one/episodes/151602/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151602_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "151603",
+            "sub": "https://storage.diziyou.one/episodes/151603/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151603_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "151604",
+            "sub": "https://storage.diziyou.one/episodes/151604/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151604_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "151605",
+            "sub": "https://storage.diziyou.one/episodes/151605/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151605_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "151606",
+            "sub": "https://storage.diziyou.one/episodes/151606/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151606_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "151607",
+            "sub": "https://storage.diziyou.one/episodes/151607/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151607_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "151608",
+            "sub": "https://storage.diziyou.one/episodes/151608/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151608_tr/play.m3u8"
+        }
+    ]
+}

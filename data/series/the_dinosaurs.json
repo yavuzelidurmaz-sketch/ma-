@@ -1,0 +1,39 @@
+{
+    "title": "The Dinosaurs",
+    "original_title": "The Dinosaurs",
+    "url": "https://www.diziyou.one/the-dinosaurs/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-dinosaurs.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "150801",
+            "sub": "https://storage.diziyou.one/episodes/150801/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150801_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "150802",
+            "sub": "https://storage.diziyou.one/episodes/150802/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150802_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "150803",
+            "sub": "https://storage.diziyou.one/episodes/150803/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150803_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "150804",
+            "sub": "https://storage.diziyou.one/episodes/150804/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150804_tr/play.m3u8"
+        }
+    ]
+}
