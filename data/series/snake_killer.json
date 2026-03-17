@@ -1,0 +1,39 @@
+{
+    "title": "Snake Killer",
+    "original_title": "Snake Killer",
+    "url": "https://www.diziyou.one/snake-killer/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/snake-killer.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "151101",
+            "sub": "https://storage.diziyou.one/episodes/151101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "151102",
+            "sub": "https://storage.diziyou.one/episodes/151102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "151103",
+            "sub": "https://storage.diziyou.one/episodes/151103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "151104",
+            "sub": "https://storage.diziyou.one/episodes/151104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151104_tr/play.m3u8"
+        }
+    ]
+}

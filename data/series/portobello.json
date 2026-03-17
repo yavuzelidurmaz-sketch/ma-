@@ -1,0 +1,39 @@
+{
+    "title": "Portobello",
+    "original_title": "Portobello",
+    "url": "https://www.diziyou.one/portobello/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/portobello.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "151401",
+            "sub": "https://storage.diziyou.one/episodes/151401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "151402",
+            "sub": "https://storage.diziyou.one/episodes/151402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "151403",
+            "sub": "https://storage.diziyou.one/episodes/151403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151403_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "151404",
+            "sub": "https://storage.diziyou.one/episodes/151404/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151404_tr/play.m3u8"
+        }
+    ]
+}

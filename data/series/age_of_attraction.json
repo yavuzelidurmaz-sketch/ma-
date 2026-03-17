@@ -1,0 +1,45 @@
+{
+    "title": "Age of Attraction",
+    "original_title": "Age of Attraction",
+    "url": "https://www.diziyou.one/age-of-attraction/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/age-of-attraction.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "151901",
+            "sub": "https://storage.diziyou.one/episodes/151901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "151902",
+            "sub": "https://storage.diziyou.one/episodes/151902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "151903",
+            "sub": "https://storage.diziyou.one/episodes/151903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "151904",
+            "sub": "https://storage.diziyou.one/episodes/151904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "151905",
+            "sub": "https://storage.diziyou.one/episodes/151905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151905_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "title": "The TikTok Killer",
+    "original_title": "The TikTok Killer",
+    "url": "https://www.diziyou.one/the-tiktok-killer/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-tiktok-killer.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "151001",
+            "sub": "https://storage.diziyou.one/episodes/151001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "151002",
+            "sub": "https://storage.diziyou.one/episodes/151002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/151002_tr/play.m3u8"
+        }
+    ]
+}
