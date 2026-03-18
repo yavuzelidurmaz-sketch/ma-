@@ -1,0 +1,39 @@
+{
+    "title": "Dynasty: The Murdochs",
+    "original_title": "Dynasty: The Murdochs",
+    "url": "https://www.diziyou.one/dynasty-the-murdochs/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/dynasty-the-murdochs.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "152001",
+            "sub": "https://storage.diziyou.one/episodes/152001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "152002",
+            "sub": "https://storage.diziyou.one/episodes/152002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "152003",
+            "sub": "https://storage.diziyou.one/episodes/152003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "152004",
+            "sub": "https://storage.diziyou.one/episodes/152004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152004_tr/play.m3u8"
+        }
+    ]
+}

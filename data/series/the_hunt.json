@@ -1,0 +1,33 @@
+{
+    "title": "The Hunt",
+    "original_title": "The Hunt",
+    "url": "https://www.diziyou.one/the-hunt/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/the-hunt.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "150401",
+            "sub": "https://storage.diziyou.one/episodes/150401/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150401_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "150402",
+            "sub": "https://storage.diziyou.one/episodes/150402/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150402_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "150403",
+            "sub": "https://storage.diziyou.one/episodes/150403/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150403_tr/play.m3u8"
+        }
+    ]
+}

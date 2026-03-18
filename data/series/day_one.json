@@ -1,0 +1,51 @@
+{
+    "title": "Day One",
+    "original_title": "Day One",
+    "url": "https://www.diziyou.one/day-one/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/day-one.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "152101",
+            "sub": "https://storage.diziyou.one/episodes/152101/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152101_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "152102",
+            "sub": "https://storage.diziyou.one/episodes/152102/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152102_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "152103",
+            "sub": "https://storage.diziyou.one/episodes/152103/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152103_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "152104",
+            "sub": "https://storage.diziyou.one/episodes/152104/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152104_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "152105",
+            "sub": "https://storage.diziyou.one/episodes/152105/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152105_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "152106",
+            "sub": "https://storage.diziyou.one/episodes/152106/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152106_tr/play.m3u8"
+        }
+    ]
+}

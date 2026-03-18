@@ -1,0 +1,51 @@
+{
+    "title": "García!",
+    "original_title": "García!",
+    "url": "https://www.diziyou.one/garcia/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/garcia.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "152201",
+            "sub": "https://storage.diziyou.one/episodes/152201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "152202",
+            "sub": "https://storage.diziyou.one/episodes/152202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "152203",
+            "sub": "https://storage.diziyou.one/episodes/152203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "152204",
+            "sub": "https://storage.diziyou.one/episodes/152204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "152205",
+            "sub": "https://storage.diziyou.one/episodes/152205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "152206",
+            "sub": "https://storage.diziyou.one/episodes/152206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152206_tr/play.m3u8"
+        }
+    ]
+}

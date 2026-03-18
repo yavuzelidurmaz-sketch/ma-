@@ -1,0 +1,57 @@
+{
+    "title": "Love Story",
+    "original_title": "Love Story",
+    "url": "https://www.diziyou.one/love-story/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/love-story.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "152701",
+            "sub": "https://storage.diziyou.one/episodes/152701/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152701_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "152702",
+            "sub": "https://storage.diziyou.one/episodes/152702/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152702_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "152703",
+            "sub": "https://storage.diziyou.one/episodes/152703/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152703_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "152704",
+            "sub": "https://storage.diziyou.one/episodes/152704/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152704_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "152705",
+            "sub": "https://storage.diziyou.one/episodes/152705/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152705_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "152706",
+            "sub": "https://storage.diziyou.one/episodes/152706/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152706_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "152707",
+            "sub": "https://storage.diziyou.one/episodes/152707/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152707_tr/play.m3u8"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "title": "That Night",
+    "original_title": "That Night",
+    "url": "https://www.diziyou.one/that-night/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/that-night.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "152501",
+            "sub": "https://storage.diziyou.one/episodes/152501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "152502",
+            "sub": "https://storage.diziyou.one/episodes/152502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "152503",
+            "sub": "https://storage.diziyou.one/episodes/152503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "152504",
+            "sub": "https://storage.diziyou.one/episodes/152504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "152505",
+            "sub": "https://storage.diziyou.one/episodes/152505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "152506",
+            "sub": "https://storage.diziyou.one/episodes/152506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152506_tr/play.m3u8"
+        }
+    ]
+}

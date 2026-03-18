@@ -1,0 +1,87 @@
+{
+    "title": "Spring Fever",
+    "original_title": "Spring Fever",
+    "url": "https://www.diziyou.one/spring-fever/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/spring-fever.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "145201",
+            "sub": "https://storage.diziyou.one/episodes/145201/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145201_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "145202",
+            "sub": "https://storage.diziyou.one/episodes/145202/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145202_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "145203",
+            "sub": "https://storage.diziyou.one/episodes/145203/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145203_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "145204",
+            "sub": "https://storage.diziyou.one/episodes/145204/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145204_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "145205",
+            "sub": "https://storage.diziyou.one/episodes/145205/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145205_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "145206",
+            "sub": "https://storage.diziyou.one/episodes/145206/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145206_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "145207",
+            "sub": "https://storage.diziyou.one/episodes/145207/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145207_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "145208",
+            "sub": "https://storage.diziyou.one/episodes/145208/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145208_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 9. Bölüm",
+            "id": "145209",
+            "sub": "https://storage.diziyou.one/episodes/145209/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145209_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 10. Bölüm",
+            "id": "145210",
+            "sub": "https://storage.diziyou.one/episodes/145210/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145210_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "145211",
+            "sub": "https://storage.diziyou.one/episodes/145211/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145211_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 12. Bölüm",
+            "id": "145212",
+            "sub": "https://storage.diziyou.one/episodes/145212/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/145212_tr/play.m3u8"
+        }
+    ]
+}
