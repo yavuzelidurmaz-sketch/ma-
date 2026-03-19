@@ -16447,10 +16447,6 @@ https://storage.diziyou.one/episodes/24207_tr/play.m3u8
 https://storage.diziyou.one/episodes/24208/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-good-detective.jpg" group-title="The Good Detective" tvg-rating="0.0", The Good Detective - 1. Sezon 8. Bölüm (Dublaj)
 https://storage.diziyou.one/episodes/24208_tr/play.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-good-detective.jpg" group-title="The Good Detective" tvg-rating="0.0", The Good Detective - 1. Sezon 9. Bölüm (Altyazı)
-https://storage.diziyou.one/episodes/24209/play.m3u8
-#EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-good-detective.jpg" group-title="The Good Detective" tvg-rating="0.0", The Good Detective - 1. Sezon 9. Bölüm (Dublaj)
-https://storage.diziyou.one/episodes/24209_tr/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-good-detective.jpg" group-title="The Good Detective" tvg-rating="0.0", The Good Detective - 1. Sezon 10. Bölüm (Altyazı)
 https://storage.diziyou.one/episodes/24210/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/the-good-detective.jpg" group-title="The Good Detective" tvg-rating="0.0", The Good Detective - 1. Sezon 10. Bölüm (Dublaj)
@@ -46711,10 +46707,18 @@ https://storage.diziyou.one/episodes/107203_tr/play.m3u8
 https://storage.diziyou.one/episodes/107204/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 4. Bölüm (Dublaj)
 https://storage.diziyou.one/episodes/107204_tr/play.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 5. Bölüm (Altyazı)
+https://storage.diziyou.one/episodes/107205/play.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 5. Bölüm (Dublaj)
+https://storage.diziyou.one/episodes/107205_tr/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 6. Bölüm (Altyazı)
 https://storage.diziyou.one/episodes/107206/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 6. Bölüm (Dublaj)
 https://storage.diziyou.one/episodes/107206_tr/play.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 7. Bölüm (Altyazı)
+https://storage.diziyou.one/episodes/107207/play.m3u8
+#EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 7. Bölüm (Dublaj)
+https://storage.diziyou.one/episodes/107207_tr/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 8. Bölüm (Altyazı)
 https://storage.diziyou.one/episodes/107208/play.m3u8
 #EXTINF:-1 tvg-id="None" tvg-logo="https://cdn.diziyou.one/wp-content/uploads/posters/nemesis.jpg" group-title="Nemesis" tvg-rating="0.0", Nemesis - 1. Sezon 8. Bölüm (Dublaj)
