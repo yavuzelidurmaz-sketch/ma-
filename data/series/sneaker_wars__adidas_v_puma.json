@@ -10,24 +10,5 @@
     "cast": [],
     "country": "",
     "summary": "",
-    "episodes": [
-        {
-            "name": "1. Sezon 1. Bölüm",
-            "id": "136001",
-            "sub": "https://storage.diziyou.one/episodes/136001/play.m3u8",
-            "dub": "https://storage.diziyou.one/episodes/136001_tr/play.m3u8"
-        },
-        {
-            "name": "1. Sezon 2. Bölüm",
-            "id": "136002",
-            "sub": "https://storage.diziyou.one/episodes/136002/play.m3u8",
-            "dub": "https://storage.diziyou.one/episodes/136002_tr/play.m3u8"
-        },
-        {
-            "name": "1. Sezon 3. Bölüm",
-            "id": "136003",
-            "sub": "https://storage.diziyou.one/episodes/136003/play.m3u8",
-            "dub": "https://storage.diziyou.one/episodes/136003_tr/play.m3u8"
-        }
-    ]
+    "episodes": []
 }
