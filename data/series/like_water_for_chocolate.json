@@ -76,6 +76,12 @@
             "id": "149111",
             "sub": "https://storage.diziyou.one/episodes/149111/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/149111_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 6. Bölüm",
+            "id": "149112",
+            "sub": "https://storage.diziyou.one/episodes/149112/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/149112_tr/play.m3u8"
         }
     ]
 }

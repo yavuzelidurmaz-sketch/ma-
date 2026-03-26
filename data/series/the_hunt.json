@@ -34,6 +34,12 @@
             "id": "150404",
             "sub": "https://storage.diziyou.one/episodes/150404/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/150404_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "150405",
+            "sub": "https://storage.diziyou.one/episodes/150405/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150405_tr/play.m3u8"
         }
     ]
 }

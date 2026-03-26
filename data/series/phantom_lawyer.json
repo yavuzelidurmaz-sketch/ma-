@@ -22,6 +22,18 @@
             "id": "152302",
             "sub": "https://storage.diziyou.one/episodes/152302/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/152302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "152303",
+            "sub": "https://storage.diziyou.one/episodes/152303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "152304",
+            "sub": "https://storage.diziyou.one/episodes/152304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152304_tr/play.m3u8"
         }
     ]
 }
