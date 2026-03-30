@@ -46,6 +46,18 @@
             "id": "152406",
             "sub": "https://storage.diziyou.one/episodes/152406/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/152406_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "152407",
+            "sub": "https://storage.diziyou.one/episodes/152407/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152407_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "152408",
+            "sub": "https://storage.diziyou.one/episodes/152408/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/152408_tr/play.m3u8"
         }
     ]
 }
