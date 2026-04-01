@@ -64,6 +64,12 @@
             "id": "120409",
             "sub": "https://storage.diziyou.one/episodes/120409/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/120409_tr/play.m3u8"
+        },
+        {
+            "name": "2. Sezon 1. Bölüm",
+            "id": "120410",
+            "sub": "https://storage.diziyou.one/episodes/120410/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/120410_tr/play.m3u8"
         }
     ]
 }
