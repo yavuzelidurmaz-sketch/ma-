@@ -70,6 +70,12 @@
             "id": "150010",
             "sub": "https://storage.diziyou.one/episodes/150010/play.m3u8",
             "dub": "https://storage.diziyou.one/episodes/150010_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 11. Bölüm",
+            "id": "150011",
+            "sub": "https://storage.diziyou.one/episodes/150011/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/150011_tr/play.m3u8"
         }
     ]
 }
