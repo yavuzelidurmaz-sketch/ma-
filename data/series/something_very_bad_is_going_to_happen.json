@@ -1,0 +1,63 @@
+{
+    "title": "Something Very Bad Is Going to Happen",
+    "original_title": "Something Very Bad Is Going to Happen",
+    "url": "https://www.diziyou.one/something-very-bad-is-going-to-happen/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/something-very-bad-is-going-to-happen.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "153501",
+            "sub": "https://storage.diziyou.one/episodes/153501/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153501_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "153502",
+            "sub": "https://storage.diziyou.one/episodes/153502/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153502_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "153503",
+            "sub": "https://storage.diziyou.one/episodes/153503/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153503_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "153504",
+            "sub": "https://storage.diziyou.one/episodes/153504/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153504_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "153505",
+            "sub": "https://storage.diziyou.one/episodes/153505/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153505_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "153506",
+            "sub": "https://storage.diziyou.one/episodes/153506/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153506_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 7. Bölüm",
+            "id": "153507",
+            "sub": "https://storage.diziyou.one/episodes/153507/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153507_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 8. Bölüm",
+            "id": "153508",
+            "sub": "https://storage.diziyou.one/episodes/153508/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153508_tr/play.m3u8"
+        }
+    ]
+}

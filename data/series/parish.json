@@ -1,0 +1,51 @@
+{
+    "title": "Parish",
+    "original_title": "Parish",
+    "url": "https://www.diziyou.one/parish/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/parish.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "153901",
+            "sub": "https://storage.diziyou.one/episodes/153901/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153901_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "153902",
+            "sub": "https://storage.diziyou.one/episodes/153902/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153902_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "153903",
+            "sub": "https://storage.diziyou.one/episodes/153903/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153903_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "153904",
+            "sub": "https://storage.diziyou.one/episodes/153904/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153904_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "153905",
+            "sub": "https://storage.diziyou.one/episodes/153905/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153905_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "153906",
+            "sub": "https://storage.diziyou.one/episodes/153906/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153906_tr/play.m3u8"
+        }
+    ]
+}

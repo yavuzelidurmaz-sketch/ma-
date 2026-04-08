@@ -1,0 +1,45 @@
+{
+    "title": "Radioactive Emergency",
+    "original_title": "Radioactive Emergency",
+    "url": "https://www.diziyou.one/radioactive-emergency/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/radioactive-emergency.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "153001",
+            "sub": "https://storage.diziyou.one/episodes/153001/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153001_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "153002",
+            "sub": "https://storage.diziyou.one/episodes/153002/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153002_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "153003",
+            "sub": "https://storage.diziyou.one/episodes/153003/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153003_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "153004",
+            "sub": "https://storage.diziyou.one/episodes/153004/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153004_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "153005",
+            "sub": "https://storage.diziyou.one/episodes/153005/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153005_tr/play.m3u8"
+        }
+    ]
+}

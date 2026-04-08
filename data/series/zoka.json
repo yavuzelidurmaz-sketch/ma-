@@ -1,0 +1,51 @@
+{
+    "title": "Zoka",
+    "original_title": "Zoka",
+    "url": "https://www.diziyou.one/zoka/",
+    "poster": "https://cdn.diziyou.one/wp-content/uploads/posters/zoka.jpg",
+    "imdb_score": "0.0",
+    "imdb_id": null,
+    "release_year": "",
+    "genres": [],
+    "cast": [],
+    "country": "",
+    "summary": "",
+    "episodes": [
+        {
+            "name": "1. Sezon 1. Bölüm",
+            "id": "153301",
+            "sub": "https://storage.diziyou.one/episodes/153301/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153301_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 2. Bölüm",
+            "id": "153302",
+            "sub": "https://storage.diziyou.one/episodes/153302/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153302_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 3. Bölüm",
+            "id": "153303",
+            "sub": "https://storage.diziyou.one/episodes/153303/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153303_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 4. Bölüm",
+            "id": "153304",
+            "sub": "https://storage.diziyou.one/episodes/153304/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153304_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 5. Bölüm",
+            "id": "153305",
+            "sub": "https://storage.diziyou.one/episodes/153305/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153305_tr/play.m3u8"
+        },
+        {
+            "name": "1. Sezon 6. Bölüm",
+            "id": "153306",
+            "sub": "https://storage.diziyou.one/episodes/153306/play.m3u8",
+            "dub": "https://storage.diziyou.one/episodes/153306_tr/play.m3u8"
+        }
+    ]
+}
